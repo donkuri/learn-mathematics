@@ -74,6 +74,8 @@ Precalculus deals with high school subjects before calculus is introduced. This 
 
 **[Precalculus Mathematics in a Nutshell](https://www.amazon.com/Precalculus-Mathematics-Nutshell-Geometry-Trigonometry/dp/1592441300/)**, *George F. Simmons*
 
+<img src="/img/simmons.jpg" alt="Simmons" width="200px"/>
+
 ![Simmons](/img/simmons.jpg)
 
 ### Calculus
