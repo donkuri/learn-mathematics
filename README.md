@@ -1,3 +1,3 @@
-# A mathematics undergraduate curriculum
+# Learn Mathematics
 
-This is the repository for the math undergrad curriculum website.
+This is the repository for the [Learn Mathematics](https://donkuri.github.io/learn-mathematics) website.
