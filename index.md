@@ -12,20 +12,20 @@
 			- [High School Mathematics](#high-school-mathematics)
 		- [First steps](#first-steps)
 			- [Calculus](#calculus)
-			- [Proof Techniques](#proofs)
+			- [Proof Techniques](#proof-techniques)
 			- [Set Theory](#set-theory)
 	- [Mastering the fundamentals](#mastering-the-fundamentals)
 		- [Building Foundations](#building-foundations)
 			- [Linear Algebra](#linear-algebra)
 			- [Real Analysis](#real-analysis)
 			- [Discrete Mathematics](#discrete-mathematics)
-			- [Basic Number Theory](#elementary-number-theory)
+			- [Basic Number Theory](#basic-number-theory)
 		- [Abstraction and Generalization](#abstraction-and-generalization)
 			- [Abstract Algebra](#abstract-algebra)
 			- [General Topology](#general-topology)
 			- [Vector Analysis](#vector-analysis)
 			- [Classical Differential Geometry](#classical-differential-geometry)
-- [Part II: Electives]
+- [Part II: Electives](part-ii-electives)
 	- [Diving deeper](#diving-deeper)
 		- [Analysis](#analysis)
 			- [Fourier Analysis](#fourier-analysis)
@@ -50,7 +50,7 @@
 			- [Knot Theory](#knot-theory)
 			- [Homotopy Theory](#homotopy-theory)
 		- [Differential Geometry](#differential-geometry)
-			- [Smooth Manifolds](#modern-differential-geometry)
+			- [Smooth Manifolds](#smooth-manifolds)
 			- [Riemannian Geometry](#riemannian-geometry)
 			- [Lie Groups](#lie-groups)
 			- [Symplectic Geometry](#symplectic-geometry)
@@ -72,7 +72,7 @@
 			- [Mathematical Logic](#mathematical-logic)
 			- [Statistics](#statistics)
 			- [Game Theory](#game-theory)
-	- [Applications](#applicaitons)
+	- [Applications](#applications)
 		- [Physics](#physics)
 			- [Classical Mechanics](#classical-mechanics)
 			- [Quantum Mechanics](#quantum-mechanics)
@@ -109,15 +109,19 @@ Do not be too quick to look up the solution to the exercise. You learn most when
 
 # Part I: Core Subjects
 
-
+This part deals with common subjects found in most undergraduate mathematics degree. There isn't really any subject here I would skip, all of them are important in helping you acquire mathematical maturity, as well as a general understanding of the various basic structures in mathematics.
 
 ## Discovering the basics
 
-
+This section is mostly concerned with revisiting things you should have seen in high school, as well as strengthening your mathematical dexterity by introducing proofs into the mix.
 
 ### Prerequisites
 
+#### How to Learn
 
+I believe learning how to learn is very important and something that is rarely discussed outright. I suggest following [this course](https://www.coursera.org/learn/learning-how-to-learn?). 
+
+#### High school mathematics
 
 ### First steps
 
