@@ -70,7 +70,11 @@ Learning how to learn is very important and something that is rarely discussed o
 
 ### Precalculus
 
-The main book I recommend to review this is:
+Precalculus deals with high school subjects before calculus is introduced. This means functions, (in)equations, analytic geometry, trigonometry and sometimes matrices as well as limits. There are a myriad of books you can use for this, and I suggest you find one you like. Here is my favorite:
+
+**[Precalculus Mathematics in a Nutshell](https://www.amazon.com/Precalculus-Mathematics-Nutshell-Geometry-Trigonometry/dp/1592441300/)**, *George F. Simmons*
+
+![Simmons](/img/simmons.jpg)
 
 ### Calculus
 
