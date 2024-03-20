@@ -1,6 +1,4 @@
-# A mathematics study plan
-
-## Contents
+# Contents
 
 - [Introductory remarks](#introduction)
 	- [What is this?](#what-is-this)
