@@ -116,39 +116,15 @@ You should do everything here. Do notice chapter 13 will be revisited in the rea
 
 ## Building foundations
 
-
+In this section, we now move on to actual mathematics major classes. If you have done everything in the past section, you are now ready for it. That doesn't mean it will be easy, however. There is a definitely a jump in difficulty here, and it is normal. The good news is that it will probably the hardest jump you'll have to clear.
 
 ### Linear Algebra
 
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
 ### Real Analysis
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ### Discrete Mathematics
 
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
 ### Basic Number Theory
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ## Mastering the fundamentals
 
@@ -156,43 +132,12 @@ You should do everything here. Do notice chapter 13 will be revisited in the rea
 
 ### Abstract Algebra
 
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
 ### General Topology
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ### Vector Analysis
 
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
 ### Classical Differential Geometry
 
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
-
-**[]()**, **
-
-<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 # Part II: Electives
 
