@@ -100,7 +100,7 @@ Calculus deals with infinity in a computational manner, you learn to take deriva
 
 **[APEX Calculus](https://leanpub.com/apexcalculus)**, *Gregory Hartman*
 
-<img src="/learn-mathematics/img/apex.jpg" alt="APEX" width="400px"/>
+<img src="/learn-mathematics/img/apex.png" alt="APEX" width="400px"/>
 
 I suggest you do every chapter in the book, keeping in mind that this will take you a large amount of times. There are many, many exercises and you probably shouldn't do every single one of them before moving on. When you feel like you've understood the concept well enough, and you've done enough drills then go to the next section.
 
@@ -126,6 +126,8 @@ In this section, we now move on to actual mathematics major classes. If you have
 
 ### Basic Number Theory
 
+
+
 ## Mastering the fundamentals
 
 
@@ -143,187 +145,187 @@ In this section, we now move on to actual mathematics major classes. If you have
 
 
 
-### Analysis
+## Analysis
 
 
 
-#### Fourier Analysis
+### Fourier Analysis
 
 
 
-#### Complex Analysis
+### Complex Analysis
 
 
 
-#### Functional Analysis
+### Functional Analysis
 
 
 
-#### Measure Theory and Probability
+### Measure Theory and Probability
 
 
 
-#### Harmonic Analysis
+### Harmonic Analysis
 
 
 
-#### Dynamical Systems
+### Dynamical Systems
 
 
 
-#### Ordinary Differential Equations
+### Ordinary Differential Equations
 
 
 
-#### Partial Differential Equations
+### Partial Differential Equations
 
 
 
-#### Stochastic Processes
+### Stochastic Processes
 
 
 
-### Algebra
+## Algebra
 
 
 
-#### Graduate Algebra
+### Graduate Algebra
 
 
 
-#### Galois Theory
+### Galois Theory
 
 
 
-#### Commutative Algebra
+### Commutative Algebra
 
 
 
-#### Homological Algebra
+### Homological Algebra
 
 
 
-#### Representation Theory
+### Representation Theory
 
 
 
-#### Lie Algebras
+### Lie Algebras
 
 
 
-### Topology
+## Topology
 
 
 
-#### Algebraic Topology
+### Algebraic Topology
 
 
 
-#### Cohomology Theory
+### Cohomology Theory
 
 
 
-#### Knot Theory
+### Knot Theory
 
 
 
-#### Homotopy Theory
+### Homotopy Theory
 
 
 
-### Differential Geometry
+## Differential Geometry
 
 
 
-#### Smooth Manifolds
+### Smooth Manifolds
 
 
 
-#### Riemannian Geometry
+### Riemannian Geometry
 
 
 
-#### Lie Groups
+### Lie Groups
 
 
 
-#### Symplectic Geometry
+### Symplectic Geometry
 
 
 
-#### Symplectic Topology
+### Symplectic Topology
 
 
 
-### Algebraic Geometry
+## Algebraic Geometry
 
 
 
-#### Classical Algebraic Geometry
+### Classical Algebraic Geometry
 
 
 
-#### Modern Algebraic Geometry
+### Modern Algebraic Geometry
 
 
 
-#### Complex Geometry
+### Complex Geometry
 
 
 
-#### Étale Cohomology
+### Étale Cohomology
 
 
 
-#### Algebraic Groups
+### Algebraic Groups
 
 
 
-#### Arithmetic Geometry
+### Arithmetic Geometry
 
 
 
-### Number Theory
+## Number Theory
 
 
 
-#### Analytic Number Theory
+### Analytic Number Theory
 
 
 
-#### Elliptic Curves
+### Elliptic Curves
 
 
 
-#### Algebraic Number Theory
+### Algebraic Number Theory
 
 
 
-#### p-Adic Analysis
+### p-Adic Analysis
 
 
 
-#### Modular and Automorphic Forms
+### Modular and Automorphic Forms
 
 
 
-### Miscellaneous
+## Miscellaneous
 
 
 
-#### Category Theory
+### Category Theory
 
 
 
-#### Mathematical Logic
+### Mathematical Logic
 
 
 
-#### Statistics
+### Statistics
 
 
 
-#### Game Theory
+### Game Theory
 
 
 
