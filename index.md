@@ -70,13 +70,13 @@ Learning how to learn is very important and something that is rarely discussed o
 
 **[A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X)**, *Barbara Oakley*
 
-<img src="/img/learn-mathematics/oakley.jpg" alt="Oakley" width"200px"/>
+<img src="/img/learn-mathematics/oakley.jpg" alt="Oakley" width="200px"/>
 
 The book [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) is a great way to learn about creating habits. I suggest you make learning mathematics a part of your daily routine, if you're serious about learning it. Another good idea would be to read this:
 
 **[How to Think Like a Mathematician](https://www.amazon.com/How-Think-Like-Mathematician-Undergraduate/dp/052171978X/)**, *Steve Houston*
 
-<img src="/img/learn-mathematics/houston.jpg" alt="Houston" width"200px"/>
+<img src="/img/learn-mathematics/houston.jpg" alt="Houston" width="200px"/>
 
 ### Precalculus
 
@@ -88,7 +88,7 @@ Precalculus deals with high school subjects before calculus is introduced. This 
 
 The book is short, so do everything in there. Another option is to read Lang's precalculus book, although if you do use it, be sure to look for an errata online because I remember it having quite a few mistakes and typos. It's what you might call "old school", from one of the greatest math textbook writer of all time, part of the influential [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki).
 
-**[Basic Mathematics]**, *Serge Lang*
+**[Basic Mathematics](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)**, *Serge Lang*
 
 <img src="/learn-mathematics/img/lang-basic_mathematics.jpg" alt="Basic Mathematics" width="200px"/>
 
@@ -96,11 +96,23 @@ Make sure you are extremely comfortable with algebra and trigonometry before mov
 
 ### Calculus
 
+Calculus deals with infinity in a computational manner, you learn to take derivatives and integrals as you try to understand how to relate the infinitesimally small with the infinitely large. We will come back to these questions in a deeper way in the [real analysis section](#real-analysis), but this subsection is concerned more with the application of these tools to solve problems such as optimizing functions and finding volumes of revolution. My favorite book happens to have a "pay what you want" model:
 
+**[APEX Calculus](https://leanpub.com/apexcalculus)**, *Gregory Hartman*
+
+<img src="/img/learn-mathematics/apex.jpg" alt="APEX" width="400px"/>
+
+I suggest you do every chapter in the book, keeping in mind that this will take you a large amount of times. There are many, many exercises and you probably shouldn't do every single one of them before moving on. When you feel like you've understood the concept well enough, and you've done enough drills then go to the next section.
 
 ### Proof Techniques
 
+In this section, we take some time to learn basic proof patterns and how they are used in mathematics to make sure we are correct in our arguments. Proofs are not the end all be all of mathematics, but rigor is necessary to avoid nonsense as [19th century mathematics proved time and time again](https://link.springer.com/book/10.1007/978-3-319-23715-2). I like this free book:
 
+**[Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)**, *Richard Hammack*
+
+<img src="/img/learn-mathematics/hammack.jpg" alt="Hammack" width="200px"/>
+
+You should do everything here. Do notice chapter 13 will be revisited in the real analysis section, but it's not a bad idea to see it here first.
 
 ## Building foundations
 
@@ -108,19 +120,35 @@ Make sure you are extremely comfortable with algebra and trigonometry before mov
 
 ### Linear Algebra
 
+**[]()**, **
 
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
+
+**[]()**, **
+
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ### Real Analysis
 
+**[]()**, **
 
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
+
+**[]()**, **
+
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ### Discrete Mathematics
 
+**[]()**, **
 
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ### Basic Number Theory
 
+**[]()**, **
 
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ## Mastering the fundamentals
 
@@ -128,19 +156,43 @@ Make sure you are extremely comfortable with algebra and trigonometry before mov
 
 ### Abstract Algebra
 
+**[]()**, **
 
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
+
+**[]()**, **
+
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
+
+**[]()**, **
+
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ### General Topology
 
+**[]()**, **
 
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
+
+**[]()**, **
+
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ### Vector Analysis
 
+**[]()**, **
 
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 ### Classical Differential Geometry
 
+**[]()**, **
 
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
+
+**[]()**, **
+
+<img src="/img/learn-mathematics/.jpg" alt="" width"200px"/>
 
 # Part II: Electives
 
