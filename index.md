@@ -8,7 +8,7 @@
 - [Part I: Core Subjects](#part-i-core-subjects)
 	- [Discovering the basics](#discovering-the-basics)
 		- [How to Learn](#how-to-learn)
-		- [Precalculus](#high-school-mathematics)
+		- [Precalculus](#precalculus)
 		- [Calculus](#calculus)
 		- [Proof Techniques](#proof-techniques)
 	- [Building Foundations](#building-foundations)
@@ -74,11 +74,13 @@ Precalculus deals with high school subjects before calculus is introduced. This 
 
 **[Precalculus Mathematics in a Nutshell](https://www.amazon.com/Precalculus-Mathematics-Nutshell-Geometry-Trigonometry/dp/1592441300/)**, *George F. Simmons*
 
-<img src="/img/simmons.jpg" alt="Simmons" width="200px"/>
+<img src="/learn-mathematics/img/simmons.jpg" alt="Simmons" width="200px"/>
 
-![Simmons](/img/simmons.jpg)
+The book is short, so do everything in there. In general, make sure you are extremely comfortable with algebra and trigonometry before moving on.
 
 ### Calculus
+
+
 
 ### Proof Techniques
 
