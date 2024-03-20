@@ -84,13 +84,13 @@ Precalculus deals with high school subjects before calculus is introduced. This 
 
 **[Precalculus Mathematics in a Nutshell](https://www.amazon.com/Precalculus-Mathematics-Nutshell-Geometry-Trigonometry/dp/1592441300/)**, *George F. Simmons*
 
-<img src="/learn-mathematics/img/simmons.jpg" alt="Simmons" width="200px"/>
+<img src="/img/learn-mathematics/simmons.jpg" alt="Simmons" width="200px"/>
 
 The book is short, so do everything in there. Another option is to read Lang's precalculus book, although if you do use it, be sure to look for an errata online because I remember it having quite a few mistakes and typos. It's what you might call "old school", from one of the greatest math textbook writer of all time, part of the influential [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki).
 
 **[Basic Mathematics](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)**, *Serge Lang*
 
-<img src="/learn-mathematics/img/lang-basic_mathematics.jpg" alt="Basic Mathematics" width="200px"/>
+<img src="/img/learn-mathematics/lang-basic_mathematics.jpg" alt="Basic Mathematics" width="200px"/>
 
 Make sure you are extremely comfortable with algebra and trigonometry before moving on. 
 
