@@ -7,83 +7,32 @@
 	- [How should I study mathematics?](#how-to-study-mathematics)
 - [Part I: Core Subjects](#part-i-core-subjects)
 	- [Discovering the basics](#discovering-the-basics)
-		- [Prerequisites](#prerequisites)
-			- [How to Learn](#how-to-learn)
-			- [High School Mathematics](#high-school-mathematics)
-		- [First steps](#first-steps)
-			- [Calculus](#calculus)
-			- [Proof Techniques](#proof-techniques)
-			- [Set Theory](#set-theory)
+		- [How to Learn](#how-to-learn)
+		- [Precalculus](#high-school-mathematics)
+		- [Calculus](#calculus)
+		- [Proof Techniques](#proof-techniques)
+	- [Building Foundations](#building-foundations)
+		- [Linear Algebra](#linear-algebra)
+		- [Real Analysis](#real-analysis)
+		- [Discrete Mathematics](#discrete-mathematics)
+		- [Basic Number Theory](#basic-number-theory)
 	- [Mastering the fundamentals](#mastering-the-fundamentals)
-		- [Building Foundations](#building-foundations)
-			- [Linear Algebra](#linear-algebra)
-			- [Real Analysis](#real-analysis)
-			- [Discrete Mathematics](#discrete-mathematics)
-			- [Basic Number Theory](#basic-number-theory)
-		- [Abstraction and Generalization](#abstraction-and-generalization)
-			- [Abstract Algebra](#abstract-algebra)
-			- [General Topology](#general-topology)
-			- [Vector Analysis](#vector-analysis)
-			- [Classical Differential Geometry](#classical-differential-geometry)
+		- [Abstract Algebra](#abstract-algebra)
+		- [General Topology](#general-topology)
+		- [Vector Analysis](#vector-analysis)
+		- [Classical Differential Geometry](#classical-differential-geometry)
 - [Part II: Electives](part-ii-electives)
 	- [Diving deeper](#diving-deeper)
 		- [Analysis](#analysis)
-			- [Fourier Analysis](#fourier-analysis)
-			- [Complex Analysis](#complex-analysis)
-			- [Functional Analysis](#functional-analysis)
-			- [Measure Theory and Probability](#measure-theory-and-probability)
-			- [Harmonic Analysis](#harmonic-analysis)
-			- [Dynamical Systems](#dynamical-systems)
-			- [Orrdinary Differential Equations](#ordinary-differential-equations)
-			- [Partial Differential Equations](#partial-differential-equations)
-			- [Stochastic Processes](#stochastic-processes)
 		- [Algebra](#algebra)
-			- [Graduate Algebra](#graduate-algebra)
-			- [Galois Theory](#galois-theory)
-			- [Commutative Algebra](#commutative-algebra)
-			- [Homological Algebra](#homological-algebra)
-			- [Representation Theory](#representation-theory)
-			- [Lie Algebras](#lie-algebras)
 		- [Topology](#topology)
-			- [Algebraic Topology](#algebraic-topology)
-			- [Cohomology Theory](#cohomology-theory)
-			- [Knot Theory](#knot-theory)
-			- [Homotopy Theory](#homotopy-theory)
 		- [Differential Geometry](#differential-geometry)
-			- [Smooth Manifolds](#smooth-manifolds)
-			- [Riemannian Geometry](#riemannian-geometry)
-			- [Lie Groups](#lie-groups)
-			- [Symplectic Geometry](#symplectic-geometry)
-			- [Symplectic Topology](#symplectic-topology)
 		- [Algebraic Geometry](#algebraic-geometry)
-			- [Classical Algebraic Geometry](#classical-algebraic-geometry)
-			- [Modern Algebraic Geometry](#modern-algebraic-geometry)
-			- [Complex Geometry](#complex-geometry)
-			- [Étale Cohomology](#etale-cohomology)
-			- [Algebraic Groups](#algebraic-groups)
-			- [Arithmetic Geometry](#arithmetic-geometry)
 		- [Number Theory](#number-theory)
-			- [Analytic Number Theory](#analytic-number-theory)
-			- [Elliptic Curves](#elliptic-curves)
-			- [Algebraic Number Theory](#algebraic-number-theory)
-			- [p-Adic Analysis](#p-adic-analysis)
 		- [Miscellaneous](#miscellaneous)
-			- [Category Theory](#category-theory)
-			- [Mathematical Logic](#mathematical-logic)
-			- [Statistics](#statistics)
-			- [Game Theory](#game-theory)
 	- [Applications](#applications)
 		- [Physics](#physics)
-			- [Classical Mechanics](#classical-mechanics)
-			- [Quantum Mechanics](#quantum-mechanics)
-			- [Gauge Theory](#gauge-theory)
-			- [Relativity](#relativity)
-			- [Quantum Field Theory](#quantum-field-theory)
 		- [Computer Science](#computer-science)
-			- [Numerical Analysis](#numerical-analysis)
-			- [Cryptography](#cryptography)
-			- [Coding Theory](#coding-theory)
-			- [Wavelet Analysis](#wavelet-analysis)
 
 # Introductory remarks
 
@@ -113,17 +62,39 @@ This part deals with common subjects found in most undergraduate mathematics deg
 
 ## Discovering the basics
 
-This section is mostly concerned with revisiting things you should have seen in high school, as well as strengthening your mathematical dexterity by introducing proofs into the mix.
+This section is mostly concerned with revisiting things you should have seen in high school, as well as strengthening your mathematical dexterity by introducing proofs into the mix. Even at this level, we can find [conjectures that seem hopelessly difficult](https://en.wikipedia.org/wiki/Collatz_conjecture) or that have [evaded mathematicians for decades](https://en.wikipedia.org/wiki/Jacobian_conjecture). Mathematics is by nature a pyramide of knowledge, everything builds from the basics, so spend adequate time to study them properly.
 
-### Prerequisites
+### How to Learn
 
-#### How to Learn
+Learning how to learn is very important and something that is rarely discussed outright. I suggest following [this course](https://www.coursera.org/learn/learning-how-to-learn?). The book [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) is a great way to learn about creating habits. I suggest you make learning mathematics a part of your daily routine, if you're serious about learning it.
 
-I believe learning how to learn is very important and something that is rarely discussed outright. I suggest following [this course](https://www.coursera.org/learn/learning-how-to-learn?). 
+### Precalculus
 
-#### High school mathematics
+The main book I recommend to review this is:
 
-### First steps
+### Calculus
+
+### Proof Techniques
+
+
+
+## Building foundations
+
+
+
+### Linear Algebra
+
+
+
+### Real Analysis
+
+
+
+### Discrete Mathematics
+
+
+
+### Basic Number Theory
 
 
 
@@ -131,11 +102,19 @@ I believe learning how to learn is very important and something that is rarely d
 
 
 
-### Building foundations
+### Abstract Algebra
 
 
 
-### Abstraction and Generalization
+### General Topology
+
+
+
+### Vector Analysis
+
+
+
+### Classical Differential Geometry
 
 
 
@@ -143,11 +122,43 @@ I believe learning how to learn is very important and something that is rarely d
 
 
 
-## Diving deeper
-
-
-
 ### Analysis
+
+
+
+#### Fourier Analysis
+
+
+
+#### Complex Analysis
+
+
+
+#### Functional Analysis
+
+
+
+#### Measure Theory and Probability
+
+
+
+#### Harmonic Analysis
+
+
+
+#### Dynamical Systems
+
+
+
+#### Ordinary Differential Equations
+
+
+
+#### Partial Differential Equations
+
+
+
+#### Stochastic Processes
 
 
 
@@ -155,7 +166,47 @@ I believe learning how to learn is very important and something that is rarely d
 
 
 
+#### Graduate Algebra
+
+
+
+#### Galois Theory
+
+
+
+#### Commutative Algebra
+
+
+
+#### Homological Algebra
+
+
+
+#### Representation Theory
+
+
+
+#### Lie Algebras
+
+
+
 ### Topology
+
+
+
+#### Algebraic Topology
+
+
+
+#### Cohomology Theory
+
+
+
+#### Knot Theory
+
+
+
+#### Homotopy Theory
 
 
 
@@ -163,7 +214,51 @@ I believe learning how to learn is very important and something that is rarely d
 
 
 
+#### Smooth Manifolds
+
+
+
+#### Riemannian Geometry
+
+
+
+#### Lie Groups
+
+
+
+#### Symplectic Geometry
+
+
+
+#### Symplectic Topology
+
+
+
 ### Algebraic Geometry
+
+
+
+#### Classical Algebraic Geometry
+
+
+
+#### Modern Algebraic Geometry
+
+
+
+#### Complex Geometry
+
+
+
+#### Étale Cohomology
+
+
+
+#### Algebraic Groups
+
+
+
+#### Arithmetic Geometry
 
 
 
@@ -171,7 +266,43 @@ I believe learning how to learn is very important and something that is rarely d
 
 
 
+#### Analytic Number Theory
+
+
+
+#### Elliptic Curves
+
+
+
+#### Algebraic Number Theory
+
+
+
+#### p-Adic Analysis
+
+
+
+#### Modular and Automorphic Forms
+
+
+
 ### Miscellaneous
+
+
+
+#### Category Theory
+
+
+
+#### Mathematical Logic
+
+
+
+#### Statistics
+
+
+
+#### Game Theory
 
 
 
@@ -183,5 +314,41 @@ I believe learning how to learn is very important and something that is rarely d
 
 
 
+#### Classical Mechanics
+
+
+
+#### Quantum Mechanics
+
+
+
+#### Relativity
+
+
+
+#### Gauge Theory
+
+
+
+#### Quantum Field Theory
+
+
+
 ### Computer Science
+
+
+
+#### Numerical Analysis
+
+
+
+#### Cryptography
+
+
+
+#### Coding Theory
+
+
+
+#### Wavelet Analysis
 
