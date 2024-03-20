@@ -7,7 +7,7 @@
 	- [How should I study mathematics?](#how-to-study-mathematics)
 - [Part I: Core Subjects](#part-i-core-subjects)
 	- [Discovering the basics](#discovering-the-basics)
-		- [How to Learn](#how-to-learn)
+		- [Learning and metacognition](#learning-and-metacognition)
 		- [Precalculus](#precalculus)
 		- [Calculus](#calculus)
 		- [Proof Techniques](#proof-techniques)
@@ -64,9 +64,19 @@ This part deals with common subjects found in most undergraduate mathematics deg
 
 This section is mostly concerned with revisiting things you should have seen in high school, as well as strengthening your mathematical dexterity by introducing proofs into the mix. Even at this level, we can find [conjectures that seem hopelessly difficult](https://en.wikipedia.org/wiki/Collatz_conjecture) or that have [evaded mathematicians for decades](https://en.wikipedia.org/wiki/Jacobian_conjecture). Mathematics is by nature a pyramide of knowledge, everything builds from the basics, so spend adequate time to study them properly.
 
-### How to Learn
+### Learning and metacognition
 
-Learning how to learn is very important and something that is rarely discussed outright. I suggest following [this course](https://www.coursera.org/learn/learning-how-to-learn?). The book [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) is a great way to learn about creating habits. I suggest you make learning mathematics a part of your daily routine, if you're serious about learning it.
+Learning how to learn is very important and something that is rarely discussed outright. I suggest following [this course](https://www.coursera.org/learn/learning-how-to-learn?). Alternatively, read the book:
+
+**[A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X)**, *Barbara Oakley*
+
+<img src="/img/learn-mathematics/oakley.jpg" alt="Oakley" width"200px"/>
+
+The book [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) is a great way to learn about creating habits. I suggest you make learning mathematics a part of your daily routine, if you're serious about learning it. Another good idea would be to read this:
+
+**[How to Think Like a Mathematician](https://www.amazon.com/How-Think-Like-Mathematician-Undergraduate/dp/052171978X/)**, *Steve Houston*
+
+<img src="/img/learn-mathematics/houston.jpg" alt="Houston" width"200px"/>
 
 ### Precalculus
 
@@ -76,7 +86,13 @@ Precalculus deals with high school subjects before calculus is introduced. This 
 
 <img src="/learn-mathematics/img/simmons.jpg" alt="Simmons" width="200px"/>
 
-The book is short, so do everything in there. In general, make sure you are extremely comfortable with algebra and trigonometry before moving on.
+The book is short, so do everything in there. Another option is to read Lang's precalculus book, although if you do use it, be sure to look for an errata online because I remember it having quite a few mistakes and typos. It's what you might call "old school", from one of the greatest math textbook writer of all time, part of the influential [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki).
+
+**[Basic Mathematics]**, *Serge Lang*
+
+<img src="/learn-mathematics/img/lang-basic_mathematics.jpg" alt="Basic Mathematics" width="200px"/>
+
+Make sure you are extremely comfortable with algebra and trigonometry before moving on. 
 
 ### Calculus
 
