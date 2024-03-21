@@ -19,7 +19,7 @@
 	- [Mastering the fundamentals](#mastering-the-fundamentals)
 		- [Abstract Algebra](#abstract-algebra)
 		- [General Topology](#general-topology)
-		- [Vector Analysis](#vector-analysis)
+		- [Ordinary Differential Equations](#ordinary-differential-equations)
 		- [Classical Differential Geometry](#classical-differential-geometry)
 - [Part II: Electives](part-ii-electives)
 	- [Analysis](#analysis)
@@ -101,7 +101,13 @@ Calculus deals with infinity in a computational manner, you learn to take deriva
 
 <img src="/learn-mathematics/img/apex.png" alt="APEX" width="400px"/>
 
-I suggest you do every chapter in the book, keeping in mind that this will take you a large amount of times. There are many, many exercises and you probably shouldn't do every single one of them before moving on. When you feel like you've understood the concept well enough, and you've done enough drills then go to the next section.
+I suggest you do every chapter in the book, keeping in mind that this will take you a large amount of times. There are many, many exercises and you probably shouldn't do every single one of them before moving on. When you feel like you've understood the concept well enough, and you've done enough drills then go to the next section. There is another absolutely fantastic book series that I can't help but recommend, although it is pretty old by now, but to me it is still the gold standard for calculus:
+
+**[Differential and Integral Calculus, Vol. 1-2](https://www.amazon.com/Differential-Integral-Calculus-Vol-1-ebook/dp/B08S74TL87/)**, *Nikolai S. Piskunov*
+
+<img src="/learn-mathematics/img/piskunov.png" alt="Piskunov" width="400px"/>
+
+This book is written in the Soviet style of mathematics: it is terse, with examples taken largely from physics (especially classical mechanics) and decently hard exercises. If that sounds appealing to you, go with that one. Better yet, use both!
 
 ### Proof Techniques
 
@@ -119,11 +125,79 @@ In this section, we now move on to actual mathematics major classes. If you have
 
 ### Linear Algebra
 
+Linear Algebra is the heart and soul of mathematics. In practically every field, our first instinct is to linearize problems and see if we can retrieve the original solution from it. It is central to everything that will follow and for this reason you need to be extremely proficient with it. Thankfully, the linear algebra textbooks that follow are of very good quality and my top recommendation is entirely free:
+
+**[Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)**, *Sergei Treil*
+
+<img src="/learn-mathematics/img/ladw.png" alt="LADW" width="200px"/>
+
+This book is just great. Don't be fooled by the cheeky name (probably a reference to the next book), this textbook is wonderful, with a great spread of exercises ranging from simple verification to more involved problems. I suggest doing everything in there. Another good text is the following classic:
+
+**[Linear Algebra Done Right](https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3031410254/)**, *Sheldon Axler*
+
+<img src="/learn-mathematics/img/ladr.jpg" alt="LADR" width="200px"/>
+
+The "Done Right" comes from the author's opinion that determinants tend to muddy up understanding of linear algebra among first year students who then go on to learn things the "wrong" way. I am not sure I agree all that much, but at least the textbook is consistent and well-written. I would use this one to supplement Linear Algebra Done Wrong and as a source of more exercises. There is one more book I recommend if you have never seen matrices before. This book is much simpler than either of the other two recommended textbooks and I'd get it if you feel like you're completely lost. I have only worked with the 4th and 5th editions, so I would suggest getting these:
+
+
+**[Linear Algebra and its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-Global/dp/1292351217/)**, *David C. Lay, et al*
+
+<img src="/learn-mathematics/img/lay.jpg" alt="Lay" width="200px"/>
+
 ### Real Analysis
+
+And now the subject that strikes fear in many undergraduate students: real analysis. This is the subject where you will truly have to wrestle with the definitions, propositions and proofs. Studying analysis requires a change of mindset and the acquisition of new tools that often confuse the beginning mathematician. For this reason, I offer you three main options, a complimentary counterexample book as well as a sort of study guide. The first book is perhaps my favorite mathematics textbook of all time:
+
+**[Understanding Analysis](https://www.amazon.com/Understanding-Analysis-Undergraduate-Texts-Mathematics-ebook/dp/B00XWDQUH4/)**, *Stephen Abbott*
+
+This is the book that made me fall in love with mathematics. Abbott is a master didactician and his introduction of analysis is thoroughly motivated, his style is clear and precise but is surprisingly gentle. I actually suggest you look at both the first and the second edition if you can, because they have different discussions to introduce the chapters. Perhaps the only issue with the text is I wish it'd have more really hard exercises to grind your teeth against. The next book fills that niche by having you construct most of the theory yourself:
+
+<img src="/learn-mathematics/img/abbott.jpg" alt="Abbott" width="200px"/>
+
+**[Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics-ebook/dp/B01LFAANIW/)**, *Terrence Tao*
+
+<img src="/learn-mathematics/img/tao.webp" alt="Tao" width="200px"/>
+
+What to say about Terrence Tao that hasn't already been said. Everyone always mentions [his famous blog](https://terrytao.wordpress.com/) and of course his many mathematical contributions. A Fields medalist, not only is he a master at mathematics, he's a master at mathematics writing and this text is a perfect example. It is definitely not easy as you are required to do a lot of the thinking behind the theory itself, but it is worth doing for precisely that reason. The power you get from constructing the course yourself is very exhilarating. With that said, I can't help but recommend one more book by Lang, this one slightly lesser known but still very good (I especially liked the discussion on potentials):
+
+**[Undergraduate Analysis](https://www.amazon.com/Undergraduate-Analysis-Texts-Mathematics/dp/0387948414)**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+For this one, I suggest you do the main sequence Lang proposes and then pick two-three special topics that interest you and study those. All three of these books focus on building examples to help you understand the theory, but counterexamples are just as important, even more so in analysis. This is where the following book helps:
+
+**[Counterexamples in Analysis](https://www.amazon.com/Counterexamples-Analysis-Dover-Books-Mathematics/dp/0486428753/)**, *Bernard R. Gelbaum, John M.H. Olmsted*
+
+<img src="/learn-mathematics/img/counterexamples_analysis.jpg" alt="Counterexamples Analysis" width="200px"/>
+
+I suggest you look at the counterexamples that interest you personally, instead of just reading through the book linearly. The next book aims to prepare and help you work through analysis:
+
+**[How to Think about Analysis](https://www.amazon.com/Think-About-Analysis-Lara-Alcock-ebook/dp/B00O94K6NO/)**, *Lara Alcock*
+
+<img src="/learn-mathematics/img/alcock.jpg" alt="Alcock" width="200px"/>
+
+
 
 ### Discrete Mathematics
 
+**[Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen-ebook/dp/B07FF9DY66/)**, *Kenneth H. Rosen*
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science-ebook/dp/B08F5H9DYM/)**, *Ronald Graham, et al*
+
+<img src="/learn-mathematics/img/concrete.jpg" alt="Cocnrete" width="200px"/>
+
+**[Discrete Mathematics with Ducks](https://www.amazon.com/Discrete-Mathematics-Ducks-Textbooks-dp-1138052590/dp/1138052590/)**, *sarah-marie belcastro*
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+
 ### Basic Number Theory
+
+**[Elementary Number Theory](https://www.amazon.com/Elementary-Number-Theory-Its-Application/dp/0321500318/)**, *Kenneth H. Rosen*
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 
 
@@ -133,11 +207,67 @@ In this section, we now move on to actual mathematics major classes. If you have
 
 ### Abstract Algebra
 
+**[Abstract Algebra: Theory and Applications](http://abstract.ups.edu/aata/aata.html)**, *Thomas W. Judson*
+
+<img src="/learn-mathematics/img/aata.png" alt="AATA" width="200px"/>
+
+**[Algebra I-II, Gorodentsev](https://www.amazon.com/Algebra-I-Textbook-Students-Mathematics-ebook/dp/B01NACZUA4/)**, *Alexey L. Gorodentsev*
+
+<img src="/learn-mathematics/img/gorodentsev.jpg" alt="Gorodentsev I" width="200px"/>
+
+
+**[Undergraduate Algebra](https://www.amazon.com/Undergraduate-Algebra-Texts-Mathematics/dp/0387220259/)**, *Serge Lang*
+
+<img src="/learn-mathematics/img/lang-undergrad_algebra.jpg" alt="Undergraduate Algebra" width="200px"/>
+
+**[Algebra](https://www.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779/)**, *Michael Artin*
+
+<img src="/learn-mathematics/img/artin.jpg" alt="Artin" width="200px"/>
+
+
+
 ### General Topology
 
-### Vector Analysis
+**[Introduction to Topology](https://www.amazon.com/Introduction-Topology-Second-Dover-Mathematics/dp/0486406806/)**, *Theodore W. Gamelin, Robert Everist Greene*
+
+<img src="/learn-mathematics/img/greene.jpg" alt="Greene" width="200px"/>
+
+**[Introduction to Topological Manifolds](https://www.amazon.com/Introduction-Topological-Manifolds-Graduate-Mathematics/dp/1441979395/)**, *John M. Lee*
+
+<img src="/learn-mathematics/img/lee-top.jpg" alt="Top Mfds" width="200px"/>
+
+**[Topology](https://www.amazon.com/Topology-Classic-Classics-Advanced-Mathematics/dp/0134689518/)**, *James R. Munkres*
+
+<img src="/learn-mathematics/img/munkres.jpg" alt="Munkres" width="200px"/>
+
+
+### Ordinary Differential Equations
+
+
+**[Differential Equations with Applications and Historical Notes](https://www.amazon.com/Differential-Equations-Applications-Historical-Mathematics/dp/1032477148/)**, *George F. Simmons*
+
+<img src="/learn-mathematics/img/simmons-ode.jpg" alt="Simmons ODE" width="200px"/>
+
+**[Differential Equations](https://www.amazon.com/Differential-Equations-Springer-Undergraduate-Mathematics/dp/3319452606/)**, *Viorel Barbu*
+
+<img src="/learn-mathematics/img/barbu.jpg" alt="Barbu" width="200px"/>
+
 
 ### Classical Differential Geometry
+
+
+**[Differential Geometry of Curves and Surfaces](https://www.amazon.com/Differential-Geometry-Surfaces-Undergraduate-Mathematics/dp/3319397982/)**, *Kristopher Tapp*
+
+<img src="/learn-mathematics/img/tapp.jpg" alt="Tapp" width="200px"/>
+
+**[Differential Geometry of Curves and Surfaces](https://www.amazon.com/Differential-Geometry-Surfaces-Undergraduate-Mathematics/dp/981151738X/)**, *Shoshichi Kobayashi*
+
+<img src="/learn-mathematics/img/kobayashi.jpg" alt="Kobayashi" width="200px"/>
+
+**[Differential Geometry of Curves and Surfaces](https://www.amazon.com/Differential-Geometry-Curves-Surfaces-Mathematics/dp/0486806995/)**, *Manfredo P. Do Carmo*
+
+<img src="/learn-mathematics/img/docarmo.jpg" alt="Do Carmo" width="200px"/>
+
 
 
 # Part II: Electives
@@ -169,10 +299,6 @@ In this section, we now move on to actual mathematics major classes. If you have
 
 
 ### Dynamical Systems
-
-
-
-### Ordinary Differential Equations
 
 
 
@@ -269,6 +395,10 @@ In this section, we now move on to actual mathematics major classes. If you have
 
 
 ### Complex Geometry
+
+
+
+### Computational Algebraic Geometry
 
 
 
@@ -370,6 +500,8 @@ In this section, we now move on to actual mathematics major classes. If you have
 
 #### Coding Theory
 
+
+#### Type Theory
 
 
 #### Wavelet Analysis
