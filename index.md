@@ -105,7 +105,7 @@ I suggest you do every chapter in the book, keeping in mind that this will take 
 
 **[Differential and Integral Calculus, Vol. 1-2](https://www.amazon.com/Differential-Integral-Calculus-Vol-1-ebook/dp/B08S74TL87/)**, *Nikolai S. Piskunov*
 
-<img src="/learn-mathematics/img/piskunov.jpg" alt="Piskunov" width="400px"/>
+<img src="/learn-mathematics/img/piskunov.jpg" alt="Piskunov" width="200px"/>
 
 This book is written in the Soviet style of mathematics: it is terse, with examples taken largely from physics (especially classical mechanics) and decently hard exercises. If that sounds appealing to you, go with that one. Better yet, use both!
 
@@ -154,11 +154,11 @@ And now the subject that strikes fear in many undergraduate students: real analy
 
 This is the book that made me fall in love with mathematics. Abbott is a master didactician and his introduction of analysis is thoroughly motivated, his style is clear and precise but is surprisingly gentle. I actually suggest you look at both the first and the second edition if you can, because they have different discussions to introduce the chapters. Perhaps the only issue with the text is I wish it'd have more really hard exercises to grind your teeth against. The next book fills that niche by having you construct most of the theory yourself:
 
-**[Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics-ebook/dp/B01LFAANIW/)**, *Terrence Tao*
+**[Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics-ebook/dp/B01LFAANIW/)**, *Terence Tao*
 
 <img src="/learn-mathematics/img/tao.webp" alt="Tao" width="200px"/>
 
-What to say about Terrence Tao that hasn't already been said. Everyone always mentions [his famous blog](https://terrytao.wordpress.com/) and of course his many mathematical contributions. A Fields medalist, not only is he a master at mathematics, he's a master at mathematics writing and this text is a perfect example. It is definitely not easy as you are required to do a lot of the thinking behind the theory itself, but it is worth doing for precisely that reason. The power you get from constructing the course yourself is very exhilarating. With that said, I can't help but recommend one more book by Lang, this one slightly lesser known but still very good (I especially liked the discussion on potentials):
+What to say about Terence Tao that hasn't already been said. Everyone always mentions [his famous blog](https://terrytao.wordpress.com/) and of course his many mathematical contributions. A Fields medalist, not only is he a master at mathematics, he's a master at mathematics writing and this text is a perfect example. It is definitely not easy as you are required to do a lot of the thinking behind the theory itself, but it is worth doing for precisely that reason. The power you get from constructing the course yourself is very exhilarating. With that said, I can't help but recommend one more book by Lang, this one slightly lesser known but still very good (I especially liked the discussion on potentials):
 
 **[Undergraduate Analysis](https://www.amazon.com/Undergraduate-Analysis-Texts-Mathematics/dp/0387948414)**, *Serge Lang*
 
@@ -309,43 +309,155 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 # Part II: Electives
 
-
+In this part, we gives a few potential electives an undergraduate mathematics student might take. Most of these are graduate-level, but if you have done the previous part, you are more than prepared for graduate-level classes. Sadly, this is also where my biases will start to show, I can only talk about things I have seen myself. There are many, many topics I do not know about or have never studied (especially at a graduate-level). In turn, some topics I have studied deeper (like algebraic geometry and symplectic topology) will have more references and topics covered. If you are interested in subjects not covered here, it doesn't mean I don't like them or I do not consider them important, it is simply that I have not personally had the chance to study them yet.
 
 ## Analysis
 
-
+If you have liked undergraduate analysis topics such as calculus, real analysis and differential equations, this is for you. At the very least, I would expect most undergraduate students to take Fourier, complex and functional analysis, even if you don't plan on becoming an analyst. Fourier analysis is the heart of analysis, complex analysis is the perfect example of beauty in mathematics and functional analysis bridges the gap between analysis and algebra. Measure theory and probability rounds up what I would call the "core analysis graduate" sequence, and yes I consider probability to be a part of analysis, at least at the early graduate level. Other interesting subjects include dynamical systems (what I'd call the geometry of differential equations), harmonic analysis (Fourier on steroids), partial differential equations (the backbone of physics) and stochastic processes (a rich theory with many applications). Ok, let's get into it.
 
 ### Fourier Analysis
 
+Fourier analysis is the genesis of much of what you have studied in real analysis. The convergence of Fourier series motivated both real analysis and measure theory. I believe every undergraduate student in mathematics, physics and engineering should have a class on Fourier series. For this, my favorite book is the first part of the four-part analysis series by Stein and Shakarchi:
 
+**[Fourier Analysis](https://www.amazon.com/Fourier-Analysis-Introduction-Princeton-Lectures/dp/069111384X/)**, *Elias M. Stein, Rami Shakarchi*
+
+<img src="/learn-mathematics/img/stein-fourier.jpg" alt="Stein & Shakarchi, Vol.1" width="200px"/>
+
+This book is absolutely stunning (as are all the books in the series, and I suggest using them to study graduate analysis). The exemples are motivated well and the exercises are just right. Honestly, there are other books in Fourier analysis but this one is the only one I used and I don't really know of others. I saw Körner has one, so maybe try that if you want a different view of the subject?
 
 ### Complex Analysis
 
+Complex analysis is pure beauty. Everything you hated about real analysis seems to magically disappear when we enter the complex realm: differentiable implies analytic, the zeros of a complex function are defined in a beautiful pattern, etc. This doesn't mean the subject is easy however, as the theory is pretty unique in the way it handles computation, for instance contour integrals. As above, my favorite book on the subject is the second-part of Stein & Shakarchi:
 
+**[Complex Analysis](https://www.amazon.com/Complex-Analysis-Princeton-Lectures-No/dp/0691113858/)**, *Elias M. Stein, Rami Shakarchi*
+
+<img src="/learn-mathematics/img/stein-complex.jpg" alt="Stein & Shakarchi, Vol.2" width="200px"/>
+
+A very lucid introduction to the topic, I like the selection of exercises and the presentation. Unlike Fourier analysis however, there are other good books on the subject. Another one that is more accessible is this one:
+
+**[Complex Analysis](https://www.amazon.com/Complex-Analysis-Undergraduate-Texts-Mathematics/dp/1441972870/)**, *Joseph Bak, Donald J. Newman*
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+There is one more very interesting book on complex analysis. As the name implies, the book takes a more geometrical approach:
+
+**[Visual Complex Analysis](https://www.amazon.com/Visual-Complex-Analysis-25th-Anniversary/dp/0192868926/)**, *Tristan Needham*
+
+<img src="/learn-mathematics/img/needham.jpg" alt="Needham" width="200px"/>
+
+I think all three books are interesting and give different perspectives, so try all three if you can.
+
+### Measure Theory and Integration
+
+We finally come back to real analysis, but this time through a more mature lens. We go back to the notion of integral we developped in the first textbooks we saw, and we refine it to make it both more general and more powerful. This is also where we take a look back on probability, and see why I put it as part of analysis. I will give two recommendations that discuss measure theory on its own, and two recommendations that tackle probability as well.
+
+**[Real Analysis](https://www.amazon.com/Real-Analysis-Integration-Princeton-Lectures/dp/0691113866/)**, *Elias M. Stein, Rami Shakarchi*
+
+<img src="/learn-mathematics/img/stein-real.jpg" alt="Stein & Shakarchi Vol.3" width="200px"/>
+
+Yes, yes, what can I say? What a surprise. But once again, this book is gold. There is a reason why all the books in the series form the core of my recommendations for graduate analysis: they're just that good. This book is interesting because while it does focus on measures and integration, it also revisits previous topics from Fourier and complex analysis. It also has an interesting discussion of fractals. The exercises are splendid, with a great range of difficulty. Another great exposition is of course:
+
+**[An Introduction to Measure Theory](https://www.amazon.com/Introduction-Measure-Graduate-Studies-Mathematics/dp/1470466406/)**, *Terence Tao*
+
+<img src="/learn-mathematics/img/tao-graduate.jpg" alt="Tao Graduate" width="200px"/>
+
+As we have said before, Tao is great at writing mathematics and it shows. Also for some reason the AMS graduate textbooks just feel comfortable to me in a strange way I can't really describe. Anyway, it's good, try it out. Now on to books that discuss measure theory motivated mostly by probability:
+
+**[Measures, Integrals and Martingales](https://www.amazon.com/Measures-Integrals-Martingales-Ren%C3%A9-Schilling/dp/1316620247/)**, **
+
+<img src="/learn-mathematics/img/schilling.jpg" alt="Schilling" width="200px"/>
+
+I really like this book, it's how I personally learnt measure theory. If it is a bit tough, you can try this one out first, which is simpler:
+
+**[Measure, Integral and Probability](https://www.amazon.com/Measure-Integral-Probability-Marek-Capinski/dp/1852337818/)**, **
+
+<img src="/learn-mathematics/img/mip.jpg" alt="MIP" width="200px"/>
 
 ### Functional Analysis
 
+Now onto my favorite part of analysis. Functional analysis takes a closer look at functions, and to be more specific, *functionals*. This is the part of analysis that takes linear algebra and asks what happens when the basis becomes infinite. The question is more subtle than it seems, because infinity implies convergence and convergence implies topology. Still, it is in my opinion the coolest part of analysis (my algebraist bias shows here) and I think every mathematics enthusiast should study it. Naturally, it's hard to avoid the obvious choice:
 
+**[Functional Analysis](https://www.amazon.com/Functional-Analysis-Introduction-Princeton-Lectures/dp/0691113874/)**, *Elias M. Stein, Rami Shakarchi*
 
-### Measure Theory and Probability
+<img src="/learn-mathematics/img/.jpg" alt="Stein & Shakarchi, Vol.4" width="200px"/>
 
+Believe it or not, this is not the book I used to learn functional analysis. I learned functional analysis. Instead, I used the following book:
 
+**[Introductory Functional Analysis with Applications](https://www.amazon.com/Introductory-Functional-Analysis-Applications-Kreyszig/dp/0471504599/)**, *Erwin Kreyszig*
+
+<img src="/learn-mathematics/img/kreyszig.jpg" alt="Kreyszig" width="200px"/>
+
+This is a classic for a reason. The exposition is great and very gentle, you don't need much to learn with it. In fact, I took a class using this book when I was in my undergrad and the hardest requirement was basic topology. Another book that I really liked is this one:
+
+**[Functional Analysis](https://www.amazon.com/Functional-Analysis-Peter-D-Lax/dp/0471556041/)**, *Peter D. Lax*
+
+<img src="/learn-mathematics/img/lax.jpg" alt="Lax" width="200px"/>
+
+This is perhaps the coolest textbook of the bunch because it includes very cool sections on stuff that you rarely see in introductory functional analysis textbooks. It's harder than Kreyszig though. Also, the chapters are very short.
+
+### Probability and Stochastics
+
+You have perhaps already encountered probability at the graduate level depending on your choice of measure theory textbook. In this section, I give textbooks that focus mostly on graduate probability and where measure theory is either assumed or in an appendix or something. If the book is too difficult, try looking at one of the measure theory textbooks that discuss probability as well.
+
+**[Foundations of Modern Probability](https://link.springer.com/book/10.1007/978-3-030-61871-1)**, *Olav Kallenberg*
+
+<img src="/learn-mathematics/img/kallenberg.webp" alt="Kallenberg" width="200px"/>
+
+This gigantic book (now re-edited by Springer in two volumes) is my favorite book on graduate probability, but it is huge. Do not expect to read this in a few weeks, this will take months and months to go through. On the flipside, it is exceptionally clear and I find it outstanding. If you want something smaller, this classic is worth it:
+
+**[Probability](https://www.amazon.com/Probability-Graduate-Texts-Mathematics-v/dp/0387945490/)**, *A. N. Shiryaev*
+
+<img src="/learn-mathematics/img/shiryaev.jpg" alt="Shiryaev" width="200px"/>
+
+I love this book. It starts with intuitive probability and goes from there. It has this unmistakebly Russian flavor to it, but at the same time, it gives enough examples that you do not feel completely lost. If you're more interested in stochastic calculus specifically, this is a good reference:
+
+**[Brownian Motion, Martingales and Stochastic Calculus](https://www.amazon.com/Brownian-Martingales-Stochastic-Calculus-Mathematics/dp/3319310887/)**, **
+
+<img src="/learn-mathematics/img/shiryaev.jpg" alt="Shiryaev" width="200px"/>
+
+Taking this suggestion a step further, this is the best book I know on stochastic differential equations:
+
+**[Stochastic Differential Equations](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581/)**, *Bernt Oksendal*
+
+<img src="/learn-mathematics/img/oksendal.jpg" alt="" width="200px"/>
 
 ### Harmonic Analysis
 
+Okay, this section I do not know well as the only harmonic analysis I have looked at was some basics about the Fourier integral on LCA groups and a few keypoints about Tate's thesis. For this reason, I will only suggest one book: the one I used to learn some basic concepts.
 
+**[Principles of Harmonic Analysis](https://www.amazon.com/Principles-Harmonic-Analysis-Universitext-Deitmar-ebook/dp/B00PUM0HJM/)**, *Anton Deitmar, Siegfried Echterhoff*
+
+<img src="/learn-mathematics/img/deitmar.jpg" alt="Deitmar" width="200px"/>
 
 ### Dynamical Systems
 
+Dynamical systems is roughly the idea of studying differential equations through a geometric lens. It's a powerful tool and it has really cool applications, such as ecology and the like. There are two books I really like on the subject. The first one is this absolute classic:
 
+**[Differential Equations, Dynamical Systems and an Introduction to Chaos](https://www.amazon.com/Differential-Equations-Dynamical-Systems-Introduction/dp/0123820103/)**, *Morris W. Hirsch, et al*
+
+<img src="/learn-mathematics/img/smale.jpg" alt="Smale" width="200px"/>
+
+This book was written in part by one of my favorite mathematician ever, Stephen Smale. The book is great, it covers a wide variety of topic at a level suitable for the subject. Great stuff. That being said, this wouldn't be my list if I didn't recommend V.I. Arnol'd:
+
+**[Ordinary Differential Equations](https://link.springer.com/book/9783540345633)**, *Vladimir I. Arnol'd*
+
+<img src="/learn-mathematics/img/arnold.jpg" alt="Arnold" width="200px"/>
 
 ### Partial Differential Equations
 
+While we have seen ordinary differential equations in the first part, partial differential equations are another ball game entirely. For most of them, we have no idea how to solve them directly and we need either weak solutions or numerical methods. This is a subject I have only brushed so I cannot recommend a lot of different books, but I like this one:
 
+**[Partial Differential Equations](https://www.amazon.com/Partial-Differential-Equations-Graduate-Mathematics/dp/1470469421/)**, *Lawrence C. Evans*
 
-### Stochastic Processes
+<img src="/learn-mathematics/img/evans.jpg" alt="Evans" width="200px"/>
 
+There is another book I have seen before and I have used when I followed a seminar on graduate functional analysis:
 
+**[Functional Analysis, Sobolev Spaces and Partial Differential Equations](https://www.amazon.com/Functional-Analysis-Differential-Equations-Universitext/dp/0387709134/)**, *Haim Brezis*
+
+<img src="/learn-mathematics/img/brezis.jpg" alt="Brezis" width="200px"/>
+
+What I like about it is that it mixes functional analysis and PDEs, two topics that are closely intertwined. Give it a try.
 
 ## Algebra
 
@@ -353,27 +465,59 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 ### Graduate Algebra
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Galois Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Commutative Algebra
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Homological Algebra
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Representation Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Lie Algebras
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ## Topology
 
@@ -381,19 +525,51 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 ### Algebraic Topology
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
-### Cohomology Theory
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+### Differential Topology
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Knot Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Homotopy Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ## Differential Geometry
 
@@ -401,23 +577,53 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 ### Smooth Manifolds
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Riemannian Geometry
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Lie Groups
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Symplectic Geometry
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Symplectic Topology
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ## Algebraic Geometry
 
@@ -425,31 +631,73 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 ### Classical Algebraic Geometry
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Modern Algebraic Geometry
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Complex Geometry
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Computational Algebraic Geometry
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Étale Cohomology
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Algebraic Groups
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Arithmetic Geometry
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ## Number Theory
 
@@ -457,23 +705,61 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 ### Analytic Number Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Elliptic Curves
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Algebraic Number Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### p-Adic Analysis
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Modular and Automorphic Forms
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ## Miscellaneous
 
@@ -481,23 +767,65 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 ### Category Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Mathematical Logic
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Graph Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Statistics
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Game Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ## Applications
 
@@ -509,23 +837,53 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 #### Classical Mechanics
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Quantum Mechanics
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Relativity
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Gauge Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Quantum Field Theory
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 ### Computer Science
 
@@ -533,17 +891,88 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 #### Numerical Analysis
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Cryptography
 
+**[]()**, **
 
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Coding Theory
 
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Type Theory
 
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Wavelet Analysis
 
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+### Others
+
+#### Financial Mathematics
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+#### Biomathematics
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+#### Chemistry
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+# Part III: Possible tracks
