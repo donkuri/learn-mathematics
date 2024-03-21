@@ -379,7 +379,7 @@ Now onto my favorite part of analysis. Functional analysis takes a closer look a
 
 **[Functional Analysis](https://www.amazon.com/Functional-Analysis-Introduction-Princeton-Lectures/dp/0691113874/)**, *Elias M. Stein, Rami Shakarchi*
 
-<img src="/learn-mathematics/img/.jpg" alt="Stein & Shakarchi, Vol.4" width="200px"/>
+<img src="/learn-mathematics/img/stein-functional.jpg" alt="Stein & Shakarchi, Vol.4" width="200px"/>
 
 Believe it or not, this is not the book I used to learn functional analysis. I learned functional analysis. Instead, I used the following book:
 
@@ -813,9 +813,9 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
-**[]()**, **
+**[Mathematical Statistics](https://www.amazon.com/Mathematical-Statistics-Asymptotic-Graduate-Mathematics/dp/0821852833/)**, *Alexander Korostelev, Olga Korostelev*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/korostelev.jpg" alt="Korostelev" width="200px"/>
 
 ### Game Theory
 
