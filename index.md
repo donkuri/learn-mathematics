@@ -180,95 +180,132 @@ I suggest you look at the counterexamples that interest you personally, instead 
 
 ### Discrete Mathematics
 
+This section is concerned with so-called "discrete mathematics", which here would be basic combinatorics (including induction) and mostly graph theory. This kind of mathematics is especially useful for computer science, and one of my favorite textbook on the subject is written by Donald Knuth, one of the most legendary programmers of all times. Regardless, a good introduction to the subject is this book:
+
 **[Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen-ebook/dp/B07FF9DY66/)**, *Kenneth H. Rosen*
+
+If you are especially interested in computer science or programming, then it's hard to beat this one:
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 **[Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science-ebook/dp/B08F5H9DYM/)**, *Ronald Graham, et al*
 
+Finally, here's a funny book that uses ducks to introduce discrete mathematics:
+
 <img src="/learn-mathematics/img/concrete.jpg" alt="Cocnrete" width="200px"/>
 
 **[Discrete Mathematics with Ducks](https://www.amazon.com/Discrete-Mathematics-Ducks-Textbooks-dp-1138052590/dp/1138052590/)**, *sarah-marie belcastro*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+It is a bit easier than the others but the instruction quality is very good nonetheless.
+
+<img src="/learn-mathematics/img/duck.jpg" alt="Ducks" width="200px"/>
 
 
 ### Basic Number Theory
 
+We now move to the *Queen of Mathematics*, as Gauss used to say. Basic number theory is a subject that tends to be dismantled and studied in different parts of mathematics. But number theory is too beautiful to be dismembered so, and I think it is crucial to study it to better understand further examples in higher mathematics, notably in abstract algebra. The following book is well suited to introducing the elementary parts of the theory, those that do not use analysis or abstract algebra:
+
 **[Elementary Number Theory](https://www.amazon.com/Elementary-Number-Theory-Its-Application/dp/0321500318/)**, *Kenneth H. Rosen*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/rosen-nt.jpg" alt="" width="200px"/>
 
+Another classic, albeit slightly dated, is this wonderful book:
 
+**[An Introduction to Theory of Numbers](https://www.amazon.com/Introduction-Theory-Numbers-G-Hardy/dp/0199219869/)**, *G. H. Hardy, E. M. Wright*
+
+I would suggest exploring the book, rather than outright studying it. Walk through the various chapters lightly, stopping where your interest takes you, and studying there.
 
 ## Mastering the fundamentals
 
+We now move to the core of a mathematics undergraduate degree. This is where abstraction and generalization is taken to another level. These courses are absolutely crucial to understanding modern mathematics, and all of these theories were developped to help mathematicians solve important problems. For instance, much of modern algebra was developped to solve [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem). Ordinary Differential Equations and Classical Differential Geometry grew, in part, out of physics. Topology is a natural extension of real analysis and helps transfer its tools to other fields. 
 
-
-### Abstract Algebra
-
-**[Abstract Algebra: Theory and Applications](http://abstract.ups.edu/aata/aata.html)**, *Thomas W. Judson*
-
-<img src="/learn-mathematics/img/aata.png" alt="AATA" width="200px"/>
-
-**[Algebra I-II, Gorodentsev](https://www.amazon.com/Algebra-I-Textbook-Students-Mathematics-ebook/dp/B01NACZUA4/)**, *Alexey L. Gorodentsev*
-
-<img src="/learn-mathematics/img/gorodentsev.jpg" alt="Gorodentsev I" width="200px"/>
-
-
-**[Undergraduate Algebra](https://www.amazon.com/Undergraduate-Algebra-Texts-Mathematics/dp/0387220259/)**, *Serge Lang*
-
-<img src="/learn-mathematics/img/lang-undergrad_algebra.jpg" alt="Undergraduate Algebra" width="200px"/>
-
-**[Algebra](https://www.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779/)**, *Michael Artin*
-
-<img src="/learn-mathematics/img/artin.jpg" alt="Artin" width="200px"/>
-
-
-
-### General Topology
-
-**[Introduction to Topology](https://www.amazon.com/Introduction-Topology-Second-Dover-Mathematics/dp/0486406806/)**, *Theodore W. Gamelin, Robert Everist Greene*
-
-<img src="/learn-mathematics/img/greene.jpg" alt="Greene" width="200px"/>
-
-**[Introduction to Topological Manifolds](https://www.amazon.com/Introduction-Topological-Manifolds-Graduate-Mathematics/dp/1441979395/)**, *John M. Lee*
-
-<img src="/learn-mathematics/img/lee-top.jpg" alt="Top Mfds" width="200px"/>
-
-**[Topology](https://www.amazon.com/Topology-Classic-Classics-Advanced-Mathematics/dp/0134689518/)**, *James R. Munkres*
-
-<img src="/learn-mathematics/img/munkres.jpg" alt="Munkres" width="200px"/>
-
+The selection of these four topics is somewhat arbitrary, for instance, Fourier analysis has a central place in modern analysis and could have been here. Similarly, Galois theory is central to abstract algebra, although it is rarely covered early on in mathematics textbook. The interested student is invited to study both of these early on, but they will be listed in [Analysis](#analysis) and [Algebra](#algebra) respectively.
 
 ### Ordinary Differential Equations
 
+Most of physics is described by differential equations, and it is a very mature and rich theory. Yet unlike some of the more abstract subjects, differential equations has a practical nature, and many differential equations are not solved exactly but through numerical methods. This makes for an interesting topic, that can be approached from multiple angles. Personally, my favorite way to introduce differential equations is the way this book presents it:
 
 **[Differential Equations with Applications and Historical Notes](https://www.amazon.com/Differential-Equations-Applications-Historical-Mathematics/dp/1032477148/)**, *George F. Simmons*
 
 <img src="/learn-mathematics/img/simmons-ode.jpg" alt="Simmons ODE" width="200px"/>
 
+If you would like a presentation style closer to Russian-style books, with a focus on rigor and structure, then the following textbook might interest you:
+
 **[Differential Equations](https://www.amazon.com/Differential-Equations-Springer-Undergraduate-Mathematics/dp/3319452606/)**, *Viorel Barbu*
 
 <img src="/learn-mathematics/img/barbu.jpg" alt="Barbu" width="200px"/>
 
-
 ### Classical Differential Geometry
 
+Classical Differential Geometry takes the tools of calculus and uses them to go further than analytic geometry, and introduce notions of speed, acceleration and curvature in geometry. This is interesting in many ways. For one, you actually use the tools you constructed in your previous analysis classes to do something with them, and this is where you first see the full power of calculus and why it was revolutionary. I studied the subject using the following book:
 
 **[Differential Geometry of Curves and Surfaces](https://www.amazon.com/Differential-Geometry-Surfaces-Undergraduate-Mathematics/dp/3319397982/)**, *Kristopher Tapp*
 
 <img src="/learn-mathematics/img/tapp.jpg" alt="Tapp" width="200px"/>
 
+Another interesting book that recently got reprinted is the classic by Kobayashi:
+
 **[Differential Geometry of Curves and Surfaces](https://www.amazon.com/Differential-Geometry-Surfaces-Undergraduate-Mathematics/dp/981151738X/)**, *Shoshichi Kobayashi*
 
 <img src="/learn-mathematics/img/kobayashi.jpg" alt="Kobayashi" width="200px"/>
+
+In the same vein, perhaps the gold standard for classical differential geometry is the book by Do Carmo:
 
 **[Differential Geometry of Curves and Surfaces](https://www.amazon.com/Differential-Geometry-Curves-Surfaces-Mathematics/dp/0486806995/)**, *Manfredo P. Do Carmo*
 
 <img src="/learn-mathematics/img/docarmo.jpg" alt="Do Carmo" width="200px"/>
 
+This is probably the book that is used most for a single-semester undergraduate differential geometry class. I like it, it's great.
 
+### Abstract Algebra
+
+Abstract algebra, usually called simply algebra is a language used to describe the concept of equations and all possible generalizations of it, such as equivalence relationships and the like. Many parts of mathematics have an algebraic counterpart: algebraic topology, algebraic geometry, even algebraic analysis. As such, it is paramount that you get familiar with it. My favorite textbook on the subject is free:
+
+**[Abstract Algebra: Theory and Applications](http://abstract.ups.edu/aata/aata.html)**, *Thomas W. Judson*
+
+The book is great and is available in French and Spanish. My only issue with the book is that the exercises are often too simple, and I suggest finding other exercises elsewhere. One possible book for this is the following books:
+
+<img src="/learn-mathematics/img/aata.png" alt="AATA" width="200px"/>
+
+**[Algebra I, Gorodentsev](https://www.amazon.com/Algebra-I-Textbook-Students-Mathematics-ebook/dp/B01NACZUA4/)**, *Alexey L. Gorodentsev*
+
+<img src="/learn-mathematics/img/gorodentsev.jpg" alt="Gorodentsev I" width="200px"/>
+
+This is the first out of two textbooks (written in the Russian style) that form one gigantic course in algebra, covering way more than a generic abstract algebra undergraduate course. I would suggest starting with the first book, and if you like its style and presentation, consider doing the second one. Personally, it has some of my favorite exposition but it is not as gentle as Judson. One highlight is covering quaternions and spinors, which I barely ever see in undergraduate mathematics textbook. Another textbook that discusses interesting topics that are not always given enough time at the undergraduate level is this masterpiece:
+
+**[Algebra](https://www.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779/)**, *Michael Artin*
+
+<img src="/learn-mathematics/img/artin.jpg" alt="Artin" width="200px"/>
+
+This is the book I used along with Judson to learn algebra. One interesting point is that Artin makes heavy use of linear algebraic notions and examples to explore abstract algebra, a wise choice in my opinion. Finally, here is the obligatory Lang reference:
+
+**[Undergraduate Algebra](https://www.amazon.com/Undergraduate-Algebra-Texts-Mathematics/dp/0387220259/)**, *Serge Lang*
+
+<img src="/learn-mathematics/img/lang-undergrad_algebra.jpg" alt="Undergraduate Algebra" width="200px"/>
+
+I particularly liked the chapter on rings.
+
+### General Topology
+
+General Topology (sometimes called Point-Set Topology) is a generalization of the concepts of analysis (convergence, compactness and the likes) that can be applied in many different fields, usually yielding a rich theory. What happens when the space we are working with is so weird that it is hard to even define a distance on it? Can we deform space? In what way? This is the essence of topology. There are a few books I like, but this one is cheap and clear, especially the chapter on metric spaces:
+
+**[Introduction to Topology](https://www.amazon.com/Introduction-Topology-Second-Dover-Mathematics/dp/0486406806/)**, *Theodore W. Gamelin, Robert Everist Greene*
+
+<img src="/learn-mathematics/img/greene.jpg" alt="Greene" width="200px"/>
+
+I would recommend doing the entire chapter on metric spaces, with all the exercises. Metric spaces are in nmy opinion the most important examples in basic topology, and a large portion of the theory is dedicated to when a metric can be put on a space. After this, I would do the following book instead:
+
+**[Topology](https://www.amazon.com/Topology-Classic-Classics-Advanced-Mathematics/dp/0134689518/)**, *James R. Munkres*
+
+<img src="/learn-mathematics/img/munkres.jpg" alt="Munkres" width="200px"/>
+
+This book is the classic undergraduate textbook on topology. It is a bit rough, but it has good explanations. If you liked classical differential geometry and you already know you want to know more about it, I would skip Munkres and I would do this instead:
+
+**[Introduction to Topological Manifolds](https://www.amazon.com/Introduction-Topological-Manifolds-Graduate-Mathematics/dp/1441979395/)**, *John M. Lee*
+
+<img src="/learn-mathematics/img/lee-top.jpg" alt="Top Mfds" width="200px"/>
+
+This is the book I used to learn topology. Do not be scared by the fact it is supposed to be a graduate-level textbook, it is very approachable. Instead of discussing topology in full, absolute generality, the author (my favorite math author might I add) focuses on manifolds, the basic geometric object of interest.
 
 # Part II: Electives
 
@@ -447,6 +484,10 @@ I suggest you look at the counterexamples that interest you personally, instead 
 
 
 ### Mathematical Logic
+
+
+
+### Graph Theory
 
 
 
