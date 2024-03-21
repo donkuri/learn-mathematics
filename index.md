@@ -363,13 +363,13 @@ Yes, yes, what can I say? What a surprise. But once again, this book is gold. Th
 
 As we have said before, Tao is great at writing mathematics and it shows. Also for some reason the AMS graduate textbooks just feel comfortable to me in a strange way I can't really describe. Anyway, it's good, try it out. Now on to books that discuss measure theory motivated mostly by probability:
 
-**[Measures, Integrals and Martingales](https://www.amazon.com/Measures-Integrals-Martingales-Ren%C3%A9-Schilling/dp/1316620247/)**, **
+**[Measures, Integrals and Martingales](https://www.amazon.com/Measures-Integrals-Martingales-Ren%C3%A9-Schilling/dp/1316620247/)**, *René L. Schilling*
 
 <img src="/learn-mathematics/img/schilling.jpg" alt="Schilling" width="200px"/>
 
 I really like this book, it's how I personally learnt measure theory. If it is a bit tough, you can try this one out first, which is simpler:
 
-**[Measure, Integral and Probability](https://www.amazon.com/Measure-Integral-Probability-Marek-Capinski/dp/1852337818/)**, **
+**[Measure, Integral and Probability](https://www.amazon.com/Measure-Integral-Probability-Marek-Capinski/dp/1852337818/)**, *Marek Capiński, Ekkehard Kopp*
 
 <img src="/learn-mathematics/img/mip.jpg" alt="MIP" width="200px"/>
 
@@ -411,7 +411,7 @@ This gigantic book (now re-edited by Springer in two volumes) is my favorite boo
 
 I love this book. It starts with intuitive probability and goes from there. It has this unmistakebly Russian flavor to it, but at the same time, it gives enough examples that you do not feel completely lost. If you're more interested in stochastic calculus specifically, this is a good reference:
 
-**[Brownian Motion, Martingales and Stochastic Calculus](https://www.amazon.com/Brownian-Martingales-Stochastic-Calculus-Mathematics/dp/3319310887/)**, **
+**[Brownian Motion, Martingales and Stochastic Calculus](https://www.amazon.com/Brownian-Martingales-Stochastic-Calculus-Mathematics/dp/3319310887/)**, *Jean-François le Gall*
 
 <img src="/learn-mathematics/img/shiryaev.jpg" alt="Shiryaev" width="200px"/>
 
