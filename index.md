@@ -445,7 +445,7 @@ This book was written in part by one of my favorite mathematician ever, Stephen 
 
 ### Partial Differential Equations
 
-While we have seen ordinary differential equations in the first part, partial differential equations are another ball game entirely. For most of them, we have no idea how to solve them directly and we need either weak solutions or numerical methods. This is a subject I have only brushed so I cannot recommend a lot of different books, but I like this one:
+While we have seen ordinary differential equations in the first part, partial differential equations are another ball game entirely. For most of them, we have no idea how to solve them directly and we need either weak solutions or numerical methods. This is a subject I do not know very well so I cannot recommend a lot of different books, but I like this one:
 
 **[Partial Differential Equations](https://www.amazon.com/Partial-Differential-Equations-Graduate-Mathematics/dp/1470469421/)**, *Lawrence C. Evans*
 
