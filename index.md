@@ -337,7 +337,7 @@ A very lucid introduction to the topic, I like the selection of exercises and th
 
 **[Complex Analysis](https://www.amazon.com/Complex-Analysis-Undergraduate-Texts-Mathematics/dp/1441972870/)**, *Joseph Bak, Donald J. Newman*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/bak.jpg" alt="Bak" width="200px"/>
 
 There is one more very interesting book on complex analysis. As the name implies, the book takes a more geometrical approach:
 
