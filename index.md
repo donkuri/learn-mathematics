@@ -160,9 +160,9 @@ This is the book that made me fall in love with mathematics. Abbott is a master 
 
 What to say about Terrence Tao that hasn't already been said. Everyone always mentions [his famous blog](https://terrytao.wordpress.com/) and of course his many mathematical contributions. A Fields medalist, not only is he a master at mathematics, he's a master at mathematics writing and this text is a perfect example. It is definitely not easy as you are required to do a lot of the thinking behind the theory itself, but it is worth doing for precisely that reason. The power you get from constructing the course yourself is very exhilarating. With that said, I can't help but recommend one more book by Lang, this one slightly lesser known but still very good (I especially liked the discussion on potentials):
 
-**[Undergraduate Analysis](https://www.amazon.com/Undergraduate-Analysis-Texts-Mathematics/dp/0387948414)**, **
+**[Undergraduate Analysis](https://www.amazon.com/Undergraduate-Analysis-Texts-Mathematics/dp/0387948414)**, *Serge Lang*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/lang-undergrad_analysis.jpg" alt="Undergraduate Analysis" width="200px"/>
 
 For this one, I suggest you do the main sequence Lang proposes and then pick two-three special topics that interest you and study those. All three of these books focus on building examples to help you understand the theory, but counterexamples are just as important, even more so in analysis. This is where the following book helps:
 
@@ -176,8 +176,6 @@ I suggest you look at the counterexamples that interest you personally, instead 
 
 <img src="/learn-mathematics/img/alcock.jpg" alt="Alcock" width="200px"/>
 
-
-
 ### Discrete Mathematics
 
 This section is concerned with so-called "discrete mathematics", which here would be basic combinatorics (including induction) and mostly graph theory. This kind of mathematics is especially useful for computer science, and one of my favorite textbook on the subject is written by Donald Knuth, one of the most legendary programmers of all times. Regardless, a good introduction to the subject is this book:
@@ -186,7 +184,7 @@ This section is concerned with so-called "discrete mathematics", which here woul
 
 If you are especially interested in computer science or programming, then it's hard to beat this one:
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/rosen-dm.jpg" alt="Rosen DM" width="200px"/>
 
 **[Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science-ebook/dp/B08F5H9DYM/)**, *Ronald Graham, et al*
 
@@ -200,18 +198,20 @@ It is a bit easier than the others but the instruction quality is very good none
 
 <img src="/learn-mathematics/img/duck.jpg" alt="Ducks" width="200px"/>
 
-
 ### Basic Number Theory
 
 We now move to the *Queen of Mathematics*, as Gauss used to say. Basic number theory is a subject that tends to be dismantled and studied in different parts of mathematics. But number theory is too beautiful to be dismembered so, and I think it is crucial to study it to better understand further examples in higher mathematics, notably in abstract algebra. The following book is well suited to introducing the elementary parts of the theory, those that do not use analysis or abstract algebra:
 
 **[Elementary Number Theory](https://www.amazon.com/Elementary-Number-Theory-Its-Application/dp/0321500318/)**, *Kenneth H. Rosen*
 
-<img src="/learn-mathematics/img/rosen-nt.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/rosen-nt.jpg" alt="Rosen NT" width="200px"/>
 
 Another classic, albeit slightly dated, is this wonderful book:
 
 **[An Introduction to Theory of Numbers](https://www.amazon.com/Introduction-Theory-Numbers-G-Hardy/dp/0199219869/)**, *G. H. Hardy, E. M. Wright*
+
+
+<img src="/learn-mathematics/img/hardy.jpg" alt="Hardy" width="200px"/>
 
 I would suggest exploring the book, rather than outright studying it. Walk through the various chapters lightly, stopping where your interest takes you, and studying there.
 
