@@ -105,7 +105,7 @@ I suggest you do every chapter in the book, keeping in mind that this will take 
 
 **[Differential and Integral Calculus, Vol. 1-2](https://www.amazon.com/Differential-Integral-Calculus-Vol-1-ebook/dp/B08S74TL87/)**, *Nikolai S. Piskunov*
 
-<img src="/learn-mathematics/img/piskunov.png" alt="Piskunov" width="400px"/>
+<img src="/learn-mathematics/img/piskunov.jpg" alt="Piskunov" width="400px"/>
 
 This book is written in the Soviet style of mathematics: it is terse, with examples taken largely from physics (especially classical mechanics) and decently hard exercises. If that sounds appealing to you, go with that one. Better yet, use both!
 
@@ -150,9 +150,9 @@ And now the subject that strikes fear in many undergraduate students: real analy
 
 **[Understanding Analysis](https://www.amazon.com/Understanding-Analysis-Undergraduate-Texts-Mathematics-ebook/dp/B00XWDQUH4/)**, *Stephen Abbott*
 
-This is the book that made me fall in love with mathematics. Abbott is a master didactician and his introduction of analysis is thoroughly motivated, his style is clear and precise but is surprisingly gentle. I actually suggest you look at both the first and the second edition if you can, because they have different discussions to introduce the chapters. Perhaps the only issue with the text is I wish it'd have more really hard exercises to grind your teeth against. The next book fills that niche by having you construct most of the theory yourself:
-
 <img src="/learn-mathematics/img/abbott.jpg" alt="Abbott" width="200px"/>
+
+This is the book that made me fall in love with mathematics. Abbott is a master didactician and his introduction of analysis is thoroughly motivated, his style is clear and precise but is surprisingly gentle. I actually suggest you look at both the first and the second edition if you can, because they have different discussions to introduce the chapters. Perhaps the only issue with the text is I wish it'd have more really hard exercises to grind your teeth against. The next book fills that niche by having you construct most of the theory yourself:
 
 **[Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics-ebook/dp/B01LFAANIW/)**, *Terrence Tao*
 
@@ -182,21 +182,21 @@ This section is concerned with so-called "discrete mathematics", which here woul
 
 **[Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen-ebook/dp/B07FF9DY66/)**, *Kenneth H. Rosen*
 
-If you are especially interested in computer science or programming, then it's hard to beat this one:
-
 <img src="/learn-mathematics/img/rosen-dm.jpg" alt="Rosen DM" width="200px"/>
+
+If you are especially interested in computer science or programming, then it's hard to beat this one:
 
 **[Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science-ebook/dp/B08F5H9DYM/)**, *Ronald Graham, et al*
 
-Finally, here's a funny book that uses ducks to introduce discrete mathematics:
-
 <img src="/learn-mathematics/img/concrete.jpg" alt="Cocnrete" width="200px"/>
+
+Finally, here's a funny book that uses ducks to introduce discrete mathematics:
 
 **[Discrete Mathematics with Ducks](https://www.amazon.com/Discrete-Mathematics-Ducks-Textbooks-dp-1138052590/dp/1138052590/)**, *sarah-marie belcastro*
 
-It is a bit easier than the others but the instruction quality is very good nonetheless.
-
 <img src="/learn-mathematics/img/duck.jpg" alt="Ducks" width="200px"/>
+
+It is a bit easier than the others but the instruction quality is very good nonetheless.
 
 ### Basic Number Theory
 
@@ -249,7 +249,7 @@ Another interesting book that recently got reprinted is the classic by Kobayashi
 
 <img src="/learn-mathematics/img/kobayashi.jpg" alt="Kobayashi" width="200px"/>
 
-In the same vein, perhaps the gold standard for classical differential geometry is the book by Do Carmo:
+In the same vein, the gold standard for classical differential geometry is the book by Do Carmo:
 
 **[Differential Geometry of Curves and Surfaces](https://www.amazon.com/Differential-Geometry-Curves-Surfaces-Mathematics/dp/0486806995/)**, *Manfredo P. Do Carmo*
 
@@ -263,9 +263,9 @@ Abstract algebra, usually called simply algebra is a language used to describe t
 
 **[Abstract Algebra: Theory and Applications](http://abstract.ups.edu/aata/aata.html)**, *Thomas W. Judson*
 
-The book is great and is available in French and Spanish. My only issue with the book is that the exercises are often too simple, and I suggest finding other exercises elsewhere. One possible book for this is the following books:
-
 <img src="/learn-mathematics/img/aata.png" alt="AATA" width="200px"/>
+
+The book is great and is available in French and Spanish. My only issue with the book is that the exercises are often too simple, and I suggest finding other exercises elsewhere. One possible book for this is the following books:
 
 **[Algebra I, Gorodentsev](https://www.amazon.com/Algebra-I-Textbook-Students-Mathematics-ebook/dp/B01NACZUA4/)**, *Alexey L. Gorodentsev*
 
