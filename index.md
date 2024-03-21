@@ -435,7 +435,7 @@ Dynamical systems is roughly the idea of studying differential equations through
 
 **[Differential Equations, Dynamical Systems and an Introduction to Chaos](https://www.amazon.com/Differential-Equations-Dynamical-Systems-Introduction/dp/0123820103/)**, *Morris W. Hirsch, et al*
 
-<img src="/learn-mathematics/img/smale.jpg" alt="Smale" width="200px"/>
+<img src="/learn-mathematics/img/hirsch-smale.jpg" alt="Smale" width="200px"/>
 
 This book was written in part by one of my favorite mathematician ever, Stephen Smale. The book is great, it covers a wide variety of topic at a level suitable for the subject. Great stuff. That being said, this wouldn't be my list if I didn't recommend V.I. Arnol'd:
 
