@@ -305,7 +305,13 @@ This book is the classic undergraduate textbook on topology. It is a bit rough, 
 
 <img src="/learn-mathematics/img/lee-top.jpg" alt="Top Mfds" width="200px"/>
 
-This is the book I used to learn topology. Do not be scared by the fact it is supposed to be a graduate-level textbook, it is very approachable. Instead of discussing topology in full, absolute generality, the author (my favorite math author might I add) focuses on manifolds, the basic geometric object of interest.
+This is the book I used to learn topology. Do not be scared by the fact it is supposed to be a graduate-level textbook, it is very approachable. Instead of discussing topology in full, absolute generality, the author (my favorite math author might I add) focuses on manifolds, the basic geometric object of interest. Finally, here is my favorite textbook which sadly has no exercises:
+
+**[Topology](https://www.amazon.com/Topology-Undergraduate-Texts-Mathematics-J%C3%A4nich/dp/0387908927/)**, *Klaus Jänich*
+
+<img src="/learn-mathematics/img/janich.jpg" alt="Jänich" width="200px"/>
+
+I have yet to see a better exposition of topology.
 
 # Part II: Electives
 
@@ -465,59 +471,69 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 ### Graduate Algebra
 
-**[]()**, **
+**[Basic Algebra I-II](https://www.amazon.com/Basic-Algebra-Second-Dover-Mathematics/dp/0486471896/)**, *Nathan Jacobson*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/jacobson.jpg" alt="Jacobson" width="200px"/>
 
-**[]()**, **
+**[Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-Serge/dp/038795385X/)**, *Serge Lang*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/lang-algebra.jpg" alt="Lang Algebra" width="200px"/>
 
-**[]()**, **
+**[Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-v/dp/0387905189/)**, *Thomas W. Hungerford*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/hungerford.jpg" alt="Hungerford" width="200px"/>
 
 ### Galois Theory
 
-**[]()**, **
+**[Fields and Galois Theory](https://www.jmilne.org/math/CourseNotes/ft.html)**, *J.S. Milne*
+
+<img src="/learn-mathematics/img/milne-ft.jpg" alt="Milne FT" width="200px"/>
+
+
+
+**[Galois Theory](https://www.amazon.com/Galois-Theory-Graduate-Texts-Mathematics/dp/038790980X/)**, *Harold M. Edwards*
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+What I like most about this book is the way it handles Galois theory: by discussing at lengths about its history, especially where it came from and what allowed Galois to discover and prove his master theorem.
 
 ### Commutative Algebra
 
-**[]()**, **
+**[A Term of Commutative Algebra](http://web.mit.edu/18.705/www/13Ed.pdf)**, *Allen Altman, Steven Kleiman*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/term-commutative.png" alt="A Term of Commutative Algebra" width="200px"/>
 
-**[]()**, **
+**[Basic Commutative Algebra](https://www.amazon.com/Basic-Commutative-Algebra-Balwant-Singh/dp/9814313610)**, *Balwant Singh*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/singh.jpg" alt="Singh" width="200px"/>
 
-**[]()**, **
+**[Commutative Algebra](https://www.amazon.com/Commutative-Algebra-Algebraic-Geometry-Mathematics/dp/0387942696/)**, *David Eisenbud*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/eisenbud.jpg" alt="Eisenbud" width="200px"/>
 
 ### Homological Algebra
 
-**[]()**, **
+**[An Introduction to Homological Algebra](https://www.amazon.com/Introduction-Homological-Algebra-Universitext/dp/0387245278/)**, *Joseph J. Rotman*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/homological.jpg" alt="Homological" width="200px"/>
+
+**[Homology](https://www.amazon.com/Homology-Classics-Mathematics-Saunders-MacLane/dp/3540586628/)**, *Saunders MacLane*
+
+<img src="/learn-mathematics/img/homology.jpg" alt="Homology" width="200px"/>
 
 ### Representation Theory
 
-**[]()**, **
+**[Representation Theory](https://www.amazon.com/Representation-Theory-Course-Graduate-Mathematics/dp/0387974954/)**, *William Fulton, Joe Harris*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/fulton-harris.jpg" alt="Fulton Harris" width="200px"/>
 
-**[]()**, **
+**[Linear Representations of Finite Groups](https://www.amazon.com/Linear-Representations-Finite-Graduate-Mathematics/dp/0387901906/)**, *J.-P. Serre*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/serre.jpg" alt="Serre" width="200px"/>
 
-### Lie Algebras
+**[Introduction to Lie Algebras and Representation Theory](https://www.amazon.com/Introduction-Algebras-Representation-Graduate-Mathematics/dp/0387900535/)**, *James E. Humphreys*
 
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/humphreys-lie.jpg" alt="" width="200px"/>
 
 ## Topology
 
@@ -525,105 +541,115 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 ### Algebraic Topology
 
-**[]()**, **
+**[Algebraic Topology](https://www.amazon.com/Algebraic-Topology-Allen-Hatcher/dp/0521795400/)**, *Allen Hatcher*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/hatcher.jpg" alt="Hatcher" width="200px"/>
 
-**[]()**, **
+**[An Introduction to Algebraic Topology](https://www.amazon.com/Introduction-Algebraic-Topology-Graduate-Mathematics/dp/0387966781/)**, *Joseph J. Rotman*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/rotman-at.jpg" alt="Rotman AT"/>
 
-**[]()**, **
+**[Algebraic Topology](https://www.amazon.com/Algebraic-Topology-Course-Graduate-Mathematics/dp/0387943277/)**, *William Fulton*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/fulton.jpg" alt="Fulton" width="200px"/>
 
-### Differential Topology
+The approach here is pretty different, where cohomology groups are introduced first and the theory kind of unravels from there into homology groups and then the fundamental group, which is usually the exact opposite of how students learn algebraic topology. Personally, I like this order much better as I find it more intuitive to understand. Finally, it's impossible to make a list of algebraic topology books without mentioning this one:
 
-**[]()**, **
+**[Differential Forms in Algebraic Topology](https://www.amazon.com/Differential-Algebraic-Topology-Graduate-Mathematics/dp/1441928154/)**, *Raoul Bott, Loring W. Tu*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/bott-tu.jpg" alt="Bott Tu" width="200px"/>
 
-**[]()**, **
+### Low-Dimensional Topology
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+**[Knots, Links, Braids and 3-Manifolds](https://www.amazon.com/Knots-Links-Braids-3-Manifolds-Low-Dimensional/dp/0821808982/)**, *V. V. Prasolov, A. B. Sossinsky*
 
-### Knot Theory
+<img src="/learn-mathematics/img/prasolov.jpg" alt="Prasolov" width="200px"/>
 
-**[]()**, **
+**[The Knot Book](https://www.amazon.com/Knot-Book-Colin-Adams/dp/0821836781/)**, *Colin Adams*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/knot.jpg" alt="Knot Book" width="200px"/>
 
-**[]()**, **
+**[Gauge Fields, Knots and Gravity](https://www.amazon.com/GAUGE-FIELDS-KNOTS-GRAVITY-Everything/dp/9810220340/)**, *John Baez, Javier P. Muniain*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/baez.jpg" alt="Baez" width="200px"/>
 
 ### Homotopy Theory
 
-**[]()**, **
+**[Introduction to Homotopy Theory](https://www.amazon.com/Introduction-Homotopy-Theory-Universitext-Arkowitz/dp/1441973281/)**, *Martin Arkowitz*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/arkowitz.jpg" alt="Arkowitz" width="200px"/>
 
-**[]()**, **
+**[Categorical Hommotopy Theory](https://www.amazon.com/Categorical-Homotopy-Theory-Mathematical-Monographs-ebook/dp/B00J8LQS80/)**, *Emily Riehl*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-## Differential Geometry
-
-
-
-### Smooth Manifolds
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-### Riemannian Geometry
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-### Lie Groups
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-### Symplectic Geometry
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/riehl-homotopy.jpg" alt="Riehl Homotopy" width="200px"/>
 
 ### Symplectic Topology
 
-**[]()**, **
+This section describes a relatively recent development in topology, namely symplectic topology. The fundamental result is the non-squeezing theorem. Some people might argue this is a part of symplectic geometry, I disagree. If you want to argue, argue with Dusa McDuff, one of the greatest mathematician I know. By the way, she wrote this absolute gem:
+
+**[Introduction to Symplectic Topology](https://www.amazon.com/Introduction-Symplectic-Topology-Graduate-Mathematics/dp/0198794908/)**, *Dusa McDuff*
+
+<img src="/learn-mathematics/img/dusa.jpg" alt="McDuff" width="200px"/>
+
+This is the book I used to study symplectic topology. It covers J-holomorphic curves and all the standard tools of the trade. I suppplemented the book with this one:
+
+**[Symplectic Invariants and Hamiltonian Dynamics](https://www.amazon.com/Symplectic-Invariants-Hamiltonian-Birkh%C3%A4user-Lehrb%C3%BCcher/dp/3764350660/)**, *Helmut Hofer, Eduard Zehnder*
+
+<img src="/learn-mathematics/img/zehnder.jpg" alt="Zehnder" width="200px"/>
+
+The main unifying theme behind the book is symplectic capacities and the interesting rigidity phenomena that arise in the symplectic world.
+
+## Differential Geometry
+
+### Smooth Manifolds
+
+**[Introduction to Smooth Manifolds](https://www.amazon.com/Introduction-Smooth-Manifolds-Graduate-Mathematics/dp/1441999817/)**, *John M. Lee*
+
+<img src="/learn-mathematics/img/smooth.jpg" alt="Smooth Manifolds" width="200px"/>
+
+**[An Introduction to Manifolds](https://www.amazon.com/Introduction-Manifolds-Second-Universitext/dp/1441973990/)**, *Loring W. Tu*
+
+<img src="/learn-mathematics/img/tu.jpg" alt="Tu" width="200px"/>
+
+### Riemannian Geometry
+
+**[Introduction to Riemannian Manifolds](https://www.amazon.com/Introduction-Riemannian-Manifolds-Graduate-Mathematics/dp/3319917544/)**, *John M. Lee*
+
+<img src="/learn-mathematics/img/lee-riem.jpg" alt="Lee Riemannian" width="200px"/>
+
+**[Riemannian Geometry](https://www.amazon.com/Riemannian-Geometry-Manfredo-Perdigao-Carmo/dp/0817634908/)**, *Manfredo P. Do Carmo*
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
-**[]()**, **
+**[Semi-Riemannian Geometry with Applications to Relativity](https://www.amazon.com/Semi-Riemannian-Geometry-Applications-Relativity-Mathematics/dp/0125267401/)**, **
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/o'neill.jpg" alt="O'Neill" width="200px"/>
+
+### Lie Groups
+
+This section slightly intersects with the one on representation theory (especially Fulton-Harris), so you might want to check there first.
+
+**[Introduction to the Theory of Lie Groups](https://www.amazon.com/Introduction-Theory-Lie-Groups-Universitext-ebook/dp/B073H646GB/)**, *Roger Godement*
+
+<img src="/learn-mathematics/img/godement.jpg" alt="Godement" width="200px"/>
+
+**[Lie Groups, Lie Algebras, and Representations](https://www.amazon.com/Lie-Groups-Algebras-Representations-Introduction/dp/3319134663/)**, *Brian C. Hall*
+
+<img src="/learn-mathematics/img/hall-lie.jpg" alt="Hall Lie" width="200px"/>
+
+**[Naive Lie Theory](https://www.amazon.com/Naive-Theory-Undergraduate-Texts-Mathematics/dp/0387782141/)**, *John Stillwell*
+
+<img src="/learn-mathematics/img/naive.jpg" alt="Naive" width="200px"/>
+
+### Symplectic Geometry
+
+**[Lectures on Symplectic Geometry](https://www.amazon.com/Lectures-Symplectic-Geometry-Lecture-Mathematics/dp/3540421955/)**, *Ana Cannas da Silva*
+
+<img src="/learn-mathematics/img/ana.jpg" alt="Ana" width="200px"/>
+
+**[An Introduction to Symplectic Geometry](https://www.amazon.com/Introduction-Symplectic-Geometry-Graduate-Mathematics/dp/0821820567/)**, *Rolf Berndt*
+
+<img src="/learn-mathematics/img/berndt.jpg" alt="Berndt" width="200px"/>
 
 ## Algebraic Geometry
 
@@ -631,7 +657,11 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 ### Classical Algebraic Geometry
 
-**[]()**, **
+**[Algebraic Curves](https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf)**, *William Fulton*
+
+<img src="/learn-mathematics/img/fulton-ag.png" alt="Fulton AG" width="200px"/>
+
+**[Basic Algebraic Geometry 1](https://www.amazon.com/Basic-Algebraic-Geometry-Varieties-Projective/dp/364242726X/)**, *Igor R. Shafarevich*
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
@@ -641,63 +671,75 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 ### Modern Algebraic Geometry
 
-**[]()**, **
+**[Introduction to Schemes](https://www.uio.no/studier/emner/matnat/math/MAT4215/data/masteragbook.pdf)**, *Geir Ellingsrud, John Christian Ottem*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/ottem-ellingsrud.jpg" alt="Ottem-Ellingsrud" width="200px"/>
 
-**[]()**, **
+**[Algebraic Geometry I](https://www.amazon.com/Algebraic-Geometry-Examples-Exercises-Mathematik/dp/3658307323?ref_=ast_sto_dp)**, *Ulrich Görtz, Torsten Wedhorn*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/gortz.jpg" alt="Görtz-Wedhorn" width="200px"/>
 
-**[]()**, **
+**[Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf)**, *Ravi Vakil*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/foag.jpg" alt="FOAG" width="200px"/>
 
-**[]()**, **
+**[Algebraic Geometry](https://www.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449/)**, *Robin Hartshorne*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/hartshorne.jpg" alt="Hartshorne" width="200px"/>
 
-**[]()**, **
+**[Algebraic Geometry and Arithmetic Curves](https://www.amazon.com/Algebraic-Geometry-Arithmetic-Graduate-Mathematics/dp/0199202494/)**, *Qing Liu*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/liu.jpg" alt="Liu" width="200px"/>
 
 ### Complex Geometry
 
-**[]()**, **
+**[Complex Geometry](https://www.amazon.com/Complex-Geometry-Introduction-Daniel-Huybrechts/dp/3540212906/)**, *Daniel Huybrechts*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/huybrechts.jpg" alt="Huybrechts" width="200px"/>
+
+**[Algebraic Geometry over the Complex Numbers](https://www.amazon.com/Algebraic-Geometry-Complex-Numbers-Universitext/dp/1461418089/)**, *Donu Arapura*
+
+<img src="/learn-mathematics/img/arapura.jpg" alt="Arapura" width="200px"/>
+
+**[Algebraic Curves and Riemann Surfaces](https://www.amazon.com/Algebraic-Riemann-Surfaces-Graduate-Mathematics/dp/0821802682/)**, *Rick Miranda*
+
+<img src="/learn-mathematics/img/miranda.jpg" alt="Arapura" width="200px"/>
 
 ### Computational Algebraic Geometry
 
-**[]()**, **
+**[Ideals, Varieties, and Algorithms](https://www.amazon.com/Ideals-Varieties-Algorithms-Computational-Undergraduate/dp/3319167200/)**, *David A. Cox, et al*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/cls.jpg" alt="CLS" width="200px"/>
 
-**[]()**, **
+**[Using Algebraic Geometry](https://www.amazon.com/Using-Algebraic-Geometry-Graduate-Mathematics-ebook/dp/B00FB0FL6W/)**, *David A. Cox, et al*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/cls-grad.jpg" alt="CLS Graduate" width="200px"/>
 
 ### Étale Cohomology
 
-**[]()**, **
+**[Étale Cohomology](https://www.amazon.com/%C3%89tale-Cohomology-PMS-33-Princeton-Mathematical/dp/0691171106/)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/milne-ec.jpg" alt="Milne EC" width="200px"/>
 
 ### Algebraic Groups
 
-**[]()**, **
+**[Algebraic Groups](https://www.amazon.com/Algebraic-Groups-Cambridge-Advanced-Mathematics-ebook/dp/B074XC6NCP/)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/milne-agroups.jpg" alt="Milne AGroups" width="200px"/>
+
+**[Linear Algebraic Groups](https://www.amazon.com/Linear-Algebraic-Groups-Graduate-Mathematics/dp/0387901086/)**, **
+
+<img src="/learn-mathematics/img/humphreys-ag.jpg" alt="Humphreys AG" width="200px"/>
 
 ### Arithmetic Geometry
 
-**[]()**, **
+**[Abelian Varities](https://www.jmilne.org/math/CourseNotes/AV.pdf)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/milne-av.jpg" alt="Milne AV" width="200px"/>
 
-**[]()**, **
+**[An Invitation to Arithmetic Geometry](https://www.amazon.com/Invitation-Arithmetic-Geometry-Graduate-Mathematics/dp/1470467259/)**, **
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/lorenzini.jpg" alt="lorenzini" width="200px"/>
 
 ## Number Theory
 
@@ -775,6 +817,14 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
+**[Categories and Sheaves](https://www.amazon.com/Categories-Sheaves-Introduction-mathematischen-Wissenschaften-ebook/dp/B000UG85UQ/)**, *Masaki Kashiwara, Pierre Schapira*
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
+**[]()**, **
+
+<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+
 **[]()**, **
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
@@ -827,6 +877,10 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
+### Mathematics History
+
+Stillwell stuff
+
 ## Applications
 
 
@@ -860,7 +914,7 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Relativity
-
+https://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068/ref=sr_1_1?crid=3KO64XWYBH7Z0&dib=eyJ2IjoiMSJ9.IFQRWbtWEca-dVpEst1LNXVgmxaJLXkcZHKAJhMzKTl3b0N2wGeiTHNSeqYqwqfc1k5Y_LHCxQcfQU58tsW-I56QAKPXY4-0rd59ffdkSIf_w0bAYtH78mHsQKpWNdcfkJnUmgN4FRseyVfuzj3l1dQaVMgaIKm8AfHkgnTxnsvgH28jRko8nL-lxoVR_iajfx5SdpzGO4qDArJOTPoEWm0GQKYXc3ycGd0plMBukRw.UkkVfjaCes1oHKHo2JQfqzo4Wr6vAKRDxLUF8EmSRWE&dib_tag=se&keywords=topology+and+geometry+physics&qid=1711141939&sprefix=topology+and+geometry+physic%2Caps%2C166&sr=8-1
 **[]()**, **
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
