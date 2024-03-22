@@ -547,7 +547,7 @@ What I like most about this book is the way it handles Galois theory: by discuss
 
 **[An Introduction to Algebraic Topology](https://www.amazon.com/Introduction-Algebraic-Topology-Graduate-Mathematics/dp/0387966781/)**, *Joseph J. Rotman*
 
-<img src="/learn-mathematics/img/rotman-at.jpg" alt="Rotman AT"/>
+<img src="/learn-mathematics/img/rotman-at.jpg" alt="Rotman AT" witdth="200px"/>
 
 **[Algebraic Topology](https://www.amazon.com/Algebraic-Topology-Course-Graduate-Mathematics/dp/0387943277/)**, *William Fulton*
 
