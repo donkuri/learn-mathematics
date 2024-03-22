@@ -475,6 +475,8 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 <img src="/learn-mathematics/img/jacobson.jpg" alt="Jacobson" width="200px"/>
 
+Yet more Lang:
+
 **[Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-Serge/dp/038795385X/)**, *Serge Lang*
 
 <img src="/learn-mathematics/img/lang-algebra.jpg" alt="Lang Algebra" width="200px"/>
