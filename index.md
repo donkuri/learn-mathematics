@@ -579,7 +579,7 @@ The approach here is pretty different, where cohomology groups are introduced fi
 
 <img src="/learn-mathematics/img/arkowitz.jpg" alt="Arkowitz" width="200px"/>
 
-**[Categorical Hommotopy Theory](https://www.amazon.com/Categorical-Homotopy-Theory-Mathematical-Monographs-ebook/dp/B00J8LQS80/)**, *Emily Riehl*
+**[Categorical Homotopy Theory](https://www.amazon.com/Categorical-Homotopy-Theory-Mathematical-Monographs-ebook/dp/B00J8LQS80/)**, *Emily Riehl*
 
 <img src="/learn-mathematics/img/riehl-homotopy.jpg" alt="Riehl Homotopy" width="200px"/>
 
@@ -723,17 +723,17 @@ This section slightly intersects with the one on representation theory (especial
 
 <img src="/learn-mathematics/img/milne-agroups.jpg" alt="Milne AGroups" width="200px"/>
 
-**[Linear Algebraic Groups](https://www.amazon.com/Linear-Algebraic-Groups-Graduate-Mathematics/dp/0387901086/)**, **
+**[Linear Algebraic Groups](https://www.amazon.com/Linear-Algebraic-Groups-Graduate-Mathematics/dp/0387901086/)**, *James E. Humphreys*
 
 <img src="/learn-mathematics/img/humphreys-ag.jpg" alt="Humphreys AG" width="200px"/>
 
 ### Arithmetic Geometry
 
-**[Abelian Varities](https://www.jmilne.org/math/CourseNotes/AV.pdf)**, *J.S. Milne*
+**[Abelian Varieties](https://www.jmilne.org/math/CourseNotes/AV.pdf)**, *J.S. Milne*
 
 <img src="/learn-mathematics/img/milne-av.png" alt="Milne AV" width="200px"/>
 
-**[An Invitation to Arithmetic Geometry](https://www.amazon.com/Invitation-Arithmetic-Geometry-Graduate-Mathematics/dp/1470467259/)**, **
+**[An Invitation to Arithmetic Geometry](https://www.amazon.com/Invitation-Arithmetic-Geometry-Graduate-Mathematics/dp/1470467259/)**, *Dino Lorenzini*
 
 <img src="/learn-mathematics/img/lorenzini.jpg" alt="lorenzini" width="200px"/>
 
@@ -743,61 +743,61 @@ This section slightly intersects with the one on representation theory (especial
 
 ### Analytic Number Theory
 
-**[]()**, **
+**[Introduction to Analytic Number Theory](https://www.amazon.com/Introduction-Analytic-Number-Theory-Apostol/dp/0387901639/ref=sr_1_1?crid=2D18GWR38K1FZ&dib=eyJ2IjoiMSJ9.swV8CUeh7U0WpIy7CrNJ4_SWrNEhD2xpVKyZceBtORXTp2vDLZtq0U6PJeVlI_irKnoqMm7v2cEeCVHEuYs6zjMgu6CV3dD4kmRLrM5MDnwSMwc6Y32Xmt_8s7jqmk_VpuVhGTGDmlvBN522dhWyXwVsVTS1usTBVxaX6jYmmmsdCXTvWmGectxTzhPRvsRmctAC5Dncd7-DoUwhLTViWd18_L8-QC5iY8n6prjugo1By2UyZ6bndmkwFSulMW-Tty3ePop1ewP5ce6e8p4YZw.Lh2BB7n6cfPhX7KUaIhYT0szFESDBLGK8vvVc4NhUBM&dib_tag=se&keywords=apostol+analytic&qid=1711146881&sprefix=apostol+analyti%2Caps%2C172&sr=8-1)**, *Tom M. Apostol*
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
-**[]()**, **
+**[Multiplicative Number Theory](https://www.amazon.com/Multiplicative-Number-Theory-Graduate-Mathematics/dp/0387950974/ref=sr_1_1?crid=3NFJTKZOWRGVP&dib=eyJ2IjoiMSJ9.gIAr-YN4V3hb29v6M6UvRQKMXQF3CSStj5W1BRcObD6G6o7_e8PDg7QIj5SOBmGyX6w9WFRTdxPijCuK-JPwXSKlo7RInYqrvg3OJYsCabJS_ZV3Q1k538cUSluxZsBDw-oHZoy0OgS787UXETehjLq5cedhl0Gpk0ngIzSHE6xmlbL9Ly-AsflUlbCEzhDmxbx51X0fZ4dA3VO6WSofVQ8UwjoSSQcAq9fRnB2Vc_c.gS9Ct5OF9Od-7bJURll2K6TAzLmsih7OvoQ-imKTcpw&dib_tag=se&keywords=multiplicative+number+theory&qid=1711146920&sprefix=multiplicative+number+theor%2Caps%2C191&sr=8-1)**, *Harold Davenport*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/davenport.jpg" alt="Davenport" width="200px"/>
 
-**[]()**, **
+**[Multiplicative Number Theory I](https://www.amazon.com/Multiplicative-Number-Theory-Classical-Mathematics/dp/0521849039/ref=sr_1_2?crid=3NFJTKZOWRGVP&dib=eyJ2IjoiMSJ9.gIAr-YN4V3hb29v6M6UvRQKMXQF3CSStj5W1BRcObD6G6o7_e8PDg7QIj5SOBmGyX6w9WFRTdxPijCuK-JPwXSKlo7RInYqrvg3OJYsCabJS_ZV3Q1k538cUSluxZsBDw-oHZoy0OgS787UXETehjLq5cedhl0Gpk0ngIzSHE6xmlbL9Ly-AsflUlbCEzhDmxbx51X0fZ4dA3VO6WSofVQ8UwjoSSQcAq9fRnB2Vc_c.gS9Ct5OF9Od-7bJURll2K6TAzLmsih7OvoQ-imKTcpw&dib_tag=se&keywords=multiplicative+number+theory&qid=1711146920&sprefix=multiplicative+number+theor%2Caps%2C191&sr=8-2)**, *Hugh L. Montgomery, Robert C. Vaughan*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/montgomery.jpg" alt="Montgomery" width="200px"/>
 
 ### Elliptic Curves
 
-**[]()**, **
+**[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Cryptography-Mathematics-Applications/dp/1420071467/ref=sr_1_7?crid=3N8HJ6A4XBTXE&dib=eyJ2IjoiMSJ9.Ri_HQKBQQosLeUW4q-NTygnkJ7f6zn_wQ1IeSZF-86LcL27rOTSgae_ltzxATej5NkFRZX8j4JVrnu8LgAOdxLVli0ha0dmi_WxQaYWe_h1GjtW0nDsCJxYFLTD2bFMhPKwgDIALNy9AKwsDtPICG3IdZMn0bsEEll4SbcMDMjYw5EpfhGqx8ZGpWJ5ewxQaYwvUv3l7w8VTV9CzIISQxTqDHDlyYg2jo0awFGiVE-k.Cu5AKfTScOORPJH3EdXtfrOsotolcKEUO3AcGYNl73I&dib_tag=se&keywords=elliptic+curves&qid=1711147070&sprefix=elliptic+curve%2Caps%2C179&sr=8-7)**, *Lawrence C. Washington*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/washington.jpg" alt="Washington" width="200px"/>
 
-**[]()**, **
+**[The Arithmetic of Elliptic Curves](https://www.amazon.com/Arithmetic-Elliptic-Curves-Graduate-Mathematics/dp/0387094938/ref=sr_1_1?crid=3N8HJ6A4XBTXE&dib=eyJ2IjoiMSJ9.Ri_HQKBQQosLeUW4q-NTygnkJ7f6zn_wQ1IeSZF-86LcL27rOTSgae_ltzxATej5NkFRZX8j4JVrnu8LgAOdxLVli0ha0dmi_WxQaYWe_h1GjtW0nDsCJxYFLTD2bFMhPKwgDIALNy9AKwsDtPICG3IdZMn0bsEEll4SbcMDMjYw5EpfhGqx8ZGpWJ5ewxQaYwvUv3l7w8VTV9CzIISQxTqDHDlyYg2jo0awFGiVE-k.Cu5AKfTScOORPJH3EdXtfrOsotolcKEUO3AcGYNl73I&dib_tag=se&keywords=elliptic+curves&qid=1711147070&sprefix=elliptic+curve%2Caps%2C179&sr=8-1)**, *Joseph H. Silverman*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/silverman.jpg" alt="Silverman" width="200px"/>
 
 ### Algebraic Number Theory
 
-**[]()**, **
+**[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Grundlehren-mathematischen-Wissenschaften/dp/3540653996/ref=sr_1_1?crid=15OSO20NR0MRB&dib=eyJ2IjoiMSJ9.LuU3_wKqvKgO9AxKBlSNylSp7yXC3gxIpJPF-GKnrfvGsrFyR51UPfFXp4urRc2uAixdQSIKCiBHSz9DF88d7EWfBjE3APOgIjeCOHrdQfmwXvY2G13AFdj174jOQimuW7QuFia-3deP4ffNNrzSiKKdPqBXsCjvp1MdWSmoACKzqruAEq_dj85vjqT_2mb8fueiMwv79RGWiMEy5vCnQhJAHRzGRUnu7E2H_RxC3IbVpRnKxpfRggqogON_x4ay6HKk_6AcCb4DR8ImvSx_OhHCtb9oPNWivFJKlKgMTlE.nOslLyCq6Q4P1J79RCMCaRWb0fBZg9_EKmlPjE1IlFM&dib_tag=se&keywords=algebraic+number+theory&qid=1711147141&sprefix=algebriac+number+theor%2Caps%2C172&sr=8-1)**, *Jürgen Neukirch*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/neukirch.jpg" alt="Neukirch" width="200px"/>
 
-**[]()**, **
+**[Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/milne-ant.jpg" alt="Milne ANT" width="200px"/>
 
-**[]()**, **
+**[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Theory-Graduate-Mathematics/dp/0387942254/ref=sr_1_3?crid=15OSO20NR0MRB&dib=eyJ2IjoiMSJ9.LuU3_wKqvKgO9AxKBlSNylSp7yXC3gxIpJPF-GKnrfvGsrFyR51UPfFXp4urRc2uAixdQSIKCiBHSz9DF88d7EWfBjE3APOgIjeCOHrdQfmwXvY2G13AFdj174jOQimuW7QuFia-3deP4ffNNrzSiKKdPqBXsCjvp1MdWSmoACKzqruAEq_dj85vjqT_2mb8fueiMwv79RGWiMEy5vCnQhJAHRzGRUnu7E2H_RxC3IbVpRnKxpfRggqogON_x4ay6HKk_6AcCb4DR8ImvSx_OhHCtb9oPNWivFJKlKgMTlE.nOslLyCq6Q4P1J79RCMCaRWb0fBZg9_EKmlPjE1IlFM&dib_tag=se&keywords=algebraic+number+theory&qid=1711147200&sprefix=algebriac+number+theor%2Caps%2C172&sr=8-3)**, *Serge Lang*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/lang-ant.jpg" alt="Lang ANT" width="200px"/>
 
-**[]()**, **
+**[Number Fields](https://www.amazon.com/Number-Fields-Universitext-Daniel-Marcus/dp/3319902326/ref=sr_1_1?crid=3UQ7AJWDTLBER&dib=eyJ2IjoiMSJ9.skDwT-j64Da7uO54gJhcIeoMRyr8wzJqeWYWPac0mXL0hhkAi76c16yaQ6lfypQw3SNH0oFk5lqb4q4864VCXqTNa8Xj5D-0YWgxiXZ0r0F9AXN2dMNYqWumSmxIIVfjzfX33-4MMFVlOrfjI9ZM2GnVezOc0qrDIIBDq81TpTWyNrLWYN07sbZ0NvXWnseihez2r3I7KCSkaoOlEX6Twk89LXOXFnbmP9j6BPk6G5s.ABgdbIcp8tQyYVlYMfJJwuPPNwebyxFghKnQHhwu8MU&dib_tag=se&keywords=number+fields&qid=1711147307&sprefix=number+fiel%2Caps%2C203&sr=8-1)**, *Daniel A. Marcus*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/marcus.jpg" alt="Marcus" width="200px"/>
 
-### p-Adic Analysis
+### ***p***-Adic Analysis
 
-**[]()**, **
+**[*p*-adic Numbers](https://www.amazon.com/p-adic-Numbers-Introduction-Fernando-Gouv%C3%AAa/dp/3030472949/ref=pd_sim_d_sccl_2_1/138-5503256-4552624?pd_rd_w=e76so&content-id=amzn1.sym.552090e4-055d-4721-9dec-3ab260a2aa3f&pf_rd_p=552090e4-055d-4721-9dec-3ab260a2aa3f&pf_rd_r=KPFRFSB3R560QQ5MPQRY&pd_rd_wg=bp4AY&pd_rd_r=c036e60f-2495-41df-b16b-4cf6d460644a&pd_rd_i=3030472949&psc=1)**, *Fernando Q. Gouvêa*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/gouvea.jpg" alt="Gouvea" width="200px"/>
 
-**[]()**, **
+**[*p*-adic Numbers, *p*-adic Analysis, and Zeta-Functions](https://www.amazon.com/Numbers-Analysis-Zeta-Functions-Graduate-Mathematics/dp/0387960171/ref=sr_1_4?crid=1OZYABBDKRAWG&dib=eyJ2IjoiMSJ9.2RvHR_3Ek4vhmMCkZY46SgUYy-2HjnXAz4u7uasALcDSQklTztC2d1uCKdZ17qcqpqtixp3VdTtltQveLhZqAokRUbMOEix4qo6ID5Ku8ecaXNRFGWGbeKnLEmNc2_7ZLJpAfAEhK2Lxb-EEMu9DI4DueqCoJN1vl--2YlQyoBZ4Me32L76zLCPlrPGaWyn8dNHgxF9iO_luyYVTwrExr4jUzwyCuLz0du4On-hoCf8K8_Gmdsd2bu06UbtnlApEJ7bonOghMe9-pLPwbwqNH8agkp8lNYdHrEtUWy2-5b0.ZkNK1k4FiXQPDvTNXmwEWg5_HlZTvg7P4CoUSBPXH5A&dib_tag=se&keywords=p-adic&qid=1711147398&sprefix=p-adi%2Caps%2C172&sr=8-4)**, *Neal Koblitz*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/koblitz.jpg" alt="Koblitz" width="200px"/>
 
 ### Modular and Automorphic Forms
 
-**[]()**, **
+**[Automorphic Forms](https://www.amazon.com/Automorphic-Forms-Universitext-Anton-Deitmar/dp/1447144341/ref=sr_1_3?crid=2W9I3H0G3DGP6&dib=eyJ2IjoiMSJ9.I3RoRYqkrLuCdqoQRrGaemhWu5i9T_TXhJg-uzOIpXbJpUlgGZ_0wZEnMUiulfdG9NC0qvE9Fybt58tQCKIrh7WLfe4lX_ffRZalODhY75HP6BNpoUeIzIGyTKfsOw4pTgSqxY95eKl8Gqpqa1GUmdJ5ntzi3ce6bdrVu6yyDZHnBhZklDwrYSVIWrfu8bvXptsK0ogP6QjWK1cyONsWT8To4ed-x8Vg2XGvpASyQeo.VvCZm0zr3sz6iH2FORVr7fcUG2c1UjrZOHBsoBTDx-U&dib_tag=se&keywords=automorphic+forms&qid=1711147477&sprefix=automorphic+form%2Caps%2C176&sr=8-3)**, *Anton Deitmar*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/deitmar-af.jpg" alt="Deitmar AF" width="200px"/>
 
 ## Miscellaneous
 
