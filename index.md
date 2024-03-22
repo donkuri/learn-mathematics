@@ -489,11 +489,9 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 <img src="/learn-mathematics/img/milne-ft.jpg" alt="Milne FT" width="200px"/>
 
-
-
 **[Galois Theory](https://www.amazon.com/Galois-Theory-Graduate-Texts-Mathematics/dp/038790980X/)**, *Harold M. Edwards*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/edwards.jpg" alt="" width="200px"/>
 
 What I like most about this book is the way it handles Galois theory: by discussing at lengths about its history, especially where it came from and what allowed Galois to discover and prove his master theorem.
 
