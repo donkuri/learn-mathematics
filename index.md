@@ -619,7 +619,7 @@ The main unifying theme behind the book is symplectic capacities and the interes
 
 **[Riemannian Geometry](https://www.amazon.com/Riemannian-Geometry-Manfredo-Perdigao-Carmo/dp/0817634908/)**, *Manfredo P. Do Carmo*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/docarmo-riem.jpg" alt="" width="200px"/>
 
 **[Semi-Riemannian Geometry with Applications to Relativity](https://www.amazon.com/Semi-Riemannian-Geometry-Applications-Relativity-Mathematics/dp/0125267401/)**, **
 
@@ -663,17 +663,13 @@ This section slightly intersects with the one on representation theory (especial
 
 **[Basic Algebraic Geometry 1](https://www.amazon.com/Basic-Algebraic-Geometry-Varieties-Projective/dp/364242726X/)**, *Igor R. Shafarevich*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/shafarevich.jpg" alt="Shafarevich" width="200px"/>
 
 ### Modern Algebraic Geometry
 
 **[Introduction to Schemes](https://www.uio.no/studier/emner/matnat/math/MAT4215/data/masteragbook.pdf)**, *Geir Ellingsrud, John Christian Ottem*
 
-<img src="/learn-mathematics/img/ottem-ellingsrud.jpg" alt="Ottem-Ellingsrud" width="200px"/>
+<img src="/learn-mathematics/img/ottem-ellingsrud.png" alt="Ottem-Ellingsrud" width="200px"/>
 
 **[Algebraic Geometry I](https://www.amazon.com/Algebraic-Geometry-Examples-Exercises-Mathematik/dp/3658307323?ref_=ast_sto_dp)**, *Ulrich Görtz, Torsten Wedhorn*
 
@@ -681,7 +677,7 @@ This section slightly intersects with the one on representation theory (especial
 
 **[Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf)**, *Ravi Vakil*
 
-<img src="/learn-mathematics/img/foag.jpg" alt="FOAG" width="200px"/>
+<img src="/learn-mathematics/img/foag.png" alt="FOAG" width="200px"/>
 
 **[Algebraic Geometry](https://www.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449/)**, *Robin Hartshorne*
 
@@ -735,7 +731,7 @@ This section slightly intersects with the one on representation theory (especial
 
 **[Abelian Varities](https://www.jmilne.org/math/CourseNotes/AV.pdf)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/milne-av.jpg" alt="Milne AV" width="200px"/>
+<img src="/learn-mathematics/img/milne-av.png" alt="Milne AV" width="200px"/>
 
 **[An Invitation to Arithmetic Geometry](https://www.amazon.com/Invitation-Arithmetic-Geometry-Graduate-Mathematics/dp/1470467259/)**, **
 
