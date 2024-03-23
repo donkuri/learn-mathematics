@@ -21,7 +21,7 @@
 		- [General Topology](#general-topology)
 		- [Ordinary Differential Equations](#ordinary-differential-equations)
 		- [Classical Differential Geometry](#classical-differential-geometry)
-- [Part II: Electives](part-ii-electives)
+- [Part II: Electives](#part-ii-electives)
 	- [Analysis](#analysis)
 	- [Algebra](#algebra)
 	- [Topology](#topology)
@@ -35,6 +35,16 @@
 		- [Finance](#finance)
 		- [Biology](#biology)
 		- [Chemistry](#chemistry)
+- [Part III: Possible Tracks](#part-iii-possible-tracks)
+	- [Generalist track](#generalist-track)
+	- [Analyst track](#analyst-track)
+	- [Algebraist track](#algebraist-track)
+	- [Geometer track](#geometer-track)
+	- [Algebraic Geometer track](#algebraic-geometer-track)
+	- [Number Theorist track](#number-theorist-track)
+	- [Physicist track](#physicist-track)
+	- [Computer Scientist track](#computer-scientist-track)
+	- [Finance track](#finance-track)
 
 # Introductory remarks
 
@@ -318,7 +328,9 @@ I have yet to see a better exposition of topology.
 
 # Part II: Electives
 
-In this part, we gives a few potential electives an undergraduate mathematics student might take. Most of these are graduate-level, but if you have done the previous part, you are more than prepared for graduate-level classes. Sadly, this is also where my biases will start to show, I can only talk about things I have seen myself. There are many, many topics I do not know about or have never studied (especially at a graduate-level). In turn, some topics I have studied deeper (like algebraic geometry and symplectic topology) will have more references and topics covered. If you are interested in subjects not covered here, it doesn't mean I don't like them or I do not consider them important, it is simply that I have not personally had the chance to study them yet.
+In this part, we gives a few potential electives an undergraduate mathematics student might take. Most of these are graduate-level, but if you have done the previous part, you are more than prepared for graduate-level classes. Sadly, this is also where my biases will start to show. In some cases, I will mention books I have only looked at rapidly. There are many, many topics I do not know about or have never studied (especially at a graduate-level). This means that some recommendations are there in part due to community support and/or through someone who recommended it to me. I believe it is better to have them up rather than nothing, because it's at least a place to start. 
+
+In turn, some topics I have studied deeper (like geometry, analysis and especially algebra) will have more references and more topics will be discussed. If you are interested in subjects not covered here, it doesn't mean I don't like them or I do not consider them important, it is simply that I have not seen anything about them yet.
 
 ## Analysis
 
@@ -891,6 +903,38 @@ It's Humphreys so I assume it is both difficult and great to hone your skills at
 
 In general, if I had a student interested in modern algebra, I'd just have them read everything Milne wrote.
 
+### Elliptic Curves
+
+Elliptic curves are some of the most interesting objects in mathematics. I have taken multiple courses on the subject and everytime it's a pleasure. My favorite first book on the subject is this:
+
+**[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Cryptography-Mathematics-Applications/dp/1420071467/)**, *Lawrence C. Washington*
+
+<img src="/learn-mathematics/img/washington.jpg" alt="Washington" width="200px"/>
+
+The book is exceptionally clear with good exercises. I loved the parts that discussed cryptography. Personally, I would supplement it with something else, maybe a bit more difficult. I used this book:
+
+**[The Arithmetic of Elliptic Curves](https://www.amazon.com/Arithmetic-Elliptic-Curves-Graduate-Mathematics/dp/0387094938/)**, *Joseph H. Silverman*
+
+<img src="/learn-mathematics/img/silverman.jpg" alt="Silverman" width="200px"/>
+
+It's a standard reference textbook for a reason. The section on elliptic curves in C was very nice, one of the coolest bit of mathematics I have learned. Of course, I have to recommend Milne as well:
+
+**[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Second-James-Milne-ebook/dp/B08H5GM99Y/)**, *J.S. Milne*
+
+<img src="/learn-mathematics/img/milne-ecurve.png" alt="" width="200px"/>
+
+Not much to say on this one, I haven't used it a whole lot but it's Milne so it's hard to go wrong. There is a follow-up:
+
+**[Complex Multiplication](https://www.jmilne.org/math/CourseNotes/cm.html)**, *J.S. Milne*
+
+<img src="/learn-mathematics/img/milne-cm.png" alt="" width="200px"/>
+
+Complex multiplication is a fascinating topic that has a rich history. While the theory was originally developed for elliptic curves, it grew to include abelian varieties more generally (see below). The reference I know and I consulted a bit is Lang:
+
+**[Complex Multiplication](https://www.amazon.com/Complex-Multiplication-Grundlehren-mathematischen-Wissenschaften/dp/0387907866/)**, *Serge Lang*
+
+<img src="/learn-mathematics/img/lang-cm.jpg" alt="Lang CM" width="200px"/>
+
 ### Arithmetic Geometry
 
 Arithmetic geometry is at the crossroads between algebraic geometry and modern number theory. Roughly speaking, it is what happens when you are interested in doing algebraic geometry over things like the integers. It is a wonderful subject, and much of the machinery behind algebraic geometry (schemes and the likes) were developped to solve questions in arithmetic geometry, most notably the Weil conjectures, which include the famous finite field version of Riemann's Hypothesis. Anyway, I am more interested in the part that tries to generalize elliptic curves personally:
@@ -909,393 +953,726 @@ I like that the book starts with commutative algebra and progressively builds up
 
 ## Number Theory
 
-
+We have met number theory in the first part, but in this section we introduce analytic and algebraic tools that let us go further and prove some really interesting theorems.
 
 ### Analytic Number Theory
+
+Analytic number theory uses (complex) analysis to prove some truly spectacular results such as the prime number theorem. My favorite introduction to the subject is:
 
 **[Introduction to Analytic Number Theory](https://www.amazon.com/Introduction-Analytic-Number-Theory-Apostol/dp/0387901639/)**, *Tom M. Apostol*
 
 <img src="/learn-mathematics/img/apostol.jpg" alt="Apostol" width="200px"/>
 
+Apostol is a great writer, I also liked his calculus and especially his analysis book. I liked the discussions in the first chapter. It is easier than something like:
+
 **[Multiplicative Number Theory](https://www.amazon.com/Multiplicative-Number-Theory-Graduate-Mathematics/dp/0387950974/)**, *Harold Davenport*
 
 <img src="/learn-mathematics/img/davenport.jpg" alt="Davenport" width="200px"/>
+
+A standard reference on the subject. Personally I do not know a whole lot of analytic number theory so I cannot tell much about it. This is another standard reference that is beloved by many:
 
 **[Multiplicative Number Theory I](https://www.amazon.com/Multiplicative-Number-Theory-Classical-Mathematics/dp/0521849039/)**, *Hugh L. Montgomery, Robert C. Vaughan*
 
 <img src="/learn-mathematics/img/montgomery.jpg" alt="Montgomery" width="200px"/>
 
-### Elliptic Curves
-
-**[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Cryptography-Mathematics-Applications/dp/1420071467/)**, *Lawrence C. Washington*
-
-<img src="/learn-mathematics/img/washington.jpg" alt="Washington" width="200px"/>
-
-**[The Arithmetic of Elliptic Curves](https://www.amazon.com/Arithmetic-Elliptic-Curves-Graduate-Mathematics/dp/0387094938/)**, *Joseph H. Silverman*
-
-<img src="/learn-mathematics/img/silverman.jpg" alt="Silverman" width="200px"/>
-
-**[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Second-James-Milne-ebook/dp/B08H5GM99Y/)**, *J.S. Milne*
-
-<img src="/learn-mathematics/img/milne-ecurve.png" alt="" width="200px"/>
-
-**[Complex Multiplication](https://www.jmilne.org/math/CourseNotes/cm.html)**, *J.S. Milne*
-
-<img src="/learn-mathematics/img/milne-cm.png" alt="" width="200px"/>
-
-**[Complex Multiplication](https://www.amazon.com/Complex-Multiplication-Grundlehren-mathematischen-Wissenschaften/dp/0387907866/)**, *Serge Lang*
-
-<img src="/learn-mathematics/img/lang-cm.jpg" alt="Lang CM" width="200px"/>
-
-
-https://www.jmilne.org/math/CourseNotes/CM.pdf
-
 ### Algebraic Number Theory
+
+Algebraic number theory uses tools from abstract algebra (especially commutative algebra) to study number theory. Generally, the subject deals with extensions of the rational numbers, with the ultimate goal being to find the absolute Galois group of the rationals. There are multiple books I really like. The one I used to learn the basics of the subject is:
 
 **[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Grundlehren-mathematischen-Wissenschaften/dp/3540653996/)**, *Jürgen Neukirch*
 
 <img src="/learn-mathematics/img/neukirch.jpg" alt="Neukirch" width="200px"/>
 
+It's well written and I like the examples. The exercises are well chosen too. Great recommendation. Next is:
+
 **[Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf)**, *J.S. Milne*
 
 <img src="/learn-mathematics/img/milne-ant.png" alt="Milne ANT" width="200px"/>
 
-https://www.jmilne.org/math/CourseNotes/CFT.pdf
+The standard Milne recommendation. He wrote extensively about algebraic number theory and it is a wonderful starting place. I also suggest the other notes he wrote on the subject:
 
-**[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Theory-Graduate-Mathematics/dp/0387942254/)**, *Serge Lang*
+**[Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/lang-ant.jpg" alt="Lang ANT" width="200px"/>
+<img src="/learn-mathematics/img/milne-ant.png" alt="Milne ANT" width="200px"/>
+
+**[Class Field Theory](https://www.jmilne.org/math/CourseNotes/CFT.pdf)**, *J.S. Milne*
+
+<img src="/learn-mathematics/img/milne-cft.png" alt="Milne ANT" width="200px"/>
+
+If you are looking for something slightly easier and more approachable, I liked the following:
 
 **[Number Fields](https://www.amazon.com/Number-Fields-Universitext-Daniel-Marcus/dp/3319902326/)**, *Daniel A. Marcus*
 
 <img src="/learn-mathematics/img/marcus.jpg" alt="Marcus" width="200px"/>
 
-### ***p***-Adic Analysis
+This focuses on number fields exclusively, i.e. algebraic extensions of the rationals. I found it much more approachable than Neukirch and the like. Great stuff. Finally, the usual Lang recommendation:
+
+**[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Theory-Graduate-Mathematics/dp/0387942254/)**, *Serge Lang*
+
+<img src="/learn-mathematics/img/lang-ant.jpg" alt="Lang ANT" width="200px"/>
+
+As usual with Lang, there are interesting discussions on the finer points of the theory. The discussion on ideles and adeles was nice, I like it.
+
+### ***p***-Adic Methods
+
+In real analysis, you saw how to complete the rationals with respect to the Euclidean distance to get the real number system. It turns out there are other possible metrics, namely the *p*-adic metrics. If you complete the rationals with respect to these, you get *p*-adic fields. These are exceptionally cool and I loved the class I took on *p*-adic analysis in particular. The most approachable book I know is:
 
 **[*p*-adic Numbers](https://www.amazon.com/p-adic-Numbers-Introduction-Fernando-Gouv%C3%AAa/dp/3030472949/)**, *Fernando Q. Gouvêa*
 
 <img src="/learn-mathematics/img/gouvea.jpg" alt="Gouvea" width="200px"/>
 
+The book is great and suitable to undergraduates even. I liked chapter 7 on analysis in particular. The book I first used to learn the subject was this:
+
 **[*p*-adic Numbers, *p*-adic Analysis, and Zeta-Functions](https://www.amazon.com/Numbers-Analysis-Zeta-Functions-Graduate-Mathematics/dp/0387960171/)**, *Neal Koblitz*
 
 <img src="/learn-mathematics/img/koblitz.jpg" alt="Koblitz" width="200px"/>
 
+This is harder than Gouvêa and also more exhaustive. The exercises are good, they will help you master the inherent weirdness that comes with *p*-adics. Still, I would read Gouvêa first personally.
+
 ### Modular and Automorphic Forms
+
+Modular (and more generally automorphic) forms are special kinds of complex analytic functions with values in a topological group such that they are invariant under the action of a subgroup. They have important applications in number theory, notably through the [Langlands program](https://en.wikipedia.org/wiki/Langlands_program). I do not know too much about them except for the special case of the Eisenstein series and elliptic functions, but I did have to read about it and I used this book:
 
 **[Automorphic Forms](https://www.amazon.com/Automorphic-Forms-Universitext-Anton-Deitmar/dp/1447144341/)**, *Anton Deitmar*
 
 <img src="/learn-mathematics/img/deitmar-af.jpg" alt="Deitmar AF" width="200px"/>
 
+There are a few books written by Deitmar in the list and they are all good, this is no exception. I found it hard, but that was probably due to my inexperience rather than the actual book. At least I think so. Either way, the short amount I read was good, I liked the examples in particular. There is of course:
+
 **[Modular Functions and Modular Forms](https://www.jmilne.org/math/CourseNotes/mf.html)**, *J.S. Milne*
 
 <img src="/learn-mathematics/img/milne-mf.png" alt="Deitmar AF" width="200px"/>
+
+Milne really wrote about everything and made almost all of it free. Absolutely fantastic. It's Milne so it's probably really good, I haven't read much so I can't tell. Finally there is this:
 
 **[Modular Functions and Dirichlet Series in Number Theory](https://www.amazon.com/Modular-Functions-Dirichlet-Graduate-Mathematics/dp/1461269784/)**, *Tom M. Apostol*
 
 <img src="/learn-mathematics/img/apostol-mf.jpg" alt="Apostol MF" width="200px"/>
 
+This is the follow-up book to Apostol's introduction to analytic number theory book.
+
 ## Miscellaneous
 
-
+In this section, I discuss various subjects that didn't fit directly into any of the other, starting with one of my favorite subject.
 
 ### Category Theory
+
+Category theory, affectionately called *abstract nonsense*, is an interesting theory. It tries to look at mathematical structures primarily through the lens of maps between them, as per the Grothendieck doctrine. I have read multiple books on the subject when I first learned it for algebraic geometry. The one I read I liked best was:
 
 **[Category Theory in Context](https://www.amazon.com/Category-Theory-Context-Aurora-Originals/dp/048680903X/)**, *Emily Riehl*
 
 <img src="/learn-mathematics/img/riehl.jpg" alt="Riehl" width="200px"/>
 
+Riehl discusses many, many examples of categories, functors and the like. I love that. I am not a fan of how wordy the book is though, but that's part of the deal since the book is meant to be approachable. Interesting discussion of Kan extensions, I love the title of the chapter. The standard reference is of course:
+
 **[Categories for the Working Mathematician](https://www.amazon.com/Categories-Working-Mathematician-Graduate-Mathematics/dp/1441931236/)**, *Saunders MacLane*
 
 <img src="/learn-mathematics/img/maclane.jpg" alt="MacLane" width="200px"/>
+
+Mac Lane (along with Eilenberg) invented (discovered?) category theory, so it is no surprise the textbook he wrote would be fantastic. And it is. Personally, I found it a tad bit harder to get into, but I liked it better than Riehl once I knew a bit more about category theory. Get both ideally. I also used this:
 
 **[Categories and Sheaves](https://www.amazon.com/Categories-Sheaves-Introduction-mathematischen-Wissenschaften-ebook/dp/B000UG85UQ/)**, *Masaki Kashiwara, Pierre Schapira*
 
 <img src="/learn-mathematics/img/kashiwara.jpg" alt="Kashiwara" width="200px"/>
 
+This book is huge and covers more than necessary for the vast majority of people. Personally I used it to study sheaves and homological aspects, but it was rough. I mean the book is written well, but it goes fast and it's not easy to follow in my opinion. Still, it's the best reference I know since it has most anything I'd ever want. Another short book I got that I liked tremendously was this:
+
 **[An Introduction to the Language of Category Theory](https://www.amazon.com/Introduction-Language-Category-Textbooks-Mathematics-ebook/dp/B01MS5LCNA/)**, *Steven Roman*
 
 <img src="/learn-mathematics/img/roman-ct.jpg" alt="Roman-CT" width="200px"/>
 
-This has an accompanying YouTube series.
+Steven Roman is a great writer, his book on Field Theory is exceptional. What's better is that he has a YouTube channel where he presents mathematics. This book in particular has an accompanying YouTube series. Anyway, the book is short and sweet, as is usual with the compact series from Springer. The exercises were nice, on the easier side I would say but I liked them. Finally, here's a textbook that's even easier:
 
 **[Category Theory](https://www.amazon.com/Category-Theory-Oxford-Logic-Guides/dp/0199237182/)**, *Steve Awodey*
 
 <img src="/learn-mathematics/img/awodey.jpg" alt="Awodey" width="200px"/>
 
+The presentation is good and it's very approachable. It's adapted to students of computer science as well in my opinion.
+
 ### Mathematical Logic
+
+I know practically nothing about mathematical logic so I will keep this section short. The textbooks I know are these two:
 
 **[A Course in Mathematical Logic for Mathematicians](https://www.amazon.com/Course-Mathematical-Mathematicians-Graduate-Mathematics/dp/1441906142/)**, *Yu. I. Manin*
 
 <img src="/learn-mathematics/img/manin.jpg" alt="Manin" width="200px"/>
 
+A reference on the subject and probably the book I'd use to learn about things. If I'm not mistaken, the latest edition has a chapter on model theory which is a very cool subject. The other reference is this:
+
 **[Mathematical Logic](https://www.amazon.com/Mathematical-Logic-Graduate-Texts-Mathematics/dp/3030738388/)**, *Heinz-Dieter Ebbinghaus, et al*
 
 <img src="/learn-mathematics/img/ebbinghaus.jpg" alt="Ebbinghaus" width="200px"/>
 
+Interestingly enough, it was originally edited in the undergraduate series, but I think they bumped it up to the graduate series for some reason. Either way, I heard it was kind of difficult, but I'm not sure. Maybe it was too difficult for undergrads.
+
 ### Graph Theory
+
+Graph Theory is very cool because it's inherently visual, and it has very wide applications. Anything that can be represented as a graph can benefit from it. I know only the very basics and I have read about it in these three books:
 
 **[Graph Theory](https://www.amazon.com/Graph-Theory-Graduate-Texts-Mathematics/dp/1849966907/)**, *J.A. Bondy, U.S.R. Murty*
 
 <img src="/learn-mathematics/img/bondy.jpg" alt="Bondy" width="200px"/>
 
+My favorite of the three. I particularly like the examples. There is also:
+
 **[Graph Theory](https://www.amazon.com/Graph-Theory-Graduate-Texts-Mathematics/dp/3662575604/)**, *Reinhard Diestel*
 
 <img src="/learn-mathematics/img/diestel.jpg" alt="Diestel" width="200px"/>
+
+I believe this is the standard recommendation. As said before, I can't comment much as I haven't read a lot from it. Here's a final recommendation I heard was good from a graph theorist friend of mine:
 
 **[Modern Graph Theory](https://www.amazon.com/Modern-Graph-Theory-Graduate-Mathematics/dp/0387984887/)**, *Béla Bollobás*
 
 <img src="/learn-mathematics/img/bollobas.jpg" alt="Bollobás" width="200px"/>
 
+I am not sure what is meant by "modern" here as I am pretty sure the other two books mentioned above also mention modern methods, but either way check it out.
+
 ### Statistics
+
+Some people might object to the classication of statistics as being a subfield of mathematics. Personally, I don't really care. The section is so small anyway it's irrelevant. My favorite book on mathematical statistics is this:
 
 **[Statistics for Mathematicians](https://www.amazon.com/Statistics-Mathematicians-Rigorous-Textbooks-Mathematics-ebook/dp/B01GQ7XQOM/)**, *Victor M. Panaretos*
 
 <img src="/learn-mathematics/img/panaretos.jpg" alt="Panaretos" width="200px"/>
 
+Panaretos writes well, the level is suitable to undergraduate students (last I know it was used as such) and it really is a book on statistics made for mathematicians. So it is written in the usual theorem-proof style, and I find that refreshing when dealing with statistics. Another good book is this:
+
 **[Mathematical Statistics](https://www.amazon.com/Mathematical-Statistics-Asymptotic-Graduate-Mathematics/dp/0821852833/)**, *Alexander Korostelev, Olga Korostelev*
 
 <img src="/learn-mathematics/img/korostelev.jpg" alt="Korostelev" width="200px"/>
+
+This goes much, much deeper than the first book and is suitable for a graduate course on the subject. I like the fact the chapters are short and sweet. Needless to say, it is a lot harder than the first textbook. If you are interested in statistical learning, it's hard to beat this:
 
 **[The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/)**, *Trevor Hastie, et al*
 
 <img src="/learn-mathematics/img/hastie.jpg" alt="Hastie" width="200px"/>
 
+The book is a classic for a reason. It is well written and suitable to graduate students. If you need something a bit more accessible, try the easier version:
+
 **[An Introduction to Statistical Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1071614177/)**, *Gareth James, et al*
 
 <img src="/learn-mathematics/img/james.jpg" alt="James" width="200px"/>
 
+It is written by the same authors roughly and takes things a step slower, which may or may not be great for you. Try both and see.
+
 ### Game Theory
+
+Game Theory is interesting because rarely has a mathematical discipline had so many books written about it by non-mathematicians, or mathematicians with an audience of non-mathematicians. I think it's because it's so applicable to a variety of fields, including war tactics and economics. In this section, I'll try to focus on the mathematical aspects. The first is written by one of my favorite author:
 
 **[On Numbers and Games](https://www.amazon.com/Numbers-Games-John-H-Conway/dp/1568811276/)**, *John H. Conway*
 
 <img src="/learn-mathematics/img/conway.jpg" alt="Conway" width="200px"/>
 
+Conway writes beautifully, both in his papers (I read one called division by 3, can you believe it?) and in his books. This book delves on the connection between, well, numbers and games. It's a great first book on the subject. Here are two more references for two different parts of the theory:
+
 **[Combinatorial Game Theory](https://www.amazon.com/Combinatorial-Theory-Graduate-Studies-Mathematics/dp/082185190X/)**, *Aaron N. Siegel*
 
 <img src="/learn-mathematics/img/siegel.jpg" alt="Siegel" width="200px"/>
+
+The standard textbook for a graduate class on the subject. I haven't read much about it but it looks good. Then there is:
 
 **[Differential Games](https://www.amazon.com/Differential-Games-Mathematical-Applications-Optimization/dp/0486406822/)**, *Rufus Isaacs*
 
 <img src="/learn-mathematics/img/isaacs.jpg" alt="Isaacs" width="200px"/>
 
+This one specializes on differential games in particular, meaning games that have a variable whose state over time is governed by a differential equation. It is a fascinating theory and this is a great introduction.
+
 #### Numerical Analysis
+
+Numerical analysis is crucial when a direct, analytic solution is not easily found. This includes computational versions of a mathematical subject (see the commutative algebra and algebraic geometry sections for examples) or more generally numerical methods (such as with PDEs). I do not know a whole lot about the subject, I only took a senior undergraduate class on it. We used this textbook:
 
 **[Scientific Computing with MATLAB and Octave](https://www.amazon.com/Scientific-Computing-Computational-Science-Engineering/dp/364245366X/)**, *Alfio Quarteroni, et al*
 
 <img src="/learn-mathematics/img/quarteroni.jpg" alt="Quarteroni" width="200px"/>
 
+Quite frankly, I really liked it. I thought I would hate numerical analysis and this textbook made it bearable. I don't know much about other books, I have seen this one:
+
 **[Theoretical Numerical Analysis](https://www.amazon.com/Theoretical-Numerical-Analysis-Functional-Mathematics-ebook/dp/B00HWV1RFW/)**, *Kendall Atkinson*
 
 <img src="/learn-mathematics/img/atkinson.jpg" alt="Atkinson" width="200px"/>
+
+Apparently it uses functional analysis, but I'm not sure what they mean by this. Read, find out and let me know! Of course, it would be a shame not to mention a book on partial differential equations and numerical methods:
 
 **[Finite Difference Methods for Ordinary and Partial Differential Equations](https://www.amazon.com/Difference-Methods-Ordinary-Differential-Equations/dp/0898716292/)**, *Randall J. LeVeque*
 
 <img src="/learn-mathematics/img/leveque.jpg" alt="LeVeque" width="200px"/>
 
+This seems to be a standard reference in the theory, but I haven't read it so I cannot say much.
+
 ### Mathematics History
 
-**[Mathematics and Its History](https://www.amazon.com/Mathematics-Its-History-Undergraduate-Texts/dp/144196052X/)**, *John Stillwell*
-
-<img src="/learn-mathematics/img/stillwell-math.jpg" alt="Stillwell Math" width="200px"/>
+Mathematics has a rich history, and there are many books written on the subject. My favorite author is Jeremy Gray, and he has written a variety of books:
 
 **[The Real and the Complex](https://www.amazon.com/Real-Complex-Analysis-Undergraduate-Mathematics/dp/3319237144/)**, *Jeremy Gray*
 
 <img src="/learn-mathematics/img/gray-real.jpg" alt="" width="200px"/>
 
+This one is my favorite, it discusses analysis in the 18th and 19th century, a beautiful story.
+
 **[Worlds Out of Nothing](https://www.amazon.com/Worlds-Out-Nothing-Undergraduate-Mathematics/dp/0857290592/)**, *Jeremy Gray*
 
 <img src="/learn-mathematics/img/gray-worlds.jpg" alt="" width="200px"/>
+
+This one focuses on geometry, and its development is absolutely fascinating.
 
 **[A History of Abstract Algebra](https://www.amazon.com/History-Abstract-Algebra-Undergraduate-Mathematics/dp/3319947729/)**, *Jeremy Gray*
 
 <img src="/learn-mathematics/img/gray-algebra.jpg" alt="" width="200px"/>
 
+A history of algebra as the title says. It's interesting to see the difference between the way the ideas were born and how they are taught in modern algebra textbooks, for instance by having groups and rings before fields.
+
 **[Change and Variations](https://www.amazon.com/Change-Variations-Differential-Undergraduate-Mathematics/dp/3030705749/)**, *Jeremy Gray*
 
 <img src="/learn-mathematics/img/gray-variations.jpg" alt="" width="200px"/>
+
+This discusses differential equations and calculus of variations, a subject I do not know enough to comment on, but it's great stuff. Calculus of variations in particular is crucial to physics. Okay, here's a more general textbook:
+
+**[Mathematics and Its History](https://www.amazon.com/Mathematics-Its-History-Undergraduate-Texts/dp/144196052X/)**, *John Stillwell*
+
+<img src="/learn-mathematics/img/stillwell-math.jpg" alt="Stillwell Math" width="200px"/>
+
+I like Stillwell. He writes nicely and this is no different. Great textbook and would be perfect for an undergraduate math history course. Finally, here's another one I like:
 
 **[Number Theory and Its History](https://www.amazon.com/Number-Theory-History-Dover-Mathematics-ebook/dp/B00A73FH1W/)**, *Oysten Ore*
 
 <img src="/learn-mathematics/img/ore.jpg" alt="Ore" width="200px"/>
 
+This discusses number theory specifically, and it's good side reading if you're studying number theory at the same time, to see where the idea came from. For instance, did you know that the name ideal from algebra comes from looking for idealized numbers that would act like primes in certain number fields? Dedekind was ahead of his time, that's for sure.
 
 ## Applications
 
-
+In this section, we look at some applications from mathematics. These books are either mathematical textbooks on the subject they are covering or books targeted at mathematics majors.
 
 ### Physics
 
-
+We finally come to my favorite science: physics. I find physics super cool and the applications to and from mathematics abound.
 
 #### Classical Mechanics
+
+Classical (especially celestial) mechanics is the genesis behind symplectic geometry and in some ways, calculus of variations. There is only one book I recommend, but what a book! Of course, it's Arnol'd:
 
 **[Mathematical Methods of Classical Mechanics](https://www.amazon.com/Mathematical-Classical-Mechanics-Graduate-Mathematics/dp/0387968903/)**, *Vladimir I. Arnol'd*
 
 <img src="/learn-mathematics/img/arnold-cm.jpg" alt="Arnol'd CM" width="200px"/>
 
+This book is not easy. It's about classical mechanics, but it will end up in symplectic geometry. Still, it's great, and it's written by one of the greats. I think everyone should read it, honestly.
 
 #### Quantum Mechanics
+
+Ah, quantum mechanics. Everyone knows about it nowadays, or at least, they think they do. Regardless, it's a fascinating subject and I loved taking a class on it in university. It was a class for math majors so functional analysis was required. Here are the books I used for it:
 
 **[Quantum Theory, Groups and Representations](https://www.amazon.com/Quantum-Theory-Groups-Representations-Introduction/dp/3319646109/)**, *Peter Woit*
 
 <img src="/learn-mathematics/img/woit.jpg" alt="Woit" width="200px"/>
 
+Perhaps my favorite of the three. Woit writes very well and this book has a sort of majestic feel to it (to me at least). I like the presentation and the level is just right. I found Hall slightly easier though:
+
 **[Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X/)**, *Brian C. Hall*
 
 <img src="/learn-mathematics/img/hall-qm.jpg" alt="Hall QM" width="200px"/>
+
+This was the book for the course. Hall wrote a great book on Lie theory and while I like this one, I find it slightly worse. Nothing much though, it's still good stuff. Finally, there's:
 
 **[Quantum Mechanics for Mathematicians](https://www.amazon.com/Quantum-Mechanics-Mathematicians-Graduate-Mathematics/dp/0821846302/)**, *Leon A. Takhtajan*
 
 <img src="/learn-mathematics/img/takhtajan.jpg" alt="Takhtajan" width="200px"/>
 
+It was a bit hard for me to follow as I didn't have the required prerequisites, but what I did get from it, I liked.
+
 #### Relativity
+
+Relativity is a fascinating topic, and I personally find it much weirder than quantum mechanics. It is also exceptionally well suited to mathematics. There are even undergraduate level books discussing it. My favorite is:
 
 **[The Geometry of Spacetime](https://www.amazon.com/Geometry-Spacetime-Introduction-Undergraduate-Mathematics/dp/0387986413/)**, *James J. Callahan*
 
 <img src="/learn-mathematics/img/callahan.jpg" alt="Callahan" width="200px"/>
 
+It is very approachable. I loved the discussion on Minkowski space on it. The high number of diagrams and drawings is a high point. It mostly focuses on special relativity, but there is a discussion of general relativity at the end. Another great book is:
+
 **[Special Relativity](https://www.amazon.com/Special-Relativity-Springer-Undergraduate-Mathematics/dp/1852334266/)**, *N.M.J. Woodhouse*
 
 <img src="/learn-mathematics/img/woodhouse-sr.jpg" alt="WoodHouse SR" width="200px"/>
+
+This is the first out of two books discussing relativity, the second being:
 
 **[General Relativity](https://www.amazon.com/General-Relativity-Springer-Undergraduate-Mathematics/dp/1846284864/)**, *N.M.J. Woodhouse*
 
 <img src="/learn-mathematics/img/woodhouse-gr.jpg" alt="Woodhouse GR" width="200px"/>
 
+These books are clear and I feel like they give a really good introduction to relativity as a whole. If you want something a bit more involved, read this:
+
 **[General Relativity for Mathematicians](https://www.amazon.com/General-Relativity-Mathematicians-Graduate-Mathematics/dp/038790218X/)**, *R. K. Sachs, H. Wu*
 
 <img src="/learn-mathematics/img/sachs.jpg" alt="Sachs" width="200px"/>
 
-**[Geometry, Topology and Physics](https://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068/)**, *Mikio Nakahara*
-
-<img src="/learn-mathematics/img/nakahara.jpg" alt="Nakahara" width="200px"/>
+This is a standard reference for a graduate-level course on general relativity. It is surprisingly short. I like that they included a chapter on cosmology.
 
 #### Gauge Theory
+
+Gauge theory is an important concept in physics, roughly describing physical systems whose Lagrangian is invariant under certain (local) transformations. This is particularly important for particle physics in particular, such as the Standard Model. The book I used to learn about the topic is:
 
 **[Mathematical Gauge Theory](https://www.amazon.com/Mathematical-Gauge-Theory-Applications-Universitext/dp/3319684388/)**, *Mark J.D. Hamilton*
 
 <img src="/learn-mathematics/img/hamilton.jpg" alt="Hamilton" width="200px"/>
 
+Hamilton writes very well and this is one of my favorite books. It has a complete discussion of Lie groups and algebras as well as their representations, but I think you can find a slightly better exposition of the theory elsewhere. The real goal is in the physics portion in my opinion. There is also this very interesting book:
+
 **[Gauge Fields, Knots and Gravity](https://www.amazon.com/GAUGE-FIELDS-KNOTS-GRAVITY-Everything/dp/9810220340/)**, *John Baez, Javier P. Muniain*
 
 <img src="/learn-mathematics/img/baez.jpg" alt="Baez" width="200px"/>
 
+Baez is an interesting figure in the mathematical physics community (as well as a relative to Joan Baez, funny!). This book is pretty ambitious and seeks to show links between, well, gauge fields, knots and quantum gravity. I think you will get more out of the book if you know physics decently well already, but it's worth it. Finally, I could never make a list of mathematics textbook and not mention this:
+
+**[Geometry, Topology and Physics](https://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068/)**, *Mikio Nakahara*
+
+<img src="/learn-mathematics/img/nakahara.jpg" alt="Nakahara" width="200px"/>
+
+I am not sure how to classify this amazing book, as most of it is actually about differential geometry, but it is written with physics researchers in (mathematical) physics in mind, and it does have an important chapter on gauge theories. Regardless, if you are interested in theoretical physics, please read it.
+
 #### Quantum Field Theory
+
+Quantum field theory (usually called QFT) is what happens when you try to quantize fields (such as the electromagnetic field). Unlike quantum mechanics, the mathematics of quantum field theory are... complicated. And also not always defined properly. What does it mean to take a (path) integral? What is the measure? I'm not sure. Either way, it's very interesting. I learned of the theory by reading a cute little book:
 
 **[Frobenius Algebras and 2D Topological Quantum Field Theory](https://www.amazon.com/Frobenius-Algebras-Topological-Theories-Mathematical-ebook/dp/B000SMDWFA/)**, *Joachim Kock*
 
 <img src="/learn-mathematics/img/kock.jpg" alt="Kock" width="200px"/>
 
+Honestly, one could barely call this book a quantum field theory book. It is mostly a book about algebra, topology and category theory. Regardless, it has quantum field theory in the name so it counts (ah!). Either way, I loved reading it and I thought it was great. Not really what quantum field theory is about though. Here's a better read for that:
+
 **[Quantum Fields and Strings](https://www.amazon.com/Quantum-Fields-Strings-Course-Mathematicians/dp/0821820141/)**, *Pierre Deligne, et al*
 
 <img src="/learn-mathematics/img/deligne.gif" alt="Deligne" width="200px"/>
+
+These lecture notes grew out of a course given by Deligne, Witten and other math geniuses at the IAS. It is not easy, and it assumes you're already a mathematician trying to understand what QFT is about. It's a reference though. Instead, I would rather use this:
 
 **[Quantum Field Theory](https://www.amazon.com/Quantum-Field-Theory-Mathematicians-Mathematical/dp/1470464837/)**, *Gerald B. Folland*
 
 <img src="/learn-mathematics/img/folland.jpg" alt="Folland" width="200px"/>
 
+This is a gentler introduction to the subject though it still assumes a lot of prerequisites. Folland does his best to discuss the parts of the theory that are relevant to mathematicians, or at least somewhat mathematically rigorous. There is also this series:
+
 **[Quantum Field Theory I-III](https://www.amazon.com/Quantum-Field-Theory-Mathematics-Mathematicians/dp/3540347623/)**, *Eberhard Zeidler*
 
 <img src="/learn-mathematics/img/zeidler.jpg" alt="Zeidler" width="200px"/>
+
+I have not really all of this, obviously, as it is a mountain of work, but it's good to know there's a series of multiple books dedicated to quantum field theory for mathematicians. What I read from the first book, I really liked. Finally, there is this new book that came out recently:
 
 **[What Is a Quantum Field Theory?](https://www.amazon.com/What-Quantum-Field-Theory-Mathematicians/dp/1316510271/)**, *Michel Talagrand*
 
 <img src="/learn-mathematics/img/talagrand.jpg" alt="Talagrand" width="200px"/>
 
+I haven't had the chance to read it yet, but I heard it was great. I will take a look and report back.
+
 ### Computer Science
 
+Computer science is arguably [not a science, and it is not about computers](https://youtu.be/-J_xL4IGhJA?si=jq8MO80Uw93Gb4MW&t=27). To me, computer science is a subfield of mathematics, and it was most definitely founded by mathematicians. Still, in modern times we tend to see both as separate entities and programs. As such, I have decided to separate them here.
 
 #### Cryptography
+
+Cryptography is one of my favorite subjects in mathematics. There are many great books on it, my favorite is this one, written by a master:
 
 **[Cryptography Made Simple](https://www.amazon.com/Cryptography-Made-Simple-Information-Security/dp/3319219359/)**, *Nigel P. Smart*
 
 <img src="/learn-mathematics/img/smart.jpg" alt="Smart" width="200px"/>
 
+Smart is very well known in the community. I knew he was great at cryptography before reading the book, but it seems he's also a great writer. The book is clear, precise, with ample examples. It's the best. There is also this, which is perfect for undergraduate students:
+
 **[An Introduction to Mathematical Cryptography](https://www.amazon.com/Introduction-Mathematical-Cryptography-Undergraduate-Mathematics/dp/1493917102/)**, *Jeffry Hoffstein, et al*
 
 <img src="/learn-mathematics/img/hoffstein.jpg" alt="Hoffstein" width="200px"/>
+
+Personally, I found it a bit (too) easy, but it was still really good. Of course, I cannot help but recommend:
 
 **[Post-Quantum Cryptography](https://www.amazon.com/Post-Quantum-Cryptography-Daniel-J-Bernstein/dp/3540887016/)**, *Daniel J. Bernstein, et al*
 
 <img src="/learn-mathematics/img/bernstein.jpg" alt="Bernstein" width="200px"/>
 
-#### Coding Theory
+This discusses various post-quantum cryptosystems, although it is now slightly outdated since the NIST chose the winner of the post-quantum cryptography competition. Also, Rainbow was broken in two swift strikes since this book was written. Still, it's a good start to post-quantum crypto.
+
+#### Coding Theory and Information
+
+Coding Theory and Information Theory more generally is an interesting subject with a unique flavor. The kind I know of uses a lot of algebra, mostly ring theory. I learned the subject from this book:
 
 **[Introduction to Coding Theory](https://www.amazon.com/Introduction-Coding-Theory-Graduate-Mathematics/dp/3540641335/)**, *J.H. van Lint*
 
 <img src="/learn-mathematics/img/lint.jpg" alt="Lint" width="200px"/>
 
+It's a great book, with good exercises and well laid out examples. It's perfect if you want an introduction to the subject as a whole, but I find it a bit old. For more modern coverage, I would use this:
+
 **[A Course in Algebraic Error-Correcting Codes](https://www.amazon.com/Algebraic-Error-Correcting-Compact-Textbooks-Mathematics-ebook/dp/B088CQWQ3R/)**, *Simeon Ball*
 
 <img src="/learn-mathematics/img/ball.jpg" alt="Ball" width="200px"/>
 
-I love this book. It is more recent than Lint so it has a lot of interesting topics (*p*-adic codes!). In general, I love the compact textbook series so do give it a try.
+I love this book. It is more recent than Lint so it has a lot of interesting topics (*p*-adic codes!). In general, I love the compact textbook series so do give it a try. Finally, there is the paper (turned into a book) that started it all, by the father of information theory himself, Shannon:
 
 **[The Mathematical Theory of Communication](https://www.amazon.com/Mathematical-Theory-Communication-Claude-Shannon/dp/0252725484/)**, *Claude E. Shannon, Warren Weaver*
 
 <img src="/learn-mathematics/img/shannon.jpg" alt="Shannon" width="200px"/>
 
+Every computer science student should read this. Every mathematician interested in information theory should read this. You should read this.
+
 #### Type Theory
+
+Type theory discusses, well, types as in type systems you can encounter in programming languages. It became pretty hot recently due to homotopy type theory being considered as an alternative for [mathematical foundations](https://en.wikipedia.org/wiki/Foundations_of_mathematics). If you want an introduction to the subject in general, the only book I am familiar with is:
 
 **[Type Theory and Formal Proof](https://www.amazon.com/Type-Theory-Formal-Proof-Introduction/dp/110703650X/)**, *Rob Nederpelt*
 
 <img src="/learn-mathematics/img/nederpelt.jpg" alt="Nederpelt" width="200px"/>
 
+Great book, praised in the computer science community for a reason. I think it's decently approachable. If you wanna know about homotopy type theory (HoTT) specifically, I recommend the HoTT book directly:
+
 **[Homotopy Type Theory](https://homotopytypetheory.org/book/)**, *Univalent Foundations of Mathematics*
 
 <img src="/learn-mathematics/img/hott.webp" alt="HoTT" width="200px"/>
 
+I haven't read the book, I just know it because everyone talks about HoTT currently. That's the book to read if you wanna know what all the fuss is about.
+
 #### Digital Signal Processing
+
+I love audio engineering. It's super fun and creative. DSP is the theory that underpins it. I do not know too much about it, only two books. First is:
 
 **[Digital Audio Processing Fundamentals](https://www.amazon.com/Digital-Processing-Fundamentals-Springer-Topics-ebook/dp/B0BSKVH1VF/)**, *Aurelio Uncini*
 
 <img src="/learn-mathematics/img/uncini.jpg" alt="Uncini" width="200px"/>
 
+I like this book. It's approachable yet very detailed. The chapter on physical modeling in particular is really cool. It is pretty hefty though, with a total of around 700 pages. Sadly, this seems to be common as the next one is 600 pages:
+
 **[Analog and Digital Signal Analysis](https://www.amazon.com/Analog-Digital-Signal-Analysis-Applications-ebook/dp/B01L3EW1W6/)**, *Frédéric Cohen Tenoudji*
 
 <img src="/learn-mathematics/img/tenoudji.jpg" alt="Tenoudji" width="200px"/>
 
+This one is even more focused on digital signals with wavelets and random signals, including filtering by a random signal. Again, it is very in-depth and very long, but if you're interested in DSP, it's wonderful.
+
 ### Finance
+
+Finance has a lot of mathematics going on, mostly stochastics. I have taken a few finance classes and portfolio optimization is definitely mathematical in nature. There are two main textbooks I have learned from. The first one is this:
 
 **[Mathematics for Finance](https://www.amazon.com/Mathematics-Finance-Introduction-Engineering-Undergraduate/dp/0857290819/)**, *Marek Capiński, Tomasz Zastawniak*
 
 <img src="/learn-mathematics/img/capinski-fin.jpg" alt="Capiński Finance" width="200px"/>
 
+Written by Capiński (the same author that wrote Measure, Integral, Probability), this is a good introduction to methods in mathematical finance. The book is very approachable, even undergraduates can read it. If you want something with more depth, I suggest the two books by Shreve:
+
 **[Stochastic Calculus for Finance I-II](https://www.amazon.com/Stochastic-Calculus-Finance-Binomial-Springer/dp/0387249680/)**, *Steven E. Shreve*
 
 <img src="/learn-mathematics/img/shreve.jpg" alt="Shreve" width="200px"/>
+
+These two volumes give a detailed exposition of mathematical finance, with plenty of exercises. If you want to go even further, you can read this:
 
 **[Methods of Mathematical Finance](https://www.amazon.com/Methods-Mathematical-Probability-Stochastic-Modelling/dp/1493968149/)**, *Ioannis Karatzas, Steven Shreve*
 
 <img src="/learn-mathematics/img/karatzas-shreve.jpg" alt="Karatzas-Shreve" width="200px"/>
 
+Also written by Shreve. I didn't read it myself, but I have skimmed it and it looks great. Finally, there is this focusing on hedging specifically:
+
 **[Fundamentals and Advanced Techniques in Derivatives Hedging](https://www.amazon.com/Fundamentals-Advanced-Techniques-Derivatives-Universitext-ebook/dp/B01HQ6DNOU/)**, *Bruno Bouchard, Jean-François Chassagneux*
 
 <img src="/learn-mathematics/img/bouchard.jpg" alt="Bouchard" width="200px"/>
 
+I have not had the chance to read it yet, but I will.
+
 ### Biology
+
+Mathematical biology is a really cool field, I have taken a class on dynamical systems with applications to ecology and it was wonderful.
 
 **[Mathematical Biology](https://www.amazon.com/Mathematical-Biology-Introduction-Undergraduate-Mathematics/dp/1489982817/)**, *Ronald W. Shonkwiler, James Herod*
 
 <img src="/learn-mathematics/img/shonkwiler.jpg" alt="Shonkwiler" width="200px"/>
 
+This book is pretty big. Personally, I would choose one topic you're interested in and start there. There is a chapter you should probably start with though, "Some Mathematical Tools". There is also this from an author I like:
+
 **[Mathematical Methods in Biology and Neurobiology](https://www.amazon.com/Mathematical-Methods-Biology-Neurobiology-Universitext/dp/1447163524/)**, *Jürgen Jost*
 
 <img src="/learn-mathematics/img/jost.jpg" alt="Jost" width="200px"/>
+
+I really like the chapter on pattern formation. The chapter on discrete structures is great as well. This book is pretty short which might be better for a first book on the subject. Finally, there is this interesting book:
 
 **[Mathematical Models in Population Biology and Epidemiology](https://www.amazon.com/Mathematical-Population-Biology-Epidemiology-Mathematics/dp/146141685X/)**, *Fred Brauer, Carlos Castillo-Chavez*
 
 <img src="/learn-mathematics/img/brauer.jpg" alt="Brauer" width="200px"/>
 
+Again, a pretty hefty book at around 500 pages, but it has chapters on epidemic models, which I find very interesting personally. It starts with single-species models and then builds from there to model interacting species. Give it a try!
+
 ### Chemistry
 
-**[Linearity, Symmetry, and Prediction in the Hydrogen Atom](https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)**, *Stephanie Frank Singer*
-
-<img src="/learn-mathematics/img/singer.jpg" alt="Singer" width="200px"/>
+Chemistry doesn't have too many textbooks that I know using mathematics, they are almost all about group theory in chemistry, where finite groups are used to describe symmetries of orbitals. Here is one example of such a book:
 
 **[Group Theory in Chemistry](https://www.amazon.com/Group-Theory-Chemistry-Dover-Books/dp/0486673553/)**, *David M. Bishop*
 
 <img src="/learn-mathematics/img/bishop.jpg" alt="Bishop" width="200px"/>
 
+There are a myriad of them out there, this is the only one I have looked through. If you don't like it, odds are there's another one you will liike better with the exact same name. On the other hand, there is this book which I actually liked:
+
+**[Linearity, Symmetry, and Prediction in the Hydrogen Atom](https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)**, *Stephanie Frank Singer*
+
+<img src="/learn-mathematics/img/singer.jpg" alt="Singer" width="200px"/>
+
+Singer introduces everything she will need to present the symmetry group of the hydrogen atom directly in the book. It is pretty cool and I think it would be a great undergraduate research topic.
+
 # Part III: Possible tracks
 
+In this last part, I would like to describe a few possible tracks someone could take through the many, many topics discussed above. After all, there are many different possible choices and it can lead to decision paralysis. Of course, you are free to create your own, just make sure you have all the prerequisites to the courses you are interested in doing. Usually, I would be studying two topics at the same time, but you are free to do something different.
+
+First of all, there is a core track that I will assume you have done before moving on. The books listed here can be changed for other books in the same category, it is just the list I would personally follow to learn these subjects, assuming I don't already know them. Here is what the core sequence consists of:
+
+1. Precalculus Mathematics in a Nutshell
+2. APEX Calculus
+3. Book of Proof
+4. Linear Algebra Done Wrong
+5. Understanding Analysis
+6. Discrete Mathematics and Its Applications
+7. Elementary Number Theory
+8. Differential Equations with Applications and Historical Notes
+9. Differential Geometry of Curves and Surfaces (Tapp)
+10. Abstract Algebra: Theory and Applications
+11. Introduction to Topology (ch.1 on Metric Spaces)
+12. Topoology (ch.1-7) 
+
+This is what I will call the core sequence and you are assumed to take all of these. The tracks below builds from there into graduate level topics.
+
+## Generalist track
+
+Assuming you have no particular interest in any specific subfield of mathematics (or like me, you have an interest in all of them!), this is what I would recommend.
+
+1. Fourier Analysis
+2. Commutative Algebra
+3. Complex Analysis
+4. Smooth Manifolds
+5. Measure Theory
+6. Algebraic Topology
+7. Functional Analysis
+8. Classical Algebraic Geometry
+9. Lie Groups
+10. Algebraic Number Theory
+
+For the Lie groups course, I would do Hall because it covers both Lie groups and Lie algebras.
+
+## Analysis track
+
+This is the track for die-hard analysis fans.
+
+1. Fourier Analysis
+2. Complex Analysis
+3. Measure Theory
+4. Functional Analysis
+5. Dynamical Systems
+6. Harmonic Analysis
+7. Partial Differential Equations
+8. Probability and Stochastics
+9. Analytic Number Theory
+10. Modular Forms
+
+For the last two subjects, I would read both books by Apostol personally, but you are free to do things differently.
+
+## Algebraist track
+
+This is the track for people mostly interested in algebra.
+
+1. Graduate Algebra (w/ Galois Theory)
+2. Commutative Algebra
+3. Homological Algebra
+4. Representation Theory
+5. Algebraic Number Theory
+6. Category Theory
+7. Algebraic Topology
+8. Elliptic Curves
+9. Classical Algebraic Geometry
+10. Modern Algebraic Geometry
+
+## Geometer track
+
+This track focuses on everything geometry.
+
+1. Smooth Manifolds
+2. Riemannian Geometry
+3. Algebraic Topology
+4. Partial Differential Equations
+5. Lie Groups
+6. Dynamical Systems
+7. Symplectic and Contact Geometry
+8. Classical Mechanics
+9. Relativity
+10. Geometry, Topology and Physics
+
+The last recommendation is literally the book named like this. For Algebraic Topology, I would study it with Bott & Tu's book.
+
+## Algebraic Geometer track
+
+This track is for people interested in becoming algebraic geometers:
+
+1. Commutative Algebra
+2. Classical Algebraic Geometry
+3. Category Theory
+4. Algebraic Topology
+5. Homological Algebra
+6. Modern Algebraic Geometry
+7. Representation Theory
+8. Étale Cohomology
+9. Algebraic Groups
+10. Arithmetic Geometry
+
+## Number Theorist track
+
+This track focuses on number theory:
+
+1. Complex Analysis
+2. Analytic Number Theory
+3. Commutative Algebra
+4. Elliptic Curves
+5. Algebraic Number Theory
+6. *p*-adic Methods
+7. Modular Forms
+8. Classical Algebraic Geometry
+9. Modern Algebraic Geometry
+10. Arithmetic Geometry
+
+You could also swap out the algebraic geometry spots with something else
+
+## Physicist track
+
+This track emphasizes physics:
+
+1. Smooth Manifolds
+2. Riemannian Geometry
+3. Complex Analysis
+4. Functional Analysis
+5. Lie Groups
+6. Classical Mechanics
+7. Quantum Mechanics
+8. Relativity
+9. Gauge Theory
+10. Quantum Field Theory
+
+For Functional Analysis, try Kreyszig.
+
+## Computer scientist track
+
+This track discusses courses that might be useful to a computer scientist:
+
+1. Graph Theory
+2. Fourier Analysis
+3. Category Theory
+4. Numerical Analysis
+5. Cryptography
+6. Post-Quantum Cryptography
+7. Coding Theory
+8. Type Theory
+9. Statistics
+10. Game Theory
+
+If you're doing this track, read Concrete Mathematics instead of Rosen in the core sequence.
+
+## Finance track
+
+A track that might be interesting if you want to go into financial mathematics.
+
+1. Measure Theory and Integration
+2. Dynamical Systems
+3. Partial Differential Equations
+4. Probability and Stochastics
+5. Stochastic Calculus for Finance I
+6. Stochastic Calculus for Finance II
+7. Methods of Mathematical Finance
+8. Statistics
+9. Game Theory
+10. Numerical Analysis
