@@ -484,7 +484,7 @@ What I like about it is that it mixes functional analysis and PDEs, two topics t
 
 ## Algebra
 
-
+In this section, we revisit abstract algebra but go much, much further.
 
 ### Graduate Algebra
 
