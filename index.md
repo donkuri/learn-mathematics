@@ -32,6 +32,9 @@
 	- [Applications](#applications)
 		- [Physics](#physics)
 		- [Computer Science](#computer-science)
+		- [Finance](#finance)
+		- [Biology](#biology)
+		- [Chemistry](#chemistry)
 
 # Introductory remarks
 
@@ -631,7 +634,7 @@ The main unifying theme behind the book is symplectic capacities and the interes
 
 <img src="/learn-mathematics/img/docarmo-riem.jpg" alt="" width="200px"/>
 
-**[Semi-Riemannian Geometry with Applications to Relativity](https://www.amazon.com/Semi-Riemannian-Geometry-Applications-Relativity-Mathematics/dp/0125267401/)**, **
+**[Semi-Riemannian Geometry with Applications to Relativity](https://www.amazon.com/Semi-Riemannian-Geometry-Applications-Relativity-Mathematics/dp/0125267401/)**, *Barrett O'Neill*
 
 <img src="/learn-mathematics/img/o'neill.jpg" alt="O'Neill" width="200px"/>
 
@@ -825,7 +828,7 @@ This section slightly intersects with the one on representation theory (especial
 
 **[Categories and Sheaves](https://www.amazon.com/Categories-Sheaves-Introduction-mathematischen-Wissenschaften-ebook/dp/B000UG85UQ/)**, *Masaki Kashiwara, Pierre Schapira*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/kashiwara.jpg" alt="Kashiwara" width="200px"/>
 
 **[An Introduction to the Language of Category Theory](https://www.amazon.com/Introduction-Language-Category-Textbooks-Mathematics-ebook/dp/B01MS5LCNA/)**, *Steven Roman*
 
@@ -1038,7 +1041,7 @@ This has an accompanying YouTube series.
 
 **[A Course in Algebraic Error-Correcting Codes](https://www.amazon.com/Algebraic-Error-Correcting-Compact-Textbooks-Mathematics-ebook/dp/B088CQWQ3R/)**, *Simeon Ball*
 
-<img src="/learn-mathematics/img/ball.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/ball.jpg" alt="Ball" width="200px"/>
 
 I love this book. It is more recent than Lint so it has a lot of interesting topics (*p*-adic codes!). In general, I love the compact textbook series so do give it a try.
 
@@ -1086,7 +1089,7 @@ I love this book. It is more recent than Lint so it has a lot of interesting top
 
 ### Biology
 
-**[](https://www.amazon.com/Mathematical-Biology-Introduction-Undergraduate-Mathematics/dp/1489982817/)**, *Ronald W. Shonkwiler, James Herod*
+**[Mathematical Biology](https://www.amazon.com/Mathematical-Biology-Introduction-Undergraduate-Mathematics/dp/1489982817/)**, *Ronald W. Shonkwiler, James Herod*
 
 <img src="/learn-mathematics/img/shonkwiler.jpg" alt="Shonkwiler" width="200px"/>
 
