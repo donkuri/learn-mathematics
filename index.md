@@ -500,19 +500,19 @@ In this section, we revisit abstract algebra but go much, much further.
 
 ### Graduate Algebra
 
-A graduate course on algebra can mean anything and everything. In general, it revisits topics from undergraduate abstract algebra but goes at a much faster pace. My favorite textbook in the subject is:
+A graduate course in algebra can mean anything and everything. In general, it revisits topics from undergraduate abstract algebra but goes at a much faster pace. My favorite textbook on the subject is:
 
 **[Basic Algebra I-II](https://www.amazon.com/Basic-Algebra-Second-Dover-Mathematics/dp/0486471896/)**, *Nathan Jacobson*
 
 <img src="/learn-mathematics/img/jacobson.jpg" alt="Jacobson" width="200px"/>
 
-Jacobson is the father of modern algebra, the Jacobson radical being called after him. His book is refreshing (although I wouldn't use it for undergrad) and I personally found his explanations to be the best. That being said, the standard textbook in the subject was written by an author that already featured prominently on this list:
+Jacobson is the father of modern algebra, the Jacobson radical being named after him. His book is refreshing (although I wouldn't use it for undergrad) and I personally found his explanations to be the best. That being said, the standard textbook in the subject was written by an author that has already featured prominently on this list:
 
 **[Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-Serge/dp/038795385X/)**, *Serge Lang*
 
 <img src="/learn-mathematics/img/lang-algebra.jpg" alt="Lang Algebra" width="200px"/>
 
-This book is huge, both physically and in terms of actual content. It covers so much and is so authorative, but I personally find it a bit dry. It is also notoriously difficult. A more gentle textbook (in my opinion) in the same vein is:
+This book is huge, both physically and in terms of actual content. It covers so much and is so authorative, but I personally find it a bit dry. It is also notoriously difficult. A more gentle textbook (in my opinion) but with a similar style is:
 
 **[Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-v/dp/0387905189/)**, *Thomas W. Hungerford*
 
@@ -522,7 +522,7 @@ Hungerford is great and probably what I would use if I had to teach a graduate a
 
 ### Galois Theory
 
-Galois theory is arguably the heart of abstract algebra and in large parts its catalyst, at least when it comes to groups and fields. It is a beautiful theory with a master theorem. My favorite place to read about it is here:
+Galois theory is arguably the heart of abstract algebra and in large parts its catalyst, at least when it comes to groups and fields. It is a beautiful theory with a master theorem. If you have taken a graduate algebra class, you probably already saw the subject though. If you havent, here is my favorite place to read about it:
 
 **[Fields and Galois Theory](https://www.jmilne.org/math/CourseNotes/ft.html)**, *J.S. Milne*
 
@@ -534,7 +534,7 @@ J.S. Milne is a fantastic author, and most of his works are completely free on [
 
 <img src="/learn-mathematics/img/edwards.jpg" alt="" width="200px"/>
 
-What I like most about this book is the way it handles Galois theory: by discussing at lengths about its history, especially where it came from and what allowed Galois to discover and prove his master theorem.
+What I like most about this book is the way it handles Galois theory: By discussing at lengths about its history, especially where it came from and what allowed Galois to discover and prove his famous theorem.
 
 ### Commutative Algebra
 
@@ -550,13 +550,13 @@ It would be better to call this book a set of lectures notes. The exposition is 
 
 <img src="/learn-mathematics/img/singh.jpg" alt="Singh" width="200px"/>
 
-Again, fantastic book, fantastic exposition, I love the exercises and what I love most is the organization of the material. Homological algebra is dealt with appropriately at just the right times. Great stuff. The next one is one of the classic book written on the subject and aims to introduce all the necessary algebra to be able to read Hartshorne (which we will see below):
+Again, fantastic book, fantastic exposition and great exercises. What I love most is the organization of the material. Homological algebra is discussed in two separate chapters that are separated by a few other chapters which is very clever, as it becomes more digestible. Anyway, the next book is one of the classics written on the subject and it aims to introduce all the necessary algebra to be able to read Hartshorne (which we will see below):
 
 **[Commutative Algebra](https://www.amazon.com/Commutative-Algebra-Algebraic-Geometry-Mathematics/dp/0387942696/)**, *David Eisenbud*
 
 <img src="/learn-mathematics/img/eisenbud.jpg" alt="Eisenbud" width="200px"/>
 
-This book is huge however. There are very long discussions of the topics and it is not really in the same style as the two above. The first chapter is maybe how I would introduce commutative algebra to students: by looking at algebraic geometry. Finally, there is one more reference I would like to give:
+This book is huge however. It really isn't written in the same manner as the two above. There are lengthy discussions which is good if you like that, bad if you don't. The first chapter is maybe how I would introduce commutative algebra to students, by starting with algebraic geometry. Finally, there is one more reference I would like to give:
 
 **[Commutative Ring Theory](https://www.amazon.com/Commutative-Cambridge-Studies-Advanced-Mathematics/dp/0521367646/)**, *Hideyuki Matsumura*
 
@@ -566,25 +566,25 @@ I couldn't possibly make a list of commutative algebra books without mentioning 
 
 **[Computational Commutative Algebra I-II](https://www.amazon.com/Computational-Commutative-Algebra-Martin-Kreuzer/dp/354067733X/)**, *Martin Kreuzer, Lorenzo Rabbiano*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/kreuzer.jpg" alt="Kreuzer" width="200px"/>
 
-I used this book to study post-quantum cryptography and it served me excellently. It is sometimes a bit rough though, but with enough patience it is very doable.
+I used this book to study post-quantum cryptography and it served me excellently. It is sometimes a bit rough though, but with enough patience you will get through it.
 
 ### Homological Algebra
 
-Homological algebra takes homology (the geometrico-topological construct) as a starting point and generalizes from there. It is a very important tool in modern algebraic fields, such as scheme theory (derived cohomology). I actually haven't found many books I like. I mostly learned it from the commutative algebra books above, but there is one I actually like a good deal:
+Homological algebra takes homology (the geometric-topological construct) as a starting point and generalizes from there. It is a very important tool in modern algebra. I actually haven't found many books I like about it. I mostly learned it from the commutative algebra books above, but there is one I actually like a good deal:
 
 **[An Introduction to Homological Algebra](https://www.amazon.com/Introduction-Homological-Algebra-Universitext/dp/0387245278/)**, *Joseph J. Rotman*
 
 <img src="/learn-mathematics/img/homological.jpg" alt="Homological" width="200px"/>
 
-This was the main reference I used when I learned the subject, and I liked the way things were explained. I didn't feel like it was just pure abstract nonsense, which I cannot say for every homological algebra book I've consulted. There's also the classic on the subject:
+This was the main reference I used when I learned the subject, and I liked the way things were explained. I didn't feel like it was just pure abstract nonsense, which I cannot say for every homological algebra book I've seen. There's also this classic on the subject:
 
 **[Homology](https://www.amazon.com/Homology-Classics-Mathematics-Saunders-MacLane/dp/3540586628/)**, *Saunders MacLane*
 
 <img src="/learn-mathematics/img/homology.jpg" alt="Homology" width="200px"/>
 
-Personally, I like reading MacLane and I think all his books are great. This one is a classic for a reason: it's well written and the explanations are nice. I still prefer Rotman but you can't go wrong with either of them.
+Personally, I like reading MacLane and I think all his books are great. This one is a classic for a reason: It's well written and the explanations are nice. I still prefer Rotman but you can't go wrong with either of them.
 
 ### Representation Theory
 
@@ -594,7 +594,7 @@ Okay, now this is a subject I do not know a lot about, so I will not be able to 
 
 <img src="/learn-mathematics/img/fulton-harris.jpg" alt="Fulton Harris" width="200px"/>
 
-So this is a big book. But it's worth it. It's the classic treatise on the subject and it deals with the subject matter well. I haven't read very far, but I have liked what I have read. Next is written by one of the (if not the) best mathematicians of the 20th century, Jean-Pierre Serre:
+So this is a big book. But it's worth it. It's the classic treatise on the subject and it deals with the subject matter well. I haven't read very far, but I have liked what I have read. Next is written by one of the best mathematicians of the 20th century, Jean-Pierre Serre:
 
 **[Linear Representations of Finite Groups](https://www.amazon.com/Linear-Representations-Finite-Graduate-Mathematics/dp/0387901906/)**, *J.-P. Serre*
 
@@ -606,7 +606,7 @@ Serre is a mathematical genius and it shows. Everything flows nicely and it is t
 
 <img src="/learn-mathematics/img/humphreys-lie.jpg" alt="" width="200px"/>
 
-This book is *hard*. But it is the best book I know on the subject, and Lie algebras are ubiquitous in modern mathematics.
+This book is *hard*. But it is a great book, and Lie algebras are ubiquitous in modern mathematics.
 
 ## Topology
 
@@ -614,7 +614,7 @@ In this section, we continue the work we did in the general topology section in 
 
 ### Algebraic Topology
 
-Algebraic Topology is a beautiful theory and one of my favorite course ever. The rough idea is that instead of studying homeomorphisms directly (which are often times hard to construct), why not find algebraic invariants on topological spaces instead? This is exactly what algebraic topology deals with, and it is great. The textbook I used to learn the subject is:
+Algebraic Topology is a beautiful theory and one of my favorite subjects ever. The rough idea is that instead of studying homeomorphisms directly (which are often times hard to construct), why not find algebraic invariants on topological spaces instead? This is exactly what algebraic topology deals with, and it is great. The textbook I used to learn the subject is:
 
 **[Algebraic Topology](https://www.amazon.com/Algebraic-Topology-Allen-Hatcher/dp/0521795400/)**, *Allen Hatcher*
 
@@ -626,13 +626,13 @@ I love the way Hatcher discusses algebraic topology, I find it very visual and i
 
 <img src="/learn-mathematics/img/rotman-topology.jpg" alt="Rotman Topology" width="200px"/>
 
-As you might have noticed by now, I love reading Rotman. His books are always well written and very clear and this one is no stranger to this. I just wish there was a bit more on cohomology. Perhaps my favorite book on the subject is this next one:
+As you might have noticed by now, I love reading Rotman. His books are always well written and very clear and this one is no stranger to this. I just wish there was a bit more on cohomology. That said, my favorite book on the subject is perhaps this next one:
 
 **[Algebraic Topology](https://www.amazon.com/Algebraic-Topology-Course-Graduate-Mathematics/dp/0387943277/)**, *William Fulton*
 
 <img src="/learn-mathematics/img/fulton.jpg" alt="Fulton" width="200px"/>
 
-The approach here is pretty different, where cohomology groups are introduced first and the theory kind of unravels from there into homology groups and then the fundamental group, which is usually the exact opposite of how students learn algebraic topology. Personally, I like this order much better as I find it more intuitive to understand. I love that it starts from path integrals, it makes the entire presentation less abstract and you immediately understand how and why (co)homology was introduced. Finally, it's impossible to make a list of algebraic topology books without mentioning this one:
+The approach here is pretty different. Cohomology is introduced first and the theory kind of unravels from there into homology groups and then the fundamental group, which is usually the exact opposite of how students learn algebraic topology. Personally, I like this order much better as I find it more intuitive to understand. I love that it starts from path integrals, it makes the entire presentation less abstract and you immediately understand how and why (co)homology was introduced. Finally, it's impossible to make a list of algebraic topology books without mentioning this one:
 
 **[Differential Forms in Algebraic Topology](https://www.amazon.com/Differential-Algebraic-Topology-Graduate-Mathematics/dp/1441928154/)**, *Raoul Bott, Loring W. Tu*
 
@@ -664,7 +664,7 @@ Homotopy is notably difficult to deal with. Whereas homology groups of spheres a
 
 <img src="/learn-mathematics/img/riehl-homotopy.jpg" alt="Riehl Homotopy" width="200px"/>
 
-Apparently, this book is really good, but I can't say much as I haven't read it in any deep meaningful way:
+I knew Riehl from her category theory textbook (see below), and I liked it well enough. Apparently, this other book is really good, but I can't say much as I haven't read it in any deep meaningful way:
 
 **[Introduction to Homotopy Theory](https://www.amazon.com/Introduction-Homotopy-Theory-Universitext-Arkowitz/dp/1441973281/)**, *Martin Arkowitz*
 
@@ -672,7 +672,7 @@ Apparently, this book is really good, but I can't say much as I haven't read it 
 
 ### Symplectic Topology
 
-This section describes a relatively recent development in topology, namely symplectic topology. The fundamental result is the non-squeezing theorem. Some people might argue this is a part of symplectic geometry, I disagree. If you want to argue, argue with Dusa McDuff, one of the greatest mathematician I know. By the way, she wrote this absolute gem:
+This section describes a relatively recent development, symplectic topology. The fundamental result is the non-squeezing theorem. Some people might argue this is a part of symplectic geometry, I disagree. If you want to argue, argue with Dusa McDuff, one of the greatest mathematician I know. By the way, she wrote this absolute gem:
 
 **[Introduction to Symplectic Topology](https://www.amazon.com/Introduction-Symplectic-Topology-Graduate-Mathematics/dp/0198794908/)**, *Dusa McDuff*
 
@@ -688,11 +688,11 @@ The main unifying theme behind the book is symplectic capacities and the interes
 
 ## Differential Geometry
 
-We did some differential geometry in the first part, but here, we will generalize the theory from curves and surfaces to arbitrary dimensions, leading us to arguably the most important object in geometry, the manifold.
+We did some differential geometry in the first part, but here, we will generalize the theory from curves and surfaces to arbitrary dimensions, leading us to arguably the most important object in geometry, manifolds.
 
 ### Smooth Manifolds
 
-To do analysis, we require our manifolds to be smooth meaning they need to carry a structure that allows us to do calculus on them, or at least to do calculus on a space that is locally homeoomorphic to them. My favorite book on the subject is this masterpiece:
+To do analysis, we require our manifolds to be smooth, meaning they need to carry a structure that allows us to do calculus on them, or at least to do calculus on a space that is locally homeoomorphic to them. My favorite book on the subject is this masterpiece:
 
 **[Introduction to Smooth Manifolds](https://www.amazon.com/Introduction-Smooth-Manifolds-Graduate-Mathematics/dp/1441999817/)**, *John M. Lee*
 
@@ -704,7 +704,7 @@ I could write an essay on John M. Lee. He is a fantastic writer and this book is
 
 <img src="/learn-mathematics/img/tu.jpg" alt="Tu" width="200px"/>
 
-What I like is the appropriate length of the book: it is just right. Practically everything I read in the book I liked except for one thing: the section on differential forms. I thought the explanation was terse, not well-motivated and that it was just confusing. To this day, I still don't like it. Other than this, great book and good explanations of the basic parts of the theory. I liked the chapter on quotient manifolds a lot.
+What I like is the appropriate length of the book, it's just right. Practically everything I read in the book I liked except for one thing: The section on differential forms. I thought the explanations were dry, not well-motivated and that it was confusing. To this day, I still don't like it. Other than this, great book and good explanations of the basic parts of the theory. I liked the chapter on quotient manifolds a lot.
 
 ### Riemannian Geometry
 
@@ -731,19 +731,19 @@ It discusses semi-Riemannian geometry (what I would personally call Lorentzian g
 
 ### Lie Groups
 
-This section slightly intersects with the one on representation theory (especially Fulton-Harris), so you might want to check there first. Lie initially studied symmetries in differential equations and out of it grew the concept of a Lie group, which roughly speaking encodes infinitesimal symmetry of a system. Another way to look at it is as a smooth manifold with a compatible group structure, and as such some differential topology knowledge is useful when studying the subject. I mostly studied Lie groups from a mathematical gauge theory book (you can find it further down below), but I also used this:
+This section slightly intersects with the one on representation theory, so you might want to check there first. Lie initially studied symmetries in differential equations and out of it grew the concept of a Lie group, which roughly speaking encodes tge infinitesimal symmetries of a system. Another way to look at it is as a smooth manifold with a compatible group structure, and as such some differential topology knowledge is useful when studying the subject. I mostly studied Lie groups from a mathematical gauge theory book (you can find it further down below), but I also used this:
 
 **[Introduction to the Theory of Lie Groups](https://www.amazon.com/Introduction-Theory-Lie-Groups-Universitext-ebook/dp/B073H646GB/)**, *Roger Godement*
 
 <img src="/learn-mathematics/img/godement.jpg" alt="Godement" width="200px"/>
 
-It is a pretty small book (I like that series personally) and it has plenty of examples. For some reason, I found it a bit hard to get into. I also used this:
+It is a pretty small book (I like that series personally) and it has plenty of examples. For some reason, I found it a bit hard to get into at first. I also used this:
 
 **[Lie Groups, Lie Algebras, and Representations](https://www.amazon.com/Lie-Groups-Algebras-Representations-Introduction/dp/3319134663/)**, *Brian C. Hall*
 
 <img src="/learn-mathematics/img/hall-lie.jpg" alt="Hall Lie" width="200px"/>
 
-I was familiar with Hall from his book on quantum mechanics (which I like). This seems to be a standard reference and it shows. The exercises are great and the explanations are good. Slightly easier is:
+I was familiar with Hall from his book on quantum mechanics (which I like). This seems to be a standard reference and it shows. The exercises are great and the explanations are good. Probably what I would use if I wanted a book to start with. Slightly easier is:
 
 **[Naive Lie Theory](https://www.amazon.com/Naive-Theory-Undergraduate-Texts-Mathematics/dp/0387782141/)**, *John Stillwell*
 
@@ -753,13 +753,13 @@ I like Stillwell, he wrote a fantastic book on mathematics history. The approach
 
 ### Symplectic and Contact Geometry
 
-Symplectic and contact geometry are pairs of geometry (which one occurs depends on the dimension of the manifold) that have very rich and interesting structures, usually extremely different from standard manifolds. For instance symplectic manifolds are historical generalizations of the notion of phase space in Hamiltonian mechanics and the main symplectic structure is a differential 2-form, traditionally measuring area. As you can see, it requires more machinery than simple topology. I do not know much contact geometry past the basics, but I am familiar with symplectic geometry (from symplectic topology actually) and I have recommendations for it. A book I like to get into these kinds of geometries is this undergraduate textbook:
+Symplectic and contact geometry are pairs of geometry (which one occurs depends on the dimension of the manifold) that have very rich and interesting structures, usually extremely different from standard manifolds. For instance, symplectic manifolds are historical generalizations of the notion of phase space in Hamiltonian mechanics and the main symplectic structure is a differential 2-form, traditionally measuring area. As you can see, it requires more machinery than simple topology. I do not know much contact geometry past the basics, but I am familiar with symplectic geometry (from symplectic topology actually) and I have recommendations for it. A book I like to get into these kinds of geometries is this undergraduate textbook:
 
 **[First Steps in Differential Geometry](https://www.amazon.com/First-Steps-Differential-Geometry-Undergraduate/dp/146147731X/)**, *Andrew McInerney*
 
 <img src="/learn-mathematics/img/mcinerney.jpg" alt="McInerney" width="200px"/>
 
-I like the exposition, it is not hard but it isn't trivial either, and the idea of showing all three kinds of geometry is nice and different from the textbooks below. I also like the fact it isn't targeted towards someone who already knows they want to get into symplectic (or contact) geometry, but it can be (and it should be read) by anyone interested in modern geometry. Next is one of the standard texts on symplectic geometry:
+I like the exposition, it is not hard but it isn't trivial either, and the idea of showing all three kinds of geometry is nice and different from the textbooks below. I also like the fact it isn't targeted towards someone who already knows they want to get into symplectic (or contact) geometry, but it can be (and it should be) read by anyone interested in modern geometry. Next is one of the standard texts on symplectic geometry:
 
 **[Lectures on Symplectic Geometry](https://www.amazon.com/Lectures-Symplectic-Geometry-Lecture-Mathematics/dp/3540421955/)**, *Ana Cannas da Silva*
 
@@ -771,15 +771,15 @@ The lecture notes style of the book is still extremely present and I like it. Th
 
 <img src="/learn-mathematics/img/berndt.jpg" alt="Berndt" width="200px"/>
 
-There is just something about AMS textbooks, they seem to "just work" every time I read them. One high point is the connections with mathematical physics, especially the chapter on quantization, a topic I find fascinating.
+There is just something about AMS textbooks, they seem to just work every time I read them. One high point is the connections with mathematical physics, especially the chapter on quantization, a topic I find fascinating.
 
 ## Algebraic Geometry
 
-Algebraic geometry is my favorite subject in mathematics, and the one I have dedicated the most time. It is a jewel and I personally consider it the central subject in mathematics. There are many, many, *many* textbooks written about it.
+Algebraic geometry is my favorite subject in mathematics, and the one I have dedicated the most time to. It is a jewel and I personally consider it the central field in mathematics. There are many, many, *many* textbooks written about it.
 
 ### Classical Algebraic Geometry
 
-Classical algebraic geometry roughly means "algebraic geometry before schemes", although I kind of disagree with my own definition. Whatever, point being we're not usually using schemes here. Of course, the first textbook I mention is the usual:
+Classical algebraic geometry roughly means "algebraic geometry before schemes", although I kind of disagree with this definition for reasons I shall not get into here. Point being, we're not usually using schemes here. Of course, the first textbook I mention is the usual:
 
 **[Algebraic Geometry](https://www.jmilne.org/math/CourseNotes/ag.html)**, *J.S. Milne*
 
@@ -807,13 +807,13 @@ Here we are, schemes, the good stuff, the difficult stuff. This is my favorite s
 
 <img src="/learn-mathematics/img/ottem-ellingsrud.png" alt="Ottem-Ellingsrud" width="200px"/>
 
-This is by far my favorite presentation of the subject as I found it easiest to learn from. The examples *really* help understand what's going on and why schemes are defined the way they are. I think organization could be a bit better though. Another book I love and that I don't see mentioned enough is this:
+I love the presentation of the subject as I found it easiest to learn from personally. The examples *really* help understand what's going on and why schemes are defined the way they are. I think organization could be a bit better though. Another book I love and that I don't see mentioned enough is this:
 
 **[Algebraic Geometry I-II](https://www.amazon.com/Algebraic-Geometry-Examples-Exercises-Mathematik/dp/3658307323?ref_=ast_sto_dp)**, *Ulrich Görtz, Torsten Wedhorn*
 
 <img src="/learn-mathematics/img/gortz.jpg" alt="Görtz-Wedhorn" width="200px"/>
 
-This is a translation of the two German classic books on scheme theory. The first one deals with general aspects of schemes while the second one focuses on the cohomology of schemes, a notoriously difficult part of an already notoriously difficult subject. I think if I had to get a single resource to study algebraic geometry (outside of maybe the lecture notes above), it would be this. Finally, this insane book:
+This is a translation of the two German classic books on scheme theory. The first one deals with general aspects of schemes while the second one focuses on the cohomology of schemes, a notoriously difficult part of an already notoriously difficult subject. I think if I had to get a single resource to study algebraic geometry (outside of maybe the lecture notes above), it would be this. FNext, this insane book that is _also_ free:
 
 **[Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf)**, *Ravi Vakil*
 
@@ -877,7 +877,7 @@ This book was written by the same authors and it goes a bit more in-depth (and f
 
 **[Étale Cohomology](https://www.amazon.com/%C3%89tale-Cohomology-PMS-33-Princeton-Mathematical/dp/0691171106/)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/milne-ec.png" alt="Milne ECohom" width="200px"/>
+<img src="/learn-mathematics/img/milne-ec.jpg" alt="Milne ECohom" width="200px"/>
 
 This is the book version. It goes faster and treads more ground than the lecture notes below:
 
@@ -895,7 +895,7 @@ We said in the Lie groups section that Lie groups were smooth manifolds that had
 
 <img src="/learn-mathematics/img/humphreys-ag.jpg" alt="Humphreys AG" width="200px"/>
 
-It's Humphreys so I assume it is both difficult and great to hone your skills at the subject. Milne wrote a book on the subject that is probably worth checking out:
+It's Humphreys so I assume it is both difficult and great at the same time. Milne wrote a book on the subject that is probably worth checking out:
 
 **[Algebraic Groups](https://www.amazon.com/Algebraic-Groups-Cambridge-Advanced-Mathematics-ebook/dp/B074XC6NCP/)**, *J.S. Milne*
 
@@ -921,7 +921,7 @@ It's a standard reference textbook for a reason. The section on elliptic curves 
 
 **[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Second-James-Milne-ebook/dp/B08H5GM99Y/)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/milne-ecurve.png" alt="" width="200px"/>
+<img src="/learn-mathematics/img/milne-ecurve.jpg" alt="" width="200px"/>
 
 Not much to say on this one, I haven't used it a whole lot but it's Milne so it's hard to go wrong. There is a follow-up:
 
@@ -937,13 +937,13 @@ Complex multiplication is a fascinating topic that has a rich history. While the
 
 ### Arithmetic Geometry
 
-Arithmetic geometry is at the crossroads between algebraic geometry and modern number theory. Roughly speaking, it is what happens when you are interested in doing algebraic geometry over things like the integers. It is a wonderful subject, and much of the machinery behind algebraic geometry (schemes and the likes) were developped to solve questions in arithmetic geometry, most notably the Weil conjectures, which include the famous finite field version of Riemann's Hypothesis. Anyway, I am more interested in the part that tries to generalize elliptic curves personally:
+Arithmetic geometry is at the crossroads between algebraic geometry and modern number theory. Roughly speaking, it is what happens when you are interested in doing algebraic geometry over things like the integers. It is a wonderful subject, and much of the machinery behind algebraic geometry (schemes and the likes) were developped to solve questions in arithmetic geometry, most notably the Weil conjectures, which include the famous finite field version of Riemann's Hypothesis. Part of the subject is generalizing things such as elliptic curves:
 
 **[Abelian Varieties](https://www.jmilne.org/math/CourseNotes/AV.pdf)**, *J.S. Milne*
 
 <img src="/learn-mathematics/img/milne-av.png" alt="Milne AV" width="200px"/>
 
-Abelian varieties are what happens when you are interested in (projective) algebraic varieties that are also algebraic groups. For instance, elliptic curves is an example, but there are others. The lectures notes by Milne on the subject are a great place to stard. A more recent book that looks at the subject in general is:
+Abelian varieties are what happens when you are interested in (projective) algebraic varieties that are also algebraic groups. Elliptic curves are an example, but there are others. The lectures notes by Milne on the subject are a great place to start. A more recent book that looks at arithmetic geometry is:
 
 **[An Invitation to Arithmetic Geometry](https://www.amazon.com/Invitation-Arithmetic-Geometry-Graduate-Mathematics/dp/1470467259/)**, *Dino Lorenzini*
 
@@ -995,10 +995,6 @@ The standard Milne recommendation. He wrote extensively about algebraic number t
 
 <img src="/learn-mathematics/img/milne-ant.png" alt="Milne ANT" width="200px"/>
 
-**[Class Field Theory](https://www.jmilne.org/math/CourseNotes/CFT.pdf)**, *J.S. Milne*
-
-<img src="/learn-mathematics/img/milne-cft.png" alt="Milne ANT" width="200px"/>
-
 If you are looking for something slightly easier and more approachable, I liked the following:
 
 **[Number Fields](https://www.amazon.com/Number-Fields-Universitext-Daniel-Marcus/dp/3319902326/)**, *Daniel A. Marcus*
@@ -1037,7 +1033,7 @@ Modular (and more generally automorphic) forms are special kinds of complex anal
 
 <img src="/learn-mathematics/img/deitmar-af.jpg" alt="Deitmar AF" width="200px"/>
 
-There are a few books written by Deitmar in the list and they are all good, this is no exception. I found it hard, but that was probably due to my inexperience rather than the actual book. At least I think so. Either way, the short amount I read was good, I liked the examples in particular. There is of course:
+There are a few books written by Deitmar on this list and they are all good, this is no exception. I found it hard, but that was probably due to my inexperience rather than the actual book. At least I think so. Either way, the short amount I read was good, I liked the examples in particular. There is of course:
 
 **[Modular Functions and Modular Forms](https://www.jmilne.org/math/CourseNotes/mf.html)**, *J.S. Milne*
 
@@ -1057,7 +1053,7 @@ In this section, I discuss various subjects that didn't fit directly into any of
 
 ### Category Theory
 
-Category theory, affectionately called *abstract nonsense*, is an interesting theory. It tries to look at mathematical structures primarily through the lens of maps between them, as per the Grothendieck doctrine. I have read multiple books on the subject when I first learned it for algebraic geometry. The one I read I liked best was:
+Category theory, affectionately called *abstract nonsense*, is an interesting theory. It tries to look at mathematical structures primarily through the lens of maps between them, as per the Grothendieck doctrine. I have read multiple books on the subject when I first learned it for algebraic geometry. The one I read that I liked best was maybe:
 
 **[Category Theory in Context](https://www.amazon.com/Category-Theory-Context-Aurora-Originals/dp/048680903X/)**, *Emily Riehl*
 
@@ -1075,13 +1071,13 @@ Mac Lane (along with Eilenberg) invented (discovered?) category theory, so it is
 
 <img src="/learn-mathematics/img/kashiwara.jpg" alt="Kashiwara" width="200px"/>
 
-This book is huge and covers more than necessary for the vast majority of people. Personally I used it to study sheaves and homological aspects, but it was rough. I mean the book is written well, but it goes fast and it's not easy to follow in my opinion. Still, it's the best reference I know since it has most anything I'd ever want. Another short book I got that I liked tremendously was this:
+This book is huge and covers more than is necessary for the vast majority of people. Personally I used it to study sheaves and homological aspects, but it was very rough. I mean the book is written well, but it goes fast and it's not easy to follow in my opinion. Still, it's the best reference I know since it has most anything I'd ever want. Another short book I got that I liked tremendously was this:
 
 **[An Introduction to the Language of Category Theory](https://www.amazon.com/Introduction-Language-Category-Textbooks-Mathematics-ebook/dp/B01MS5LCNA/)**, *Steven Roman*
 
 <img src="/learn-mathematics/img/roman-ct.jpg" alt="Roman-CT" width="200px"/>
 
-Steven Roman is a great writer, his book on Field Theory is exceptional. What's better is that he has a YouTube channel where he presents mathematics. This book in particular has an accompanying YouTube series. Anyway, the book is short and sweet, as is usual with the compact series from Springer. The exercises were nice, on the easier side I would say but I liked them. Finally, here's a textbook that's even easier:
+Steven Roman is a great writer, his book on Field Theory is exceptional. What's better is that he has a YouTube channel where he presents mathematics. This book in particular has an accompanying YouTube series. Anyway, the book is short and sweet, as is usual with the compact series from Springer. The exercises are nice, on the easier side I would say but I liked them. Finally, here's a textbook that's even easier:
 
 **[Category Theory](https://www.amazon.com/Category-Theory-Oxford-Logic-Guides/dp/0199237182/)**, *Steve Awodey*
 
@@ -1107,7 +1103,7 @@ Interestingly enough, it was originally edited in the undergraduate series, but 
 
 ### Graph Theory
 
-Graph Theory is very cool because it's inherently visual, and it has very wide applications. Anything that can be represented as a graph can benefit from it. I know only the very basics and I have read about it in these three books:
+Graph Theory is very cool because it's inherently visual, and it has a very wide range of applications. Anything that can be represented as a graph can benefit from it. I know only the very basics and I have read about it in these three books:
 
 **[Graph Theory](https://www.amazon.com/Graph-Theory-Graduate-Texts-Mathematics/dp/1849966907/)**, *J.A. Bondy, U.S.R. Murty*
 
@@ -1197,7 +1193,7 @@ Apparently it uses functional analysis, but I'm not sure what they mean by this.
 
 <img src="/learn-mathematics/img/leveque.jpg" alt="LeVeque" width="200px"/>
 
-This seems to be a standard reference in the theory, but I haven't read it so I cannot say much.
+This seems to be a standard reference on the theory, but I haven't read it so I cannot say much.
 
 ### Mathematics History
 
@@ -1207,7 +1203,7 @@ Mathematics has a rich history, and there are many books written on the subject.
 
 <img src="/learn-mathematics/img/gray-real.jpg" alt="" width="200px"/>
 
-This one is my favorite, it discusses analysis in the 18th and 19th century, a beautiful story.
+This one is my favorite, it discusses analysis in the 19th century, a beautiful story.
 
 **[Worlds Out of Nothing](https://www.amazon.com/Worlds-Out-Nothing-Undergraduate-Mathematics/dp/0857290592/)**, *Jeremy Gray*
 
@@ -1225,7 +1221,7 @@ A history of algebra as the title says. It's interesting to see the difference b
 
 <img src="/learn-mathematics/img/gray-variations.jpg" alt="" width="200px"/>
 
-This discusses differential equations and calculus of variations, a subject I do not know enough to comment on, but it's great stuff. Calculus of variations in particular is crucial to physics. Okay, here's a more general textbook:
+This discusses differential equations and calculus of variations, a subject I do not know enough to comment on, but it's great stuff. Calculus of variations in particular is useful in physics. Okay, here's a more general textbook:
 
 **[Mathematics and Its History](https://www.amazon.com/Mathematics-Its-History-Undergraduate-Texts/dp/144196052X/)**, *John Stillwell*
 
@@ -1255,7 +1251,7 @@ Classical (especially celestial) mechanics is the genesis behind symplectic geom
 
 <img src="/learn-mathematics/img/arnold-cm.jpg" alt="Arnol'd CM" width="200px"/>
 
-This book is not easy. It's about classical mechanics, but it will end up in symplectic geometry. Still, it's great, and it's written by one of the greats. I think everyone should read it, honestly.
+This book is not easy. It's about classical mechanics, but it will end up doing symplectic geometry! Still, it's great, and it's written by one of the greats. I think everyone should read it, honestly.
 
 #### Quantum Mechanics
 
@@ -1287,7 +1283,7 @@ Relativity is a fascinating topic, and I personally find it much weirder than qu
 
 <img src="/learn-mathematics/img/callahan.jpg" alt="Callahan" width="200px"/>
 
-It is very approachable. I loved the discussion on Minkowski space on it. The high number of diagrams and drawings is a high point. It mostly focuses on special relativity, but there is a discussion of general relativity at the end. Another great book is:
+It is very approachable. I loved the discussion of Minkowski space on it. The high number of diagrams and drawings is a high point. It mostly focuses on special relativity, but there is a discussion of general relativity at the end. Another great book is:
 
 **[Special Relativity](https://www.amazon.com/Special-Relativity-Springer-Undergraduate-Mathematics/dp/1852334266/)**, *N.M.J. Woodhouse*
 
@@ -1315,7 +1311,7 @@ Gauge theory is an important concept in physics, roughly describing physical sys
 
 <img src="/learn-mathematics/img/hamilton.jpg" alt="Hamilton" width="200px"/>
 
-Hamilton writes very well and this is one of my favorite books. It has a complete discussion of Lie groups and algebras as well as their representations, but I think you can find a slightly better exposition of the theory elsewhere. The real goal is in the physics portion in my opinion. There is also this very interesting book:
+Hamilton writes very well and this is one of my favorite books. It has a complete discussion of Lie groups and algebras as well as their representations, but I think you can find a slightly better exposition of the theory elsewhere. The real gold is in the physics portion in my opinion. There is also this very interesting book:
 
 **[Gauge Fields, Knots and Gravity](https://www.amazon.com/GAUGE-FIELDS-KNOTS-GRAVITY-Everything/dp/9810220340/)**, *John Baez, Javier P. Muniain*
 
@@ -1327,11 +1323,11 @@ Baez is an interesting figure in the mathematical physics community (as well as 
 
 <img src="/learn-mathematics/img/nakahara.jpg" alt="Nakahara" width="200px"/>
 
-I am not sure how to classify this amazing book, as most of it is actually about differential geometry, but it is written with physics researchers in (mathematical) physics in mind, and it does have an important chapter on gauge theories. Regardless, if you are interested in theoretical physics, please read it.
+I am not sure how to classify this amazing book, as most of it is actually about differential geometry, but it is written with researchers in (mathematical) physics in mind, and it does have an important chapter on gauge theories. Regardless, if you are interested in theoretical physics, please read it.
 
 #### Quantum Field Theory
 
-Quantum field theory (usually called QFT) is what happens when you try to quantize fields (such as the electromagnetic field). Unlike quantum mechanics, the mathematics of quantum field theory are... complicated. And also not always defined properly. What does it mean to take a (path) integral? What is the measure? I'm not sure. Either way, it's very interesting. I learned of the theory by reading a cute little book:
+Quantum field theory (usually called QFT) is what happens when you try to quantize fields (such as the electromagnetic field). Unlike quantum mechanics, the mathematics of quantum field theory are... complicated. And also not always defined properly. What does it mean to take an integral over all possible paths? What is the measure? I'm not sure. Either way, it's very interesting. I learned of the theory by reading a cute little book:
 
 **[Frobenius Algebras and 2D Topological Quantum Field Theory](https://www.amazon.com/Frobenius-Algebras-Topological-Theories-Mathematical-ebook/dp/B000SMDWFA/)**, *Joachim Kock*
 
@@ -1355,7 +1351,7 @@ This is a gentler introduction to the subject though it still assumes a lot of p
 
 <img src="/learn-mathematics/img/zeidler.jpg" alt="Zeidler" width="200px"/>
 
-I have not really all of this, obviously, as it is a mountain of work, but it's good to know there's a series of multiple books dedicated to quantum field theory for mathematicians. What I read from the first book, I really liked. Finally, there is this new book that came out recently:
+I have not read all of this, obviously, as it is a mountain of work, but it's good to know there's a series of multiple books dedicated to quantum field theory for mathematicians. What I read from the first book, I really liked. Finally, there is this new book that came out recently:
 
 **[What Is a Quantum Field Theory?](https://www.amazon.com/What-Quantum-Field-Theory-Mathematicians/dp/1316510271/)**, *Michel Talagrand*
 
@@ -1365,7 +1361,7 @@ I haven't had the chance to read it yet, but I heard it was great. I will take a
 
 ### Computer Science
 
-Computer science is arguably [not a science, and it is not about computers](https://youtu.be/-J_xL4IGhJA?si=jq8MO80Uw93Gb4MW&t=27). To me, computer science is a subfield of mathematics, and it was most definitely founded by mathematicians. Still, in modern times we tend to see both as separate entities and programs. As such, I have decided to separate them here.
+Computer science is arguably [not a science, and it is not about computers](https://youtu.be/-J_xL4IGhJA?si=jq8MO80Uw93Gb4MW&t=27). To me, computer science is a subfield of mathematics, and it was most definitely founded by mathematicians. Still, in modern times we tend to see both as separate entities and academic fields. As such, I have decided to separate them here.
 
 #### Cryptography
 
@@ -1387,9 +1383,9 @@ Personally, I found it a bit (too) easy, but it was still really good. Of course
 
 <img src="/learn-mathematics/img/bernstein.jpg" alt="Bernstein" width="200px"/>
 
-This discusses various post-quantum cryptosystems, although it is now slightly outdated since the NIST chose the winner of the post-quantum cryptography competition. Also, Rainbow was broken in two swift strikes since this book was written. Still, it's a good start to post-quantum crypto.
+This discusses various post-quantum cryptosystems, although it is now slightly outdated since the NIST chose the winner of the post-quantum cryptography competition. Also, Rainbow was broken in two swift strikes since this book was written. Still, it's a good start to post-quantum cryptography.
 
-#### Coding Theory and Information
+#### Information and Coding Theory
 
 Coding Theory and Information Theory more generally is an interesting subject with a unique flavor. The kind I know of uses a lot of algebra, mostly ring theory. I learned the subject from this book:
 
@@ -1425,23 +1421,23 @@ Great book, praised in the computer science community for a reason. I think it's
 
 <img src="/learn-mathematics/img/hott.webp" alt="HoTT" width="200px"/>
 
-I haven't read the book, I just know it because everyone talks about HoTT currently. That's the book to read if you wanna know what all the fuss is about.
+I haven't read the book, I just know it because everyone talks about HoTT currently. That's the book to read if you want to know what all the fuss is about.
 
-#### Digital Signal Processing
+#### Signal Processing
 
-I love audio engineering. It's super fun and creative. DSP is the theory that underpins it. I do not know too much about it, only two books. First is:
+I love audio engineering. It's super fun and creative. Signal Processing is the theory that underpins it. I do not know too much about it, only two books which I have most definitely not read in full. First is:
 
 **[Digital Audio Processing Fundamentals](https://www.amazon.com/Digital-Processing-Fundamentals-Springer-Topics-ebook/dp/B0BSKVH1VF/)**, *Aurelio Uncini*
 
 <img src="/learn-mathematics/img/uncini.jpg" alt="Uncini" width="200px"/>
 
-I like this book. It's approachable yet very detailed. The chapter on physical modeling in particular is really cool. It is pretty hefty though, with a total of around 700 pages. Sadly, this seems to be common as the next one is 600 pages:
+I like this book. It's approachable yet very detailed. The chapter on physical modeling in particular is really cool. It is pretty hefty though, with a total of around 700 pages. Sadly, this seems to be common in the field as the next one is 600 pages:
 
 **[Analog and Digital Signal Analysis](https://www.amazon.com/Analog-Digital-Signal-Analysis-Applications-ebook/dp/B01L3EW1W6/)**, *Frédéric Cohen Tenoudji*
 
 <img src="/learn-mathematics/img/tenoudji.jpg" alt="Tenoudji" width="200px"/>
 
-This one is even more focused on digital signals with wavelets and random signals, including filtering by a random signal. Again, it is very in-depth and very long, but if you're interested in DSP, it's wonderful.
+This one goes even deeper with wavelets and random signals, including filtering by a random signal. Again, it is very in-depth and very long, but if you're interested in signal processing, it's wonderful.
 
 ### Finance
 
@@ -1469,17 +1465,17 @@ Also written by Shreve. I didn't read it myself, but I have skimmed it and it lo
 
 <img src="/learn-mathematics/img/bouchard.jpg" alt="Bouchard" width="200px"/>
 
-I have not had the chance to read it yet, but I will.
+I have not had the chance to read it yet, but I will, hopefully.
 
 ### Biology
 
-Mathematical biology is a really cool field, I have taken a class on dynamical systems with applications to ecology and it was wonderful.
+Mathematical biology is a really cool field. I have taken a graduate class on dynamical systems that discussed among other things applications to ecology and it was wonderful. Here's a recommendation:
 
 **[Mathematical Biology](https://www.amazon.com/Mathematical-Biology-Introduction-Undergraduate-Mathematics/dp/1489982817/)**, *Ronald W. Shonkwiler, James Herod*
 
 <img src="/learn-mathematics/img/shonkwiler.jpg" alt="Shonkwiler" width="200px"/>
 
-This book is pretty big. Personally, I would choose one topic you're interested in and start there. There is a chapter you should probably start with though, "Some Mathematical Tools". There is also this from an author I like:
+This book is pretty big. Personally, I would choose one topic you're interested in and start there. You should probably start with the chapter called "Some Mathematical Tools" though. There is also this from an author I like:
 
 **[Mathematical Methods in Biology and Neurobiology](https://www.amazon.com/Mathematical-Methods-Biology-Neurobiology-Universitext/dp/1447163524/)**, *Jürgen Jost*
 
@@ -1501,7 +1497,7 @@ Chemistry doesn't have too many textbooks that I know using mathematics, they ar
 
 <img src="/learn-mathematics/img/bishop.jpg" alt="Bishop" width="200px"/>
 
-There are a myriad of them out there, this is the only one I have looked through. If you don't like it, odds are there's another one you will liike better with the exact same name. On the other hand, there is this book which I actually liked:
+There are a myriad of them out there, this is the only one I have looked through. If you don't like it, odds are there's another one you will like better with the exact same name (or very close). There is one book I actually read and liked though, it's this one:
 
 **[Linearity, Symmetry, and Prediction in the Hydrogen Atom](https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)**, *Stephanie Frank Singer*
 
@@ -1514,6 +1510,8 @@ Singer introduces everything she will need to present the symmetry group of the 
 In this last part, I would like to describe a few possible tracks someone could take through the many, many topics discussed above. After all, there are many different possible choices and it can lead to decision paralysis. Of course, you are free to create your own, just make sure you have all the prerequisites to the courses you are interested in doing. Usually, I would be studying two topics at the same time, but you are free to do something different.
 
 First of all, there is a core track that I will assume you have done before moving on. The books listed here can be changed for other books in the same category, it is just the list I would personally follow to learn these subjects, assuming I don't already know them. Here is what the core sequence consists of:
+
+**Core Sequence**:
 
 1. Precalculus Mathematics in a Nutshell
 2. APEX Calculus
@@ -1528,7 +1526,7 @@ First of all, there is a core track that I will assume you have done before movi
 11. Introduction to Topology (ch.1 on Metric Spaces)
 12. Topoology (ch.1-7) 
 
-This is what I will call the core sequence and you are assumed to take all of these. The tracks below builds from there into graduate level topics.
+This is what I will call the core sequence and you are assumed to have taken all of these. The tracks below builds from there into graduate-level topics.
 
 ## Generalist track
 
@@ -1547,7 +1545,7 @@ Assuming you have no particular interest in any specific subfield of mathematics
 
 For the Lie groups course, I would do Hall because it covers both Lie groups and Lie algebras.
 
-## Analysis track
+## Analyst track
 
 This is the track for die-hard analysis fans.
 
@@ -1569,13 +1567,13 @@ For the last two subjects, I would read both books by Apostol personally, but yo
 This is the track for people mostly interested in algebra.
 
 1. Graduate Algebra (w/ Galois Theory)
-2. Commutative Algebra
-3. Homological Algebra
-4. Representation Theory
-5. Algebraic Number Theory
-6. Category Theory
-7. Algebraic Topology
-8. Elliptic Curves
+2. Category Theory
+3. Commutative Algebra
+4. Homological Algebra
+5. Representation Theory
+6. Algebraic Topology
+7. Elliptic Curves
+8. Algebraic Number Theory
 9. Classical Algebraic Geometry
 10. Modern Algebraic Geometry
 
@@ -1600,13 +1598,13 @@ The last recommendation is literally the book named like this. For Algebraic Top
 
 This track is for people interested in becoming algebraic geometers:
 
-1. Commutative Algebra
-2. Classical Algebraic Geometry
-3. Category Theory
-4. Algebraic Topology
+1. Category Theory
+2. Commutative Algebra
+3. Algebraic Topology
+4. Classical Algebraic Geometry
 5. Homological Algebra
-6. Modern Algebraic Geometry
-7. Representation Theory
+6. Representation Theory
+7. Modern Algebraic Geometry
 8. Étale Cohomology
 9. Algebraic Groups
 10. Arithmetic Geometry
@@ -1626,7 +1624,7 @@ This track focuses on number theory:
 9. Modern Algebraic Geometry
 10. Arithmetic Geometry
 
-You could also swap out the algebraic geometry spots with something else
+You could also swap out the algebraic geometry spots with something else.
 
 ## Physicist track
 
@@ -1676,3 +1674,5 @@ A track that might be interesting if you want to go into financial mathematics.
 8. Statistics
 9. Game Theory
 10. Numerical Analysis
+
+You could take out the last three for something else that interests you.
