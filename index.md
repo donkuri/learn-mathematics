@@ -1000,6 +1000,10 @@ This has an accompanying YouTube series.
 
 #### Quantum Field Theory
 
+**[Frobenius Algebras and 2D Topological Quantum Field Theory](https://www.amazon.com/Frobenius-Algebras-Topological-Theories-Mathematical-ebook/dp/B000SMDWFA/)**, *Joachim Kock*
+
+<img src="/learn-mathematics/img/kock.jpg" alt="Kock" width="200px"/>
+
 **[Quantum Fields and Strings](https://www.amazon.com/Quantum-Fields-Strings-Course-Mathematicians/dp/0821820141/)**, *Pierre Deligne, et al*
 
 <img src="/learn-mathematics/img/deligne.gif" alt="Deligne" width="200px"/>
