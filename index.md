@@ -670,6 +670,10 @@ This section slightly intersects with the one on representation theory (especial
 
 ### Classical Algebraic Geometry
 
+**[Algebraic Geometry](https://www.jmilne.org/math/CourseNotes/ag.html)**, *J.S. Milne*
+
+<img src="/learn-mathematics/img/milne-ag.png" alt="Milne AG" width="200px"/>
+
 **[Algebraic Curves](https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf)**, *William Fulton*
 
 <img src="/learn-mathematics/img/fulton-ag.png" alt="Fulton AG" width="200px"/>
