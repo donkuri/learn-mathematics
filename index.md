@@ -329,7 +329,13 @@ Fourier analysis is the genesis of much of what you have studied in real analysi
 
 <img src="/learn-mathematics/img/stein-fourier.jpg" alt="Stein & Shakarchi, Vol.1" width="200px"/>
 
-This book is absolutely stunning (as are all the books in the series, and I suggest using them to study graduate analysis). The exemples are motivated well and the exercises are just right. Honestly, there are other books in Fourier analysis but this one is the only one I used and I don't really know of others. I saw Körner has one, so maybe try that if you want a different view of the subject?
+This book is absolutely stunning (as are all the books in the series, and I suggest using them to study graduate analysis). The exemples are motivated well and the exercises are just right. There is another book that I have read for a bit, especially for its discussion of wavelets:
+
+**[Introduction to Fourier Analysis and Wavelets](https://www.amazon.com/Introduction-Analysis-Wavelets-Graduate-Mathematics/dp/082184797X/)**, *Mark A. Pinsky*
+
+<img src="/learn-mathematics/img/pinsky.jpg" alt="Pinksy" width="200px"/>
+
+Both books are great, try them out!
 
 ### Complex Analysis
 
@@ -417,11 +423,19 @@ This gigantic book (now re-edited by Springer in two volumes) is my favorite boo
 
 I love this book. It starts with intuitive probability and goes from there. It has this unmistakebly Russian flavor to it, but at the same time, it gives enough examples that you do not feel completely lost. If you're more interested in stochastic calculus specifically, this is a good reference:
 
+**[Brownian Motion and Stochastic Calculus](https://www.amazon.com/Brownian-Stochastic-Calculus-Graduate-Mathematics/dp/0387976558/)**, *Ioannis Karatzas, Steven E. Shreve*
+
+<img src="/learn-mathematics/img/karatzas.jpg" alt="Karatzas" width="200px"/>
+
+https://www.amazon.com/Brownian-Stochastic-Calculus-Graduate-Mathematics/dp/0387976558/ref=sr_1_1?crid=SKLUQ4SAHMWA&dib=eyJ2IjoiMSJ9.mzbV3Z4DF2RfW39zI4IrEL7Krzz_f9PNbxFknxG7c8D-ud3yhFRxtrd4ggrM5es0BT6-uEfgH-3dN5247kjzP0JXO6hBeSDb5KDtzskH6NK4OCc75Isbmcn0hJ8Zg6pINzUxOZ3nOSybiqKHNfvHaZDno-mEx5BlDwWzist29T3wKCtVbEazamJdLN99iZsBMZU6BzH1tAUUg3S7MYI1fKU3qEgG9HmllF-EdQdxU1E.MN7asT0ZRskN-l-R7Qa3V87Ti0CoVbvZ0sJpj9_-eTs&dib_tag=se&keywords=brownian+motion+and+stochastic+calculus&qid=1711196393&s=books&sprefix=brownian+motion+%2Cstripbooks-intl-ship%2C250&sr=1-1
+
+Another classic is this, which I have used as a reference before:
+
 **[Brownian Motion, Martingales and Stochastic Calculus](https://www.amazon.com/Brownian-Martingales-Stochastic-Calculus-Mathematics/dp/3319310887/)**, *Jean-François le Gall*
 
 <img src="/learn-mathematics/img/shiryaev.jpg" alt="Shiryaev" width="200px"/>
 
-Taking this suggestion a step further, this is the best book I know on stochastic differential equations:
+Taking this further, this is the best book I know on stochastic differential equations:
 
 **[Stochastic Differential Equations](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581/)**, *Bernt Oksendal*
 
@@ -568,10 +582,6 @@ The approach here is pretty different, where cohomology groups are introduced fi
 **[The Knot Book](https://www.amazon.com/Knot-Book-Colin-Adams/dp/0821836781/)**, *Colin Adams*
 
 <img src="/learn-mathematics/img/knot.jpg" alt="Knot Book" width="200px"/>
-
-**[Gauge Fields, Knots and Gravity](https://www.amazon.com/GAUGE-FIELDS-KNOTS-GRAVITY-Everything/dp/9810220340/)**, *John Baez, Javier P. Muniain*
-
-<img src="/learn-mathematics/img/baez.jpg" alt="Baez" width="200px"/>
 
 ### Homotopy Theory
 
@@ -743,31 +753,31 @@ This section slightly intersects with the one on representation theory (especial
 
 ### Analytic Number Theory
 
-**[Introduction to Analytic Number Theory](https://www.amazon.com/Introduction-Analytic-Number-Theory-Apostol/dp/0387901639/ref=sr_1_1?crid=2D18GWR38K1FZ&dib=eyJ2IjoiMSJ9.swV8CUeh7U0WpIy7CrNJ4_SWrNEhD2xpVKyZceBtORXTp2vDLZtq0U6PJeVlI_irKnoqMm7v2cEeCVHEuYs6zjMgu6CV3dD4kmRLrM5MDnwSMwc6Y32Xmt_8s7jqmk_VpuVhGTGDmlvBN522dhWyXwVsVTS1usTBVxaX6jYmmmsdCXTvWmGectxTzhPRvsRmctAC5Dncd7-DoUwhLTViWd18_L8-QC5iY8n6prjugo1By2UyZ6bndmkwFSulMW-Tty3ePop1ewP5ce6e8p4YZw.Lh2BB7n6cfPhX7KUaIhYT0szFESDBLGK8vvVc4NhUBM&dib_tag=se&keywords=apostol+analytic&qid=1711146881&sprefix=apostol+analyti%2Caps%2C172&sr=8-1)**, *Tom M. Apostol*
+**[Introduction to Analytic Number Theory](https://www.amazon.com/Introduction-Analytic-Number-Theory-Apostol/dp/0387901639/)**, *Tom M. Apostol*
 
 <img src="/learn-mathematics/img/apostol.jpg" alt="Apostol" width="200px"/>
 
-**[Multiplicative Number Theory](https://www.amazon.com/Multiplicative-Number-Theory-Graduate-Mathematics/dp/0387950974/ref=sr_1_1?crid=3NFJTKZOWRGVP&dib=eyJ2IjoiMSJ9.gIAr-YN4V3hb29v6M6UvRQKMXQF3CSStj5W1BRcObD6G6o7_e8PDg7QIj5SOBmGyX6w9WFRTdxPijCuK-JPwXSKlo7RInYqrvg3OJYsCabJS_ZV3Q1k538cUSluxZsBDw-oHZoy0OgS787UXETehjLq5cedhl0Gpk0ngIzSHE6xmlbL9Ly-AsflUlbCEzhDmxbx51X0fZ4dA3VO6WSofVQ8UwjoSSQcAq9fRnB2Vc_c.gS9Ct5OF9Od-7bJURll2K6TAzLmsih7OvoQ-imKTcpw&dib_tag=se&keywords=multiplicative+number+theory&qid=1711146920&sprefix=multiplicative+number+theor%2Caps%2C191&sr=8-1)**, *Harold Davenport*
+**[Multiplicative Number Theory](https://www.amazon.com/Multiplicative-Number-Theory-Graduate-Mathematics/dp/0387950974/)**, *Harold Davenport*
 
 <img src="/learn-mathematics/img/davenport.jpg" alt="Davenport" width="200px"/>
 
-**[Multiplicative Number Theory I](https://www.amazon.com/Multiplicative-Number-Theory-Classical-Mathematics/dp/0521849039/ref=sr_1_2?crid=3NFJTKZOWRGVP&dib=eyJ2IjoiMSJ9.gIAr-YN4V3hb29v6M6UvRQKMXQF3CSStj5W1BRcObD6G6o7_e8PDg7QIj5SOBmGyX6w9WFRTdxPijCuK-JPwXSKlo7RInYqrvg3OJYsCabJS_ZV3Q1k538cUSluxZsBDw-oHZoy0OgS787UXETehjLq5cedhl0Gpk0ngIzSHE6xmlbL9Ly-AsflUlbCEzhDmxbx51X0fZ4dA3VO6WSofVQ8UwjoSSQcAq9fRnB2Vc_c.gS9Ct5OF9Od-7bJURll2K6TAzLmsih7OvoQ-imKTcpw&dib_tag=se&keywords=multiplicative+number+theory&qid=1711146920&sprefix=multiplicative+number+theor%2Caps%2C191&sr=8-2)**, *Hugh L. Montgomery, Robert C. Vaughan*
+**[Multiplicative Number Theory I](https://www.amazon.com/Multiplicative-Number-Theory-Classical-Mathematics/dp/0521849039/)**, *Hugh L. Montgomery, Robert C. Vaughan*
 
 <img src="/learn-mathematics/img/montgomery.jpg" alt="Montgomery" width="200px"/>
 
 ### Elliptic Curves
 
-**[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Cryptography-Mathematics-Applications/dp/1420071467/ref=sr_1_7?crid=3N8HJ6A4XBTXE&dib=eyJ2IjoiMSJ9.Ri_HQKBQQosLeUW4q-NTygnkJ7f6zn_wQ1IeSZF-86LcL27rOTSgae_ltzxATej5NkFRZX8j4JVrnu8LgAOdxLVli0ha0dmi_WxQaYWe_h1GjtW0nDsCJxYFLTD2bFMhPKwgDIALNy9AKwsDtPICG3IdZMn0bsEEll4SbcMDMjYw5EpfhGqx8ZGpWJ5ewxQaYwvUv3l7w8VTV9CzIISQxTqDHDlyYg2jo0awFGiVE-k.Cu5AKfTScOORPJH3EdXtfrOsotolcKEUO3AcGYNl73I&dib_tag=se&keywords=elliptic+curves&qid=1711147070&sprefix=elliptic+curve%2Caps%2C179&sr=8-7)**, *Lawrence C. Washington*
+**[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Cryptography-Mathematics-Applications/dp/1420071467/)**, *Lawrence C. Washington*
 
 <img src="/learn-mathematics/img/washington.jpg" alt="Washington" width="200px"/>
 
-**[The Arithmetic of Elliptic Curves](https://www.amazon.com/Arithmetic-Elliptic-Curves-Graduate-Mathematics/dp/0387094938/ref=sr_1_1?crid=3N8HJ6A4XBTXE&dib=eyJ2IjoiMSJ9.Ri_HQKBQQosLeUW4q-NTygnkJ7f6zn_wQ1IeSZF-86LcL27rOTSgae_ltzxATej5NkFRZX8j4JVrnu8LgAOdxLVli0ha0dmi_WxQaYWe_h1GjtW0nDsCJxYFLTD2bFMhPKwgDIALNy9AKwsDtPICG3IdZMn0bsEEll4SbcMDMjYw5EpfhGqx8ZGpWJ5ewxQaYwvUv3l7w8VTV9CzIISQxTqDHDlyYg2jo0awFGiVE-k.Cu5AKfTScOORPJH3EdXtfrOsotolcKEUO3AcGYNl73I&dib_tag=se&keywords=elliptic+curves&qid=1711147070&sprefix=elliptic+curve%2Caps%2C179&sr=8-1)**, *Joseph H. Silverman*
+**[The Arithmetic of Elliptic Curves](https://www.amazon.com/Arithmetic-Elliptic-Curves-Graduate-Mathematics/dp/0387094938/)**, *Joseph H. Silverman*
 
 <img src="/learn-mathematics/img/silverman.jpg" alt="Silverman" width="200px"/>
 
 ### Algebraic Number Theory
 
-**[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Grundlehren-mathematischen-Wissenschaften/dp/3540653996/ref=sr_1_1?crid=15OSO20NR0MRB&dib=eyJ2IjoiMSJ9.LuU3_wKqvKgO9AxKBlSNylSp7yXC3gxIpJPF-GKnrfvGsrFyR51UPfFXp4urRc2uAixdQSIKCiBHSz9DF88d7EWfBjE3APOgIjeCOHrdQfmwXvY2G13AFdj174jOQimuW7QuFia-3deP4ffNNrzSiKKdPqBXsCjvp1MdWSmoACKzqruAEq_dj85vjqT_2mb8fueiMwv79RGWiMEy5vCnQhJAHRzGRUnu7E2H_RxC3IbVpRnKxpfRggqogON_x4ay6HKk_6AcCb4DR8ImvSx_OhHCtb9oPNWivFJKlKgMTlE.nOslLyCq6Q4P1J79RCMCaRWb0fBZg9_EKmlPjE1IlFM&dib_tag=se&keywords=algebraic+number+theory&qid=1711147141&sprefix=algebriac+number+theor%2Caps%2C172&sr=8-1)**, *Jürgen Neukirch*
+**[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Grundlehren-mathematischen-Wissenschaften/dp/3540653996/)**, *Jürgen Neukirch*
 
 <img src="/learn-mathematics/img/neukirch.jpg" alt="Neukirch" width="200px"/>
 
@@ -775,27 +785,27 @@ This section slightly intersects with the one on representation theory (especial
 
 <img src="/learn-mathematics/img/milne-ant.png" alt="Milne ANT" width="200px"/>
 
-**[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Theory-Graduate-Mathematics/dp/0387942254/ref=sr_1_3?crid=15OSO20NR0MRB&dib=eyJ2IjoiMSJ9.LuU3_wKqvKgO9AxKBlSNylSp7yXC3gxIpJPF-GKnrfvGsrFyR51UPfFXp4urRc2uAixdQSIKCiBHSz9DF88d7EWfBjE3APOgIjeCOHrdQfmwXvY2G13AFdj174jOQimuW7QuFia-3deP4ffNNrzSiKKdPqBXsCjvp1MdWSmoACKzqruAEq_dj85vjqT_2mb8fueiMwv79RGWiMEy5vCnQhJAHRzGRUnu7E2H_RxC3IbVpRnKxpfRggqogON_x4ay6HKk_6AcCb4DR8ImvSx_OhHCtb9oPNWivFJKlKgMTlE.nOslLyCq6Q4P1J79RCMCaRWb0fBZg9_EKmlPjE1IlFM&dib_tag=se&keywords=algebraic+number+theory&qid=1711147200&sprefix=algebriac+number+theor%2Caps%2C172&sr=8-3)**, *Serge Lang*
+**[Algebraic Number Theory](https://www.amazon.com/Algebraic-Number-Theory-Graduate-Mathematics/dp/0387942254/)**, *Serge Lang*
 
 <img src="/learn-mathematics/img/lang-ant.jpg" alt="Lang ANT" width="200px"/>
 
-**[Number Fields](https://www.amazon.com/Number-Fields-Universitext-Daniel-Marcus/dp/3319902326/ref=sr_1_1?crid=3UQ7AJWDTLBER&dib=eyJ2IjoiMSJ9.skDwT-j64Da7uO54gJhcIeoMRyr8wzJqeWYWPac0mXL0hhkAi76c16yaQ6lfypQw3SNH0oFk5lqb4q4864VCXqTNa8Xj5D-0YWgxiXZ0r0F9AXN2dMNYqWumSmxIIVfjzfX33-4MMFVlOrfjI9ZM2GnVezOc0qrDIIBDq81TpTWyNrLWYN07sbZ0NvXWnseihez2r3I7KCSkaoOlEX6Twk89LXOXFnbmP9j6BPk6G5s.ABgdbIcp8tQyYVlYMfJJwuPPNwebyxFghKnQHhwu8MU&dib_tag=se&keywords=number+fields&qid=1711147307&sprefix=number+fiel%2Caps%2C203&sr=8-1)**, *Daniel A. Marcus*
+**[Number Fields](https://www.amazon.com/Number-Fields-Universitext-Daniel-Marcus/dp/3319902326/)**, *Daniel A. Marcus*
 
 <img src="/learn-mathematics/img/marcus.jpg" alt="Marcus" width="200px"/>
 
 ### ***p***-Adic Analysis
 
-**[*p*-adic Numbers](https://www.amazon.com/p-adic-Numbers-Introduction-Fernando-Gouv%C3%AAa/dp/3030472949/ref=pd_sim_d_sccl_2_1/138-5503256-4552624?pd_rd_w=e76so&content-id=amzn1.sym.552090e4-055d-4721-9dec-3ab260a2aa3f&pf_rd_p=552090e4-055d-4721-9dec-3ab260a2aa3f&pf_rd_r=KPFRFSB3R560QQ5MPQRY&pd_rd_wg=bp4AY&pd_rd_r=c036e60f-2495-41df-b16b-4cf6d460644a&pd_rd_i=3030472949&psc=1)**, *Fernando Q. Gouvêa*
+**[*p*-adic Numbers](https://www.amazon.com/p-adic-Numbers-Introduction-Fernando-Gouv%C3%AAa/dp/3030472949/)**, *Fernando Q. Gouvêa*
 
 <img src="/learn-mathematics/img/gouvea.jpg" alt="Gouvea" width="200px"/>
 
-**[*p*-adic Numbers, *p*-adic Analysis, and Zeta-Functions](https://www.amazon.com/Numbers-Analysis-Zeta-Functions-Graduate-Mathematics/dp/0387960171/ref=sr_1_4?crid=1OZYABBDKRAWG&dib=eyJ2IjoiMSJ9.2RvHR_3Ek4vhmMCkZY46SgUYy-2HjnXAz4u7uasALcDSQklTztC2d1uCKdZ17qcqpqtixp3VdTtltQveLhZqAokRUbMOEix4qo6ID5Ku8ecaXNRFGWGbeKnLEmNc2_7ZLJpAfAEhK2Lxb-EEMu9DI4DueqCoJN1vl--2YlQyoBZ4Me32L76zLCPlrPGaWyn8dNHgxF9iO_luyYVTwrExr4jUzwyCuLz0du4On-hoCf8K8_Gmdsd2bu06UbtnlApEJ7bonOghMe9-pLPwbwqNH8agkp8lNYdHrEtUWy2-5b0.ZkNK1k4FiXQPDvTNXmwEWg5_HlZTvg7P4CoUSBPXH5A&dib_tag=se&keywords=p-adic&qid=1711147398&sprefix=p-adi%2Caps%2C172&sr=8-4)**, *Neal Koblitz*
+**[*p*-adic Numbers, *p*-adic Analysis, and Zeta-Functions](https://www.amazon.com/Numbers-Analysis-Zeta-Functions-Graduate-Mathematics/dp/0387960171/)**, *Neal Koblitz*
 
 <img src="/learn-mathematics/img/koblitz.jpg" alt="Koblitz" width="200px"/>
 
 ### Modular and Automorphic Forms
 
-**[Automorphic Forms](https://www.amazon.com/Automorphic-Forms-Universitext-Anton-Deitmar/dp/1447144341/ref=sr_1_3?crid=2W9I3H0G3DGP6&dib=eyJ2IjoiMSJ9.I3RoRYqkrLuCdqoQRrGaemhWu5i9T_TXhJg-uzOIpXbJpUlgGZ_0wZEnMUiulfdG9NC0qvE9Fybt58tQCKIrh7WLfe4lX_ffRZalODhY75HP6BNpoUeIzIGyTKfsOw4pTgSqxY95eKl8Gqpqa1GUmdJ5ntzi3ce6bdrVu6yyDZHnBhZklDwrYSVIWrfu8bvXptsK0ogP6QjWK1cyONsWT8To4ed-x8Vg2XGvpASyQeo.VvCZm0zr3sz6iH2FORVr7fcUG2c1UjrZOHBsoBTDx-U&dib_tag=se&keywords=automorphic+forms&qid=1711147477&sprefix=automorphic+form%2Caps%2C176&sr=8-3)**, *Anton Deitmar*
+**[Automorphic Forms](https://www.amazon.com/Automorphic-Forms-Universitext-Anton-Deitmar/dp/1447144341/)**, *Anton Deitmar*
 
 <img src="/learn-mathematics/img/deitmar-af.jpg" alt="Deitmar AF" width="200px"/>
 
@@ -805,77 +815,124 @@ This section slightly intersects with the one on representation theory (especial
 
 ### Category Theory
 
-**[]()**, **
+**[Category Theory in Context](https://www.amazon.com/Category-Theory-Context-Aurora-Originals/dp/048680903X/)**, *Emily Riehl*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/riehl.jpg" alt="Riehl" width="200px"/>
 
-**[]()**, **
+**[Categories for the Working Mathematician](https://www.amazon.com/Categories-Working-Mathematician-Graduate-Mathematics/dp/1441931236/)**, *Saunders MacLane*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/maclane.jpg" alt="MacLane" width="200px"/>
 
 **[Categories and Sheaves](https://www.amazon.com/Categories-Sheaves-Introduction-mathematischen-Wissenschaften-ebook/dp/B000UG85UQ/)**, *Masaki Kashiwara, Pierre Schapira*
 
 <img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
-**[]()**, **
+**[An Introduction to the Language of Category Theory](https://www.amazon.com/Introduction-Language-Category-Textbooks-Mathematics-ebook/dp/B01MS5LCNA/)**, *Steven Roman*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/roman-ct.jpg" alt="Roman-CT" width="200px"/>
 
-**[]()**, **
+This has an accompanying YouTube series.
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+**[Category Theory](https://www.amazon.com/Category-Theory-Oxford-Logic-Guides/dp/0199237182/)**, *Steve Awodey*
+
+<img src="/learn-mathematics/img/awodey.jpg" alt="Awodey" width="200px"/>
 
 ### Mathematical Logic
 
-**[]()**, **
+**[A Course in Mathematical Logic for Mathematicians](https://www.amazon.com/Course-Mathematical-Mathematicians-Graduate-Mathematics/dp/1441906142/)**, *Yu. I. Manin*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/manin.jpg" alt="Manin" width="200px"/>
 
-**[]()**, **
+**[Mathematical Logic](https://www.amazon.com/Mathematical-Logic-Graduate-Texts-Mathematics/dp/3030738388/)**, *Heinz-Dieter Ebbinghaus, et al*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/ebbinghaus.jpg" alt="Ebbinghaus" width="200px"/>
 
 ### Graph Theory
 
-**[]()**, **
+**[Graph Theory](https://www.amazon.com/Graph-Theory-Graduate-Texts-Mathematics/dp/1849966907/)**, *J.A. Bondy, U.S.R. Murty*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/bondy.jpg" alt="Bondy" width="200px"/>
 
-**[]()**, **
+**[Graph Theory](https://www.amazon.com/Graph-Theory-Graduate-Texts-Mathematics/dp/3662575604/)**, *Reinhard Diestel*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/diestel.jpg" alt="Diestel" width="200px"/>
 
-**[]()**, **
+**[Modern Graph Theory](https://www.amazon.com/Modern-Graph-Theory-Graduate-Mathematics/dp/0387984887/)**, *Béla Bollobás*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/bollobas.jpg" alt="Bollobás" width="200px"/>
 
 ### Statistics
 
-**[]()**, **
+**[Statistics for Mathematicians](https://www.amazon.com/Statistics-Mathematicians-Rigorous-Textbooks-Mathematics-ebook/dp/B01GQ7XQOM/)**, *Victor M. Panaretos*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/panaretos.jpg" alt="Panaretos" width="200px"/>
 
 **[Mathematical Statistics](https://www.amazon.com/Mathematical-Statistics-Asymptotic-Graduate-Mathematics/dp/0821852833/)**, *Alexander Korostelev, Olga Korostelev*
 
 <img src="/learn-mathematics/img/korostelev.jpg" alt="Korostelev" width="200px"/>
 
+**[The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/)**, *Trevor Hastie, et al*
+
+<img src="/learn-mathematics/img/hastie.jpg" alt="Hastie" width="200px"/>
+
+**[An Introduction to Statistical Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1071614177/)**, *Gareth James, et al*
+
+<img src="/learn-mathematics/img/james.jpg" alt="James" width="200px"/>
+
 ### Game Theory
 
-**[]()**, **
+**[On Numbers and Games](https://www.amazon.com/Numbers-Games-John-H-Conway/dp/1568811276/)**, *John H. Conway*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/conway.jpg" alt="Conway" width="200px"/>
 
-**[]()**, **
+**[Combinatorial Game Theory](https://www.amazon.com/Combinatorial-Theory-Graduate-Studies-Mathematics/dp/082185190X/)**, *Aaron N. Siegel*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/siegel.jpg" alt="Siegel" width="200px"/>
+
+**[Differential Games](https://www.amazon.com/Differential-Games-Mathematical-Applications-Optimization/dp/0486406822/)**, *Rufus Isaacs*
+
+<img src="/learn-mathematics/img/isaacs.jpg" alt="Isaacs" width="200px"/>
+
+#### Numerical Analysis
+
+**[Scientific Computing with MATLAB and Octave](https://www.amazon.com/Scientific-Computing-Computational-Science-Engineering/dp/364245366X/)**, *Alfio Quarteroni, et al*
+
+<img src="/learn-mathematics/img/quarteroni.jpg" alt="Quarteroni" width="200px"/>
+
+**[Theoretical Numerical Analysis](https://www.amazon.com/Theoretical-Numerical-Analysis-Functional-Mathematics-ebook/dp/B00HWV1RFW/)**, *Kendall Atkinson*
+
+<img src="/learn-mathematics/img/atkinson.jpg" alt="Atkinson" width="200px"/>
+
+**[Finite Difference Methods for Ordinary and Partial Differential Equations](https://www.amazon.com/Difference-Methods-Ordinary-Differential-Equations/dp/0898716292/)**, *Randall J. LeVeque*
+
+<img src="/learn-mathematics/img/leveque.jpg" alt="LeVeque" width="200px"/>
 
 ### Mathematics History
 
-Stillwell stuff
+**[Mathematics and Its History](https://www.amazon.com/Mathematics-Its-History-Undergraduate-Texts/dp/144196052X/)**, *John Stillwell*
+
+<img src="/learn-mathematics/img/stillwell-math.jpg" alt="Stillwell Math" width="200px"/>
+
+**[The Real and the Complex](https://www.amazon.com/Real-Complex-Analysis-Undergraduate-Mathematics/dp/3319237144/)**, *Jeremy Gray*
+
+<img src="/learn-mathematics/img/gray-real.jpg" alt="" width="200px"/>
+
+**[Worlds Out of Nothing](https://www.amazon.com/Worlds-Out-Nothing-Undergraduate-Mathematics/dp/0857290592/)**, *Jeremy Gray*
+
+<img src="/learn-mathematics/img/gray-worlds.jpg" alt="" width="200px"/>
+
+**[A History of Abstract Algebra](https://www.amazon.com/History-Abstract-Algebra-Undergraduate-Mathematics/dp/3319947729/)**, *Jeremy Gray*
+
+<img src="/learn-mathematics/img/gray-algebra.jpg" alt="" width="200px"/>
+
+**[Change and Variations](https://www.amazon.com/Change-Variations-Differential-Undergraduate-Mathematics/dp/3030705749/)**, *Jeremy Gray*
+
+<img src="/learn-mathematics/img/gray-variations.jpg" alt="" width="200px"/>
+
+**[Number Theory and Its History](https://www.amazon.com/Number-Theory-History-Dover-Mathematics-ebook/dp/B00A73FH1W/)**, *Oysten Ore*
+
+<img src="/learn-mathematics/img/ore.jpg" alt="Ore" width="200px"/>
+
 
 ## Applications
 
@@ -887,142 +944,169 @@ Stillwell stuff
 
 #### Classical Mechanics
 
-**[]()**, **
+**[Mathematical Methods of Classical Mechanics](https://www.amazon.com/Mathematical-Classical-Mechanics-Graduate-Mathematics/dp/0387968903/)**, *Vladimir I. Arnol'd*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/arnold-cm.jpg" alt="Arnol'd CM" width="200px"/>
 
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
 
 #### Quantum Mechanics
 
-**[]()**, **
+**[Quantum Theory, Groups and Representations](https://www.amazon.com/Quantum-Theory-Groups-Representations-Introduction/dp/3319646109/)**, *Peter Woit*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/woit.jpg" alt="Woit" width="200px"/>
 
-**[]()**, **
+**[Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X/)**, *Brian C. Hall*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/hall-qm.jpg" alt="Hall QM" width="200px"/>
 
-**[]()**, **
+**[Quantum Mechanics for Mathematicians](https://www.amazon.com/Quantum-Mechanics-Mathematicians-Graduate-Mathematics/dp/0821846302/)**, *Leon A. Takhtajan*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/takhtajan.jpg" alt="Takhtajan" width="200px"/>
 
 #### Relativity
-https://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068/ref=sr_1_1?crid=3KO64XWYBH7Z0&dib=eyJ2IjoiMSJ9.IFQRWbtWEca-dVpEst1LNXVgmxaJLXkcZHKAJhMzKTl3b0N2wGeiTHNSeqYqwqfc1k5Y_LHCxQcfQU58tsW-I56QAKPXY4-0rd59ffdkSIf_w0bAYtH78mHsQKpWNdcfkJnUmgN4FRseyVfuzj3l1dQaVMgaIKm8AfHkgnTxnsvgH28jRko8nL-lxoVR_iajfx5SdpzGO4qDArJOTPoEWm0GQKYXc3ycGd0plMBukRw.UkkVfjaCes1oHKHo2JQfqzo4Wr6vAKRDxLUF8EmSRWE&dib_tag=se&keywords=topology+and+geometry+physics&qid=1711141939&sprefix=topology+and+geometry+physic%2Caps%2C166&sr=8-1
-**[]()**, **
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+**[The Geometry of Spacetime](https://www.amazon.com/Geometry-Spacetime-Introduction-Undergraduate-Mathematics/dp/0387986413/)**, *James J. Callahan*
 
-**[]()**, **
+<img src="/learn-mathematics/img/callahan.jpg" alt="Callahan" width="200px"/>
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+**[Special Relativity](https://www.amazon.com/Special-Relativity-Springer-Undergraduate-Mathematics/dp/1852334266/)**, *N.M.J. Woodhouse*
+
+<img src="/learn-mathematics/img/woodhouse-sr.jpg" alt="WoodHouse SR" width="200px"/>
+
+**[General Relativity](https://www.amazon.com/General-Relativity-Springer-Undergraduate-Mathematics/dp/1846284864/)**, *N.M.J. Woodhouse*
+
+<img src="/learn-mathematics/img/woodhouse-gr.jpg" alt="Woodhouse GR" width="200px"/>
+
+**[General Relativity for Mathematicians](https://www.amazon.com/General-Relativity-Mathematicians-Graduate-Mathematics/dp/038790218X/)**, *R. K. Sachs, H. Wu*
+
+<img src="/learn-mathematics/img/sachs.jpg" alt="Sachs" width="200px"/>
+
+**[Geometry, Topology and Physics](https://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068/)**, *Mikio Nakahara*
+
+<img src="/learn-mathematics/img/nakahara.jpg" alt="Nakahara" width="200px"/>
 
 #### Gauge Theory
 
-**[]()**, **
+**[Mathematical Gauge Theory](https://www.amazon.com/Mathematical-Gauge-Theory-Applications-Universitext/dp/3319684388/)**, *Mark J.D. Hamilton*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/hamilton.jpg" alt="Hamilton" width="200px"/>
+
+**[Gauge Fields, Knots and Gravity](https://www.amazon.com/GAUGE-FIELDS-KNOTS-GRAVITY-Everything/dp/9810220340/)**, *John Baez, Javier P. Muniain*
+
+<img src="/learn-mathematics/img/baez.jpg" alt="Baez" width="200px"/>
 
 #### Quantum Field Theory
 
-**[]()**, **
+**[Quantum Fields and Strings](https://www.amazon.com/Quantum-Fields-Strings-Course-Mathematicians/dp/0821820141/)**, *Pierre Deligne, et al*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/deligne.gif" alt="Deligne" width="200px"/>
 
-**[]()**, **
+**[Quantum Field Theory](https://www.amazon.com/Quantum-Field-Theory-Mathematicians-Mathematical/dp/1470464837/)**, *Gerald B. Folland*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/folland.jpg" alt="Folland" width="200px"/>
+
+**[Quantum Field Theory I-III](https://www.amazon.com/Quantum-Field-Theory-Mathematics-Mathematicians/dp/3540347623/)**, *Eberhard Zeidler*
+
+<img src="/learn-mathematics/img/zeidler.jpg" alt="Zeidler" width="200px"/>
+
+**[What Is a Quantum Field Theory?](https://www.amazon.com/What-Quantum-Field-Theory-Mathematicians/dp/1316510271/)**, *Michel Talagrand*
+
+<img src="/learn-mathematics/img/talagrand.jpg" alt="Talagrand" width="200px"/>
 
 ### Computer Science
 
 
-
-#### Numerical Analysis
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
 #### Cryptography
 
-**[]()**, **
+**[Cryptography Made Simple](https://www.amazon.com/Cryptography-Made-Simple-Information-Security/dp/3319219359/)**, *Nigel P. Smart*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/smart.jpg" alt="Smart" width="200px"/>
 
-**[]()**, **
+**[An Introduction to Mathematical Cryptography](https://www.amazon.com/Introduction-Mathematical-Cryptography-Undergraduate-Mathematics/dp/1493917102/)**, *Jeffry Hoffstein, et al*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/hoffstein.jpg" alt="Hoffstein" width="200px"/>
 
-**[]()**, **
+**[Post-Quantum Cryptography](https://www.amazon.com/Post-Quantum-Cryptography-Daniel-J-Bernstein/dp/3540887016/)**, *Daniel J. Bernstein, et al*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
-
-**[]()**, **
-
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/bernstein.jpg" alt="Bernstein" width="200px"/>
 
 #### Coding Theory
 
-**[]()**, **
+**[Introduction to Coding Theory](https://www.amazon.com/Introduction-Coding-Theory-Graduate-Mathematics/dp/3540641335/)**, *J.H. van Lint*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/lint.jpg" alt="Lint" width="200px"/>
 
-**[]()**, **
+**[A Course in Algebraic Error-Correcting Codes](https://www.amazon.com/Algebraic-Error-Correcting-Compact-Textbooks-Mathematics-ebook/dp/B088CQWQ3R/)**, *Simeon Ball*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/ball.jpg" alt="" width="200px"/>
+
+I love this book. It is more recent than Lint so it has a lot of interesting topics (*p*-adic codes!). In general, I love the compact textbook series so do give it a try.
+
+**[The Mathematical Theory of Communication](https://www.amazon.com/Mathematical-Theory-Communication-Claude-Shannon/dp/0252725484/)**, *Claude E. Shannon, Warren Weaver*
+
+<img src="/learn-mathematics/img/shannon.jpg" alt="Shannon" width="200px"/>
 
 #### Type Theory
 
-**[]()**, **
+**[Type Theory and Formal Proof](https://www.amazon.com/Type-Theory-Formal-Proof-Introduction/dp/110703650X/)**, *Rob Nederpelt*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/nederpelt.jpg" alt="Nederpelt" width="200px"/>
 
-**[]()**, **
+**[Homotopy Type Theory](https://homotopytypetheory.org/book/)**, *Univalent Foundations of Mathematics*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/hott.webp" alt="HoTT" width="200px"/>
 
-#### Wavelet Analysis
+#### Digital Signal Processing
 
-**[]()**, **
+**[Digital Audio Processing Fundamentals](https://www.amazon.com/Digital-Processing-Fundamentals-Springer-Topics-ebook/dp/B0BSKVH1VF/)**, *Aurelio Uncini*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/uncini.jpg" alt="Uncini" width="200px"/>
 
-### Others
+**[Analog and Digital Signal Analysis](https://www.amazon.com/Analog-Digital-Signal-Analysis-Applications-ebook/dp/B01L3EW1W6/)**, *Frédéric Cohen Tenoudji*
 
-#### Financial Mathematics
+<img src="/learn-mathematics/img/tenoudji.jpg" alt="Tenoudji" width="200px"/>
 
-**[]()**, **
+### Finance
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+**[Mathematics for Finance](https://www.amazon.com/Mathematics-Finance-Introduction-Engineering-Undergraduate/dp/0857290819/)**, *Marek Capiński, Tomasz Zastawniak*
 
-**[]()**, **
+<img src="/learn-mathematics/img/capinski-fin.jpg" alt="Capiński Finance" width="200px"/>
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+**[Stochastic Calculus for Finance I-II](https://www.amazon.com/Stochastic-Calculus-Finance-Binomial-Springer/dp/0387249680/)**, *Steven E. Shreve*
 
-**[]()**, **
+<img src="/learn-mathematics/img/shreve.jpg" alt="Shreve" width="200px"/>
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+**[Methods of Mathematical Finance](https://www.amazon.com/Methods-Mathematical-Probability-Stochastic-Modelling/dp/1493968149/)**, *Ioannis Karatzas, Steven Shreve*
 
-#### Biomathematics
+<img src="/learn-mathematics/img/karatzas-shreve.jpg" alt="Karatzas-Shreve" width="200px"/>
 
-**[]()**, **
+**[Fundamentals and Advanced Techniques in Derivatives Hedging](https://www.amazon.com/Fundamentals-Advanced-Techniques-Derivatives-Universitext-ebook/dp/B01HQ6DNOU/)**, *Bruno Bouchard, Jean-François Chassagneux*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/bouchard.jpg" alt="Bouchard" width="200px"/>
 
-**[]()**, **
+### Biology
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+**[](https://www.amazon.com/Mathematical-Biology-Introduction-Undergraduate-Mathematics/dp/1489982817/)**, *Ronald W. Shonkwiler, James Herod*
 
-#### Chemistry
+<img src="/learn-mathematics/img/shonkwiler.jpg" alt="Shonkwiler" width="200px"/>
 
-**[]()**, **
+**[Mathematical Methods in Biology and Neurobiology](https://www.amazon.com/Mathematical-Methods-Biology-Neurobiology-Universitext/dp/1447163524/)**, *Jürgen Jost*
 
-<img src="/learn-mathematics/img/.jpg" alt="" width="200px"/>
+<img src="/learn-mathematics/img/jost.jpg" alt="Jost" width="200px"/>
+
+**[Mathematical Models in Population Biology and Epidemiology](https://www.amazon.com/Mathematical-Population-Biology-Epidemiology-Mathematics/dp/146141685X/)**, *Fred Brauer, Carlos Castillo-Chavez*
+
+<img src="/learn-mathematics/img/brauer.jpg" alt="Brauer" width="200px"/>
+
+### Chemistry
+
+**[Linearity, Symmetry, and Prediction in the Hydrogen Atom](https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)**, *Stephanie Frank Singer*
+
+<img src="/learn-mathematics/img/singer.jpg" alt="Singer" width="200px"/>
+
+**[Group Theory in Chemistry](https://www.amazon.com/Group-Theory-Chemistry-Dover-Books/dp/0486673553/)**, *David M. Bishop*
+
+<img src="/learn-mathematics/img/bishop.jpg" alt="Bishop" width="200px"/>
 
 # Part III: Possible tracks
+
