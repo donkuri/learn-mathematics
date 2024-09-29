@@ -180,9 +180,11 @@ This is the book that made me fall in love with mathematics. Abbott is a master 
 
 **[Mathematical Analysis I-II](https://www.amazon.com/Mathematical-Analysis-Universitext-V-Zorich/dp/366248790X/)**, *Vladimir A. Zorich*
 
+<img src="/learn-mathematics/img/zorich.jpg" alt="Tao" width="200px"/>
+
 These two books taken together provide a very thorough introduction to analysis in general, and I very heavily recommend it. The next book fills a particular niche by having you construct most of the theory yourself:
 
-**[Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics-ebook/dp/B01LFAANIW/)**, *Terence Tao*
+**[Analysis I-II](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics-ebook/dp/B01LFAANIW/)**, *Terence Tao*
 
 <img src="/learn-mathematics/img/tao.webp" alt="Tao" width="200px"/>
 
