@@ -460,13 +460,11 @@ I love this book. It starts with intuitive probability and goes from there. It h
 
 <img src="/learn-mathematics/img/karatzas.jpg" alt="Karatzas" width="200px"/>
 
-https://www.amazon.com/Brownian-Stochastic-Calculus-Graduate-Mathematics/dp/0387976558/ref=sr_1_1?crid=SKLUQ4SAHMWA&dib=eyJ2IjoiMSJ9.mzbV3Z4DF2RfW39zI4IrEL7Krzz_f9PNbxFknxG7c8D-ud3yhFRxtrd4ggrM5es0BT6-uEfgH-3dN5247kjzP0JXO6hBeSDb5KDtzskH6NK4OCc75Isbmcn0hJ8Zg6pINzUxOZ3nOSybiqKHNfvHaZDno-mEx5BlDwWzist29T3wKCtVbEazamJdLN99iZsBMZU6BzH1tAUUg3S7MYI1fKU3qEgG9HmllF-EdQdxU1E.MN7asT0ZRskN-l-R7Qa3V87Ti0CoVbvZ0sJpj9_-eTs&dib_tag=se&keywords=brownian+motion+and+stochastic+calculus&qid=1711196393&s=books&sprefix=brownian+motion+%2Cstripbooks-intl-ship%2C250&sr=1-1
-
 Another classic is this, which I have used as a reference before:
 
 **[Brownian Motion, Martingales and Stochastic Calculus](https://www.amazon.com/Brownian-Martingales-Stochastic-Calculus-Mathematics/dp/3319310887/)**, *Jean-François le Gall*
 
-<img src="/learn-mathematics/img/shiryaev.jpg" alt="Shiryaev" width="200px"/>
+<img src="/learn-mathematics/img/legall.jpg" alt="Le Gall" width="200px"/>
 
 Taking this further, this is the best book I know on stochastic differential equations:
 
