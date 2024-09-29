@@ -54,7 +54,7 @@ This website is a two-parts curriculum aimed to help beginners self-study mathem
 
 ## What is required to do this?
 
- We assume a modest mathematical background, mostly high school mathematics. The most important thing to have is patience. Learning mathematics takes a very long time, and you will get stuck over and over and over and over again.
+ I assume a modest mathematical background, mostly high school mathematics. The most important thing to have is patience. Learning mathematics takes a very long time, and you will get stuck over and over and over and over again.
 
 ## Who is this for?
 
@@ -74,7 +74,7 @@ This part deals with common subjects found in most undergraduate mathematics deg
 
 ## Discovering the basics
 
-This section is mostly concerned with revisiting things you should have seen in high school, as well as strengthening your mathematical dexterity by introducing proofs into the mix. Even at this level, we can find [conjectures that seem hopelessly difficult](https://en.wikipedia.org/wiki/Collatz_conjecture) or that have [evaded mathematicians for decades](https://en.wikipedia.org/wiki/Jacobian_conjecture). Mathematics is by nature a pyramide of knowledge, everything builds from the basics, so spend adequate time to study them properly.
+This section is mostly concerned with revisiting things you should have seen in high school, as well as strengthening your mathematical dexterity by introducing proofs into the mix. Even at this level, we can find conjectures that [seem hopelessly difficult](https://en.wikipedia.org/wiki/Collatz_conjecture) or that have [evaded mathematicians for decades](https://en.wikipedia.org/wiki/Jacobian_conjecture). Mathematics is by nature a pyramide of knowledge, everything builds from the basics, so spend adequate time to study them properly.
 
 ### Learning and metacognition
 
@@ -92,13 +92,13 @@ The book [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Scienc
 
 ### Precalculus
 
-Precalculus deals with high school subjects before calculus is introduced. This means functions, (in)equations, analytic geometry, trigonometry and sometimes matrices as well as limits. There are a myriad of books you can use for this, and I suggest you find one you like. Here is my favorite:
+Precalculus deals with high school subjects before calculus is introduced. This means functions, (in)equations, analytic geometry, trigonometry and sometimes matrices as well as limits. There is a myriad of books you can use for this, and I suggest you find one you like. Here is my favorite:
 
 **[Precalculus Mathematics in a Nutshell](https://www.amazon.com/Precalculus-Mathematics-Nutshell-Geometry-Trigonometry/dp/1592441300/)**, *George F. Simmons*
 
 <img src="/learn-mathematics/img/simmons.jpg" alt="Simmons" width="200px"/>
 
-The book is short, so do everything in there. Another option is to read Lang's precalculus book, although if you do use it, be sure to look for an errata online because I remember it having quite a few mistakes and typos. It's what you might call "old school", from one of the greatest math textbook writer of all time, part of the influential [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki).
+The book is short, so do everything in there. Another option is to read Lang's precalculus book, although if you do use it, be sure to look for an errata online because I remember it having quite a few mistakes and typos. It's what you might call "old school", from one of the greatest math textbook writer of all time, part of the influential [Bourbaki group](https://en.wikipedia.org/wiki/Nicolas_Bourbaki). You could learn a lot just reading books by Lang, as he wrote quite extensively and we will find him recommended here quite often.
 
 **[Basic Mathematics](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)**, *Serge Lang*
 
@@ -108,7 +108,7 @@ Make sure you are extremely comfortable with algebra and trigonometry before mov
 
 ### Calculus
 
-Calculus deals with infinity in a computational manner, you learn to take derivatives and integrals as you try to understand how to relate the infinitesimally small with the infinitely large. We will come back to these questions in a deeper way in the [real analysis section](#real-analysis), but this subsection is concerned more with the application of these tools to solve problems such as optimizing functions and finding volumes of revolution. My favorite book happens to have a "pay what you want" model:
+Calculus deals with infinity in a computational manner. You learn to take derivatives and integrals as you try to understand how to relate the infinitesimally small with the infinitely large. We will come back to these questions in a deeper way in the [real analysis section](#real-analysis), but this subsection is concerned more with the application of these tools to solve problems such as optimizing functions and finding volumes of revolution. My favorite book happens to have a "pay what you want" model:
 
 **[APEX Calculus](https://leanpub.com/apexcalculus)**, *Gregory Hartman*
 
@@ -120,11 +120,17 @@ I suggest you do every chapter in the book, keeping in mind that this will take 
 
 <img src="/learn-mathematics/img/piskunov.jpg" alt="Piskunov" width="200px"/>
 
-This book is written in the Soviet style of mathematics: it is terse, with examples taken largely from physics (especially classical mechanics) and decently hard exercises. If that sounds appealing to you, go with that one. Better yet, use both!
+This book is written in the Soviet style of mathematics: it is terse, with examples taken largely from physics (especially classical mechanics) and decently hard exercises. If that sounds appealing to you, go with that one. Better yet, use both! Finally, the book I actually used to learn calculus:
+
+**[A First Course in Calculus](https://www.amazon.com/First-Course-Calculus-Undergraduate-Mathematics/dp/0387962018/)**, *Serge Lang*
+
+<img src="/learn-mathematics/img/lang-calculus.jpg" alt="Lang Calculus" width="200px"/>
+
+As usual with Lang, this book is well written and I remember enjoying the integrals section in particular. This has [a follow-up course](https://www.amazon.co.uk/Calculus-Several-Variables-Undergraduate-Mathematics/dp/0387964053/).
 
 ### Proof Techniques
 
-In this section, we take some time to learn basic proof patterns and how they are used in mathematics to make sure we are correct in our arguments. Proofs are not the end all be all of mathematics, but rigor is necessary to avoid nonsense as [19th century mathematics proved time and time again](https://link.springer.com/book/10.1007/978-3-319-23715-2). I like this free book:
+In this section, we take some time to learn basic proof patterns and how they are used in mathematics to make sure we are correct in our arguments. Proofs are not the end all be all of mathematics, but rigor is necessary to avoid nonsense, as [19th century mathematics proved time and time again](https://link.springer.com/book/10.1007/978-3-319-23715-2). I like this free book:
 
 **[Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)**, *Richard Hammack*
 
@@ -150,22 +156,31 @@ This book is just great. Don't be fooled by the cheeky name (probably a referenc
 
 <img src="/learn-mathematics/img/ladr.jpg" alt="LADR" width="200px"/>
 
-The "Done Right" comes from the author's opinion that determinants tend to muddy up understanding of linear algebra among first year students who then go on to learn things the "wrong" way. I am not sure I agree all that much, but at least the textbook is consistent and well-written. I would use this one to supplement Linear Algebra Done Wrong and as a source of more exercises. There is one more book I recommend if you have never seen matrices before. This book is much simpler than either of the other two recommended textbooks and I'd get it if you feel like you're completely lost. I have only worked with the 4th and 5th editions, so I would suggest getting these:
-
+The "Done Right" comes from the author's opinion that determinants tend to muddy up understanding of linear algebra among first year students who then go on to learn things the "wrong" way. I am not sure I agree all that much, but at least the textbook is consistent and well-written. I would use this one to supplement Linear Algebra Done Wrong and as a source of more exercises. There is another book I recommend if you have never seen matrices before. This book is much simpler than either of the other two recommended textbooks and I'd get it if you feel like you're completely lost. I have only worked with the 4th and 5th editions, so I would suggest getting these:
 
 **[Linear Algebra and its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-Global/dp/1292351217/)**, *David C. Lay, et al*
 
 <img src="/learn-mathematics/img/lay.jpg" alt="Lay" width="200px"/>
 
+Alternatively, if you liked Lang before, you might want to read his books on linear algebra, the first one is an introduction, and the second a more advanced treatment. My first exposure to linear algebra was with the introduction. Personally, I'd read one after the other, but I will only show the second one here:
+
+**[Linear Algebra](https://www.amazon.com/Linear-Algebra-Undergraduate-Texts-Mathematics/dp/0387964126/)**, *Serge Lang*
+
+<img src="/learn-mathematics/img/lang-linear.jpg" alt="Lang LA" width="200px"/>
+
 ### Real Analysis
 
-And now the subject that strikes fear in many undergraduate students: real analysis. This is the subject where you will truly have to wrestle with the definitions, propositions and proofs. Studying analysis requires a change of mindset and the acquisition of new tools that often confuse the beginning mathematician. For this reason, I offer you three main options, a complimentary counterexample book as well as a sort of study guide. The first book is perhaps my favorite mathematics textbook of all time:
+And now the subject that strikes fear in many undergraduate students: real analysis. This is the subject where you will truly have to wrestle with the definitions, propositions and proofs. Studying analysis requires a change of mindset and the acquisition of new tools that often confuse the beginning mathematician. For this reason, I offer you four main options as well as a complimentary counterexample book and a sort of study guide. The first book is perhaps my favorite mathematics textbook of all time:
 
 **[Understanding Analysis](https://www.amazon.com/Understanding-Analysis-Undergraduate-Texts-Mathematics-ebook/dp/B00XWDQUH4/)**, *Stephen Abbott*
 
 <img src="/learn-mathematics/img/abbott.jpg" alt="Abbott" width="200px"/>
 
-This is the book that made me fall in love with mathematics. Abbott is a master didactician and his introduction of analysis is thoroughly motivated, his style is clear and precise but is surprisingly gentle. I actually suggest you look at both the first and the second edition if you can, because they have different discussions to introduce the chapters. Perhaps the only issue with the text is I wish it'd have more really hard exercises to grind your teeth against. The next book fills that niche by having you construct most of the theory yourself:
+This is the book that made me fall in love with mathematics. Abbott is a master didactician and his introduction of analysis is thoroughly motivated, his style is clear and precise but is surprisingly gentle. I actually suggest you look at both the first and the second edition if you can, because they have different discussions to introduce the chapters. Perhaps the only issue with the text is I wish it'd have more really hard exercises to grind your teeth against. For this, I recommend the following book, which is another favorite of mine:
+
+**[Mathematical Analysis I-II](https://www.amazon.com/Mathematical-Analysis-Universitext-V-Zorich/dp/366248790X/)**, *Vladimir A. Zorich*
+
+These two books taken together provide a very thorough introduction to analysis in general, and I very heavily recommend it. The next book fills a particular niche by having you construct most of the theory yourself:
 
 **[Analysis I](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics-ebook/dp/B01LFAANIW/)**, *Terence Tao*
 
@@ -177,7 +192,7 @@ What to say about Terence Tao that hasn't already been said. Everyone always men
 
 <img src="/learn-mathematics/img/lang-undergrad_analysis.jpg" alt="Undergraduate Analysis" width="200px"/>
 
-For this one, I suggest you do the main sequence Lang proposes and then pick two-three special topics that interest you and study those. All three of these books focus on building examples to help you understand the theory, but counterexamples are just as important, even more so in analysis. This is where the following book helps:
+For this one, I suggest you do the main sequence Lang proposes and then pick two-three special topics that interest you and study those. All four of these books focus on building examples to help you understand the theory, but counterexamples are just as important, even more so in analysis. This is where the following book helps:
 
 **[Counterexamples in Analysis](https://www.amazon.com/Counterexamples-Analysis-Dover-Books-Mathematics/dp/0486428753/)**, *Bernard R. Gelbaum, John M.H. Olmsted*
 
@@ -191,19 +206,20 @@ I suggest you look at the counterexamples that interest you personally, instead 
 
 ### Discrete Mathematics
 
-This section is concerned with so-called "discrete mathematics", which here would be basic combinatorics (including induction) and mostly graph theory. This kind of mathematics is especially useful for computer science, and one of my favorite textbook on the subject is written by Donald Knuth, one of the most legendary programmers of all times. Regardless, a good introduction to the subject is this book:
-
-**[Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen-ebook/dp/B07FF9DY66/)**, *Kenneth H. Rosen*
-
-<img src="/learn-mathematics/img/rosen-dm.jpg" alt="Rosen DM" width="200px"/>
-
-If you are especially interested in computer science or programming, then it's hard to beat this one:
+This section is concerned with so-called "discrete mathematics", which here would be basic combinatorics (including induction) and mostly graph theory. This kind of mathematics is especially useful for computer science, and one of my favorite textbook on the subject is written by Donald Knuth, one of the greatest programmer of all times.
+If you are especially interested in computer science or programming, then it's hard to beat it:
 
 **[Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science-ebook/dp/B08F5H9DYM/)**, *Ronald Graham, et al*
 
 <img src="/learn-mathematics/img/concrete.jpg" alt="Cocnrete" width="200px"/>
 
-Finally, here's a funny book that uses ducks to introduce discrete mathematics:
+Another very good introduction to the subject is this book:
+
+**[Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen-ebook/dp/B07FF9DY66/)**, *Kenneth H. Rosen*
+
+<img src="/learn-mathematics/img/rosen-dm.jpg" alt="Rosen DM" width="200px"/>
+
+Finally, here's a funny book that uses ducks to introduce discrete mathematics, because why not:
 
 **[Discrete Mathematics with Ducks](https://www.amazon.com/Discrete-Mathematics-Ducks-Textbooks-dp-1138052590/dp/1138052590/)**, *sarah-marie belcastro*
 
@@ -213,7 +229,7 @@ It is a bit easier than the others but the instruction quality is very good none
 
 ### Basic Number Theory
 
-We now move to the *Queen of Mathematics*, as Gauss used to say. Basic number theory is a subject that tends to be dismantled and studied in different parts of mathematics. But number theory is too beautiful to be dismembered so, and I think it is crucial to study it to better understand further examples in higher mathematics, notably in abstract algebra. The following book is well suited to introducing the elementary parts of the theory, those that do not use analysis or abstract algebra:
+We now move to the *Queen of Mathematics*, as Gauss used to say. Basic number theory is a subject that tends to be dismantled and studied in different parts of mathematics. But number theory is too beautiful to be dismembered so, and I think it is crucial to study it to better understand further examples in higher mathematics, notably in abstract algebra. The following book is well suited to introducing the elementary parts of the theory, those parts of the subject that do not use analysis or abstract algebra:
 
 **[Elementary Number Theory](https://www.amazon.com/Elementary-Number-Theory-Its-Application/dp/0321500318/)**, *Kenneth H. Rosen*
 
@@ -226,13 +242,13 @@ Another classic, albeit slightly dated, is this wonderful book:
 
 <img src="/learn-mathematics/img/hardy.jpg" alt="Hardy" width="200px"/>
 
-I would suggest exploring the book, rather than outright studying it. Walk through the various chapters lightly, stopping where your interest takes you, and studying there.
+I would suggest exploring the book, rather than outright studying it. Walk through the various chapters lightly, stopping where your interest takes you, and study that part of the book.
 
 ## Mastering the fundamentals
 
-We now move to the core of a mathematics undergraduate degree. This is where abstraction and generalization is taken to another level. These courses are absolutely crucial to understanding modern mathematics, and all of these theories were developped to help mathematicians solve important problems. For instance, much of modern algebra was developped to solve [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem). Ordinary Differential Equations and Classical Differential Geometry grew, in part, out of physics. Topology is a natural extension of real analysis and helps transfer its tools to other fields. 
+We now move to the core of a mathematics undergraduate degree. This is where abstraction and generalization is taken to another level. These courses are absolutely crucial to understanding modern mathematics, and all of these theories were developped to help mathematicians solve important problems. For instance, much of modern algebra was developped to solve [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem). Differential equations and differential geometry grew, in part, out of physics. Topology is a natural extension of real analysis and helps transfer its tools to other fields.
 
-The selection of these four topics is somewhat arbitrary, for instance, Fourier analysis has a central place in modern analysis and could have been here. Similarly, Galois theory is central to abstract algebra, although it is rarely covered early on in mathematics textbook. The interested student is invited to study both of these early on, but they will be listed in [Analysis](#analysis) and [Algebra](#algebra) respectively.
+The selection of the following four topics is somewhat arbitrary. For instance, Fourier analysis has a central place in modern analysis and could have been here. Similarly, Galois theory is central to abstract algebra, although it is rarely covered early on in mathematics textbooks. The interested student is encouraged to study both of these early on, but they will instead be listed in [Analysis](#analysis) and [Algebra](#algebra) respectively.
 
 ### Ordinary Differential Equations
 
@@ -272,7 +288,7 @@ This is probably the book that is used most for a single-semester undergraduate 
 
 ### Abstract Algebra
 
-Abstract algebra, usually called simply algebra is a language used to describe the concept of equations and all possible generalizations of it, such as equivalence relationships and the like. Many parts of mathematics have an algebraic counterpart: algebraic topology, algebraic geometry, even algebraic analysis. As such, it is paramount that you get familiar with it. My favorite textbook on the subject is free:
+Abstract algebra (often called algebra more simply) is a language used to describe the concept of equality, and all possible generalizations of it, such as equivalence relationships and the like. Many parts of mathematics have an algebraic counterpart: algebraic topology, algebraic geometry, even algebraic analysis. As such, it is paramount that you get familiar with it. My favorite textbook on the subject is free:
 
 **[Abstract Algebra: Theory and Applications](http://abstract.ups.edu/aata/aata.html)**, *Thomas W. Judson*
 
@@ -280,11 +296,11 @@ Abstract algebra, usually called simply algebra is a language used to describe t
 
 The book is great and is available in French and Spanish. My only issue with the book is that the exercises are often too simple, and I suggest finding other exercises elsewhere. One possible book for this is the following books:
 
-**[Algebra I, Gorodentsev](https://www.amazon.com/Algebra-I-Textbook-Students-Mathematics-ebook/dp/B01NACZUA4/)**, *Alexey L. Gorodentsev*
+**[Algebra I-II, Gorodentsev](https://www.amazon.com/Algebra-I-Textbook-Students-Mathematics-ebook/dp/B01NACZUA4/)**, *Alexey L. Gorodentsev*
 
 <img src="/learn-mathematics/img/gorodentsev.jpg" alt="Gorodentsev I" width="200px"/>
 
-This is the first out of two textbooks (written in the Russian style) that form one gigantic course in algebra, covering way more than a generic abstract algebra undergraduate course. I would suggest starting with the first book, and if you like its style and presentation, consider doing the second one. Personally, it has some of my favorite exposition but it is not as gentle as Judson. One highlight is covering quaternions and spinors, which I barely ever see in undergraduate mathematics textbook. Another textbook that discusses interesting topics that are not always given enough time at the undergraduate level is this masterpiece:
+This is the first out of two textbooks (written in the Russian style) that form one gigantic course in algebra, covering way more than a generic abstract algebra undergraduate course. I would suggest starting with the first book, and if you like its style and presentation, consider doing the second one. Personally, it has some of my favorite exposition but it is not as gentle as Judson, and the ordering of the topics is quite different from most other such books. This will either feel fantastic or horrendous, so try it out and see. One highlight is covering quaternions and spinors, which I barely ever see in undergraduate mathematics textbook. Another textbook that discusses interesting topics that are not always given enough time at the undergraduate level is this masterpiece:
 
 **[Algebra](https://www.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779/)**, *Michael Artin*
 
@@ -300,13 +316,19 @@ I particularly liked the chapter on rings.
 
 ### General Topology
 
-General Topology (sometimes called Point-Set Topology) is a generalization of the concepts of analysis (convergence, compactness and the likes) that can be applied in many different fields, usually yielding a rich theory. What happens when the space we are working with is so weird that it is hard to even define a distance on it? Can we deform space? In what way? This is the essence of topology. There are a few books I like, but this one is cheap and clear, especially the chapter on metric spaces:
+General Topology (sometimes called Point-Set Topology) is a generalization of the concepts of analysis (convergence, compactness and the likes) that can be applied in many different fields, usually yielding a rich theory. What happens when the space we are working with is so weird that it is hard to even define a distance on it? Can we deform space? In what way? This is the essence of topology. My favorite textbook is the following:
+
+**[Topology](https://www.amazon.com/Topology-Undergraduate-Texts-Mathematics-J%C3%A4nich/dp/0387908927/)**, *Klaus Jänich*
+
+<img src="/learn-mathematics/img/janich.jpg" alt="Jänich" width="200px"/>
+
+I have yet to see a better exposition of topology. Unfortunately, it has no exercises, so I'd suggest pairing it with another one. This one is cheap and clear, especially the chapter on metric spaces:
 
 **[Introduction to Topology](https://www.amazon.com/Introduction-Topology-Second-Dover-Mathematics/dp/0486406806/)**, *Theodore W. Gamelin, Robert Everist Greene*
 
 <img src="/learn-mathematics/img/greene.jpg" alt="Greene" width="200px"/>
 
-I would recommend doing the entire chapter on metric spaces, with all the exercises. Metric spaces are in nmy opinion the most important examples in basic topology, and a large portion of the theory is dedicated to when a metric can be put on a space. After this, I would do the following book instead:
+I would recommend doing the entire chapter on metric spaces, with all the exercises. Metric spaces are the central examples in basic topology, and a large portion of the theory is dedicated to knowing when a metric can be put on a space or not. After this, I would work through the following book:
 
 **[Topology](https://www.amazon.com/Topology-Classic-Classics-Advanced-Mathematics/dp/0134689518/)**, *James R. Munkres*
 
@@ -318,13 +340,7 @@ This book is the classic undergraduate textbook on topology. It is a bit rough, 
 
 <img src="/learn-mathematics/img/lee-top.jpg" alt="Top Mfds" width="200px"/>
 
-This is the book I used to learn topology. Do not be scared by the fact it is supposed to be a graduate-level textbook, it is very approachable. Instead of discussing topology in full, absolute generality, the author (my favorite math author might I add) focuses on manifolds, the basic geometric object of interest. Finally, here is my favorite textbook which sadly has no exercises:
-
-**[Topology](https://www.amazon.com/Topology-Undergraduate-Texts-Mathematics-J%C3%A4nich/dp/0387908927/)**, *Klaus Jänich*
-
-<img src="/learn-mathematics/img/janich.jpg" alt="Jänich" width="200px"/>
-
-I have yet to see a better exposition of topology.
+This is the book I used to learn topology. Do not be scared by the fact it is supposed to be a graduate-level textbook, it is very approachable. Instead of discussing topology in full, absolute generality, the author (my favorite math author might I add) focuses on manifolds, the basic geometric object of interest. 
 
 # Part II: Electives
 
@@ -344,7 +360,7 @@ Fourier analysis is the genesis of much of what you have studied in real analysi
 
 <img src="/learn-mathematics/img/stein-fourier.jpg" alt="Stein & Shakarchi, Vol.1" width="200px"/>
 
-This book is absolutely stunning (as are all the books in the series, and I suggest using them to study graduate analysis). The exemples are motivated well and the exercises are just right. There is another book that I have read for a bit, especially for its discussion of wavelets:
+This book is absolutely stunning (as are all the books in the series, and I suggest using them to study graduate analysis). The examples are motivated well and the exercises are just right. There is another book that I have read for a bit, especially for its discussion of wavelets:
 
 **[Introduction to Fourier Analysis and Wavelets](https://www.amazon.com/Introduction-Analysis-Wavelets-Graduate-Mathematics/dp/082184797X/)**, *Mark A. Pinsky*
 
