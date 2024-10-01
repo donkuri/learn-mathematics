@@ -50,7 +50,7 @@
 
 ## What is this?
 
-This website is a two-parts curriculum aimed to help beginners self-study mathematics. The first part discusses core mathematical subjects that most undergraduate mathematics student will see in some way or another. The second part is a series of electives that can be studied more independently, concluding with a few applications to different fields outside of mathematics.
+This website is a three-parts curriculum aimed to help beginners self-study mathematics. The first part discusses core mathematical subjects that most undergraduate mathematics student will see in some way or another. The second part is a series of electives that can be studied more independently, concluding with a few applications to different fields outside of mathematics. The third part discusses possible tracks one might follow for electives.
 
 ## What is required to do this?
 
