@@ -5,6 +5,7 @@
 	- [What is required to do this?](#what-is-required-to-do-this)
 	- [Who is this for?](#who-is-this-for)
 	- [How should I study mathematics?](#how-to-study-mathematics)
+   	- [My favorite textbook isn't on there!](#my-favorite-textbook-isnt-on-there)
 - [Part I: Core Subjects](#part-i-core-subjects)
 	- [Discovering the basics](#discovering-the-basics)
 		- [Learning and metacognition](#learning-and-metacognition)
