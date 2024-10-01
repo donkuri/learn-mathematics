@@ -71,7 +71,7 @@ Do not be too quick to look up the solution to the exercise. You learn most when
 
 ## My favorite textbook isn't on there!
 
-I'm sorry. Either I read it and didn't particularly enjoy or care for it, or I don't know about it. Some popular book series will not come up on this list, since it's my list and it's based on what I know and like. If you make your own list, feel free to [contact me on GitHub about it!](https://github.com/donkuri), I would love to see it!
+I'm sorry. Either I read it and didn't particularly enjoy or care for it, or I don't know about it. Some popular book series will not come up on this list, since it's my list and it's based on what I know and like. If you make your own list, feel free to [contact me on GitHub about it](https://github.com/donkuri), I would love to see it!
 
 # Part I: Core Subjects
 
