@@ -68,6 +68,10 @@ Practically speaking, I suggest reading through the section you are working on q
 
 Do not be too quick to look up the solution to the exercise. You learn most when you are stuck for a certain amount of time trying to figure out all possible paths to the solution. At most, ask for a hint. Take your time. It's a marathon, play the long game.
 
+## My favorite textbook isn't on there!
+
+I'm sorry. Either I read it and didn't particularly enjoy or care for it, or I don't know about it. Some popular book series will not come up on this list, since it's my list and it's based on what I know and like. If you make your own list, feel free to [contact me on GitHub about it!](https://github.com/donkuri), I would love to see it!
+
 # Part I: Core Subjects
 
 This part deals with common subjects found in most undergraduate mathematics degree. There isn't really any subject here I would skip, all of them are important in helping you acquire mathematical maturity, as well as a general understanding of the various basic structures in mathematics.
@@ -346,13 +350,14 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 # Part II: Electives
 
-In this part, we gives a few potential electives an undergraduate mathematics student might take. Most of these are graduate-level, but if you have done the previous part, you are more than prepared for graduate-level classes. Sadly, this is also where my biases will start to show. In some cases, I will mention books I have only looked at rapidly. There are many, many topics I do not know about or have never studied (especially at a graduate-level). This means that some recommendations are there in part due to community support and/or through someone who recommended it to me. I believe it is better to have them up rather than nothing, because it's at least a place to start. 
+In this part, we give a few potential electives an undergraduate mathematics student might take. Most of these are graduate-level, but if you have worked through the previous part, you are more than prepared for graduate-level classes. Some classes are more advanced than others, and you can follow tracks found in part III if you'd rather not choose. Sadly, this is also where my biases will start to show. In some cases, I will mention books I have only looked at rapidly. There are many, many topics I do not know about or have never studied (especially at the graduate-level). This means that some recommendations are there in part due to community support and/or through someone who recommended it to me. I believe it is better to have them up rather than nothing, because it's at least a place to start. Nonetheless, I have at least looked at all of these before, there is no book placed here only on hearsay.
 
 In turn, some topics I have studied deeper (like geometry, analysis and especially algebra) will have more references and more topics will be discussed. If you are interested in subjects not covered here, it doesn't mean I don't like them or I do not consider them important, it is simply that I have not seen anything about them yet.
 
 ## Analysis
 
-If you have liked undergraduate analysis topics such as calculus, real analysis and differential equations, this is for you. At the very least, I would expect most undergraduate students to take Fourier, complex and functional analysis, even if you don't plan on becoming an analyst. Fourier analysis is the heart of analysis, complex analysis is the perfect example of beauty in mathematics and functional analysis bridges the gap between analysis and algebra. Measure theory and probability rounds up what I would call the "core analysis graduate" sequence, and yes I consider probability to be a part of analysis, at least at the early graduate level. Other interesting subjects include dynamical systems (what I'd call the geometry of differential equations), harmonic analysis (Fourier on steroids), partial differential equations (the backbone of physics) and stochastic processes (a rich theory with many applications). Ok, let's get into it.
+If you have liked undergraduate analysis topics such as calculus, real analysis and differential equations, this is for you. At the very least, I would expect most undergraduate students to take Fourier, complex and functional analysis, even if you don't plan on becoming an analyst. Fourier analysis is the heart of analysis. Complex analysis is the perfect example of beauty in mathematics. Functional analysis bridges the gap between analysis and algebra. Measure theory and probability rounds up what I would call the "core analysis graduate" sequence, and yes I consider probability to be a part of analysis, at least at the early graduate level. Other interesting subjects include dynamical systems (what I'd call the geometry of differential equations), harmonic analysis (Fourier on steroids), partial differential equations (the backbone of physics) and stochastic processes (a rich theory with many applications).
+Ok, let's get into it.
 
 ### Fourier Analysis
 
@@ -372,19 +377,19 @@ Both books are great, try them out!
 
 ### Complex Analysis
 
-Complex analysis is pure beauty. Everything you hated about real analysis seems to magically disappear when we enter the complex realm: differentiable implies analytic, the zeros of a complex function are defined in a beautiful pattern, etc. This doesn't mean the subject is easy however, as the theory is pretty unique in the way it handles computation, for instance contour integrals. As above, my favorite book on the subject is the second-part of Stein & Shakarchi:
+Complex analysis is pure beauty. Everything you hated about real analysis seems to magically disappear when we enter the complex realm: Differentiable implies analytic, the zeros of a complex function are defined in a beautiful pattern, etc. This doesn't mean the subject is easy however, as the theory is pretty unique in the way it handles computation, for instance contour integrals. As above, my favorite book on the subject is the second-part of Stein & Shakarchi:
 
 **[Complex Analysis](https://www.amazon.com/Complex-Analysis-Princeton-Lectures-No/dp/0691113858/)**, *Elias M. Stein, Rami Shakarchi*
 
 <img src="/learn-mathematics/img/stein-complex.jpg" alt="Stein & Shakarchi, Vol.2" width="200px"/>
 
-A very lucid introduction to the topic, I like the selection of exercises and the presentation. Unlike Fourier analysis however, there are other good books on the subject. Another one that is more accessible is this one:
+A very lucid introduction to the topic, I like the selection of exercises and the presentation. There are many other good books on the subject. Another one that is more accessible is this one:
 
 **[Complex Analysis](https://www.amazon.com/Complex-Analysis-Undergraduate-Texts-Mathematics/dp/1441972870/)**, *Joseph Bak, Donald J. Newman*
 
 <img src="/learn-mathematics/img/bak.jpg" alt="Bak" width="200px"/>
 
-There is one more very interesting book on complex analysis. As the name implies, the book takes a more geometrical approach:
+There is another book that takes an interesting approach to the theory:
 
 **[Visual Complex Analysis](https://www.amazon.com/Visual-Complex-Analysis-25th-Anniversary/dp/0192868926/)**, *Tristan Needham*
 
@@ -394,7 +399,7 @@ I think all three books are interesting and give different perspectives, so try 
 
 ### Measure Theory and Integration
 
-We finally come back to real analysis, but this time through a more mature lens. We go back to the notion of integral we developped in the first textbooks we saw, and we refine it to make it both more general and more powerful. This is also where we take a look back on probability, and see why I put it as part of analysis. I will give two recommendations that discuss measure theory on its own, and two recommendations that tackle probability as well.
+We finally come back to real analysis, but this time through a more mature lens. We go back to the notion of integral we developed in calculus and real analysis, and we refine it to make it both more general and more powerful. This is also where we take a look back on probability, and see why it really can be seen as a subfield of analysis. I will give two recommendations that discuss measure theory on its own, and two recommendations that tackle probability as well.
 
 **[Real Analysis](https://www.amazon.com/Real-Analysis-Integration-Princeton-Lectures/dp/0691113866/)**, *Elias M. Stein, Rami Shakarchi*
 
@@ -406,7 +411,7 @@ Yes, yes, what can I say? What a surprise. But once again, this book is gold. Th
 
 <img src="/learn-mathematics/img/tao-graduate.jpg" alt="Tao Graduate" width="200px"/>
 
-As we have said before, Tao is great at writing mathematics and it shows. Also for some reason the AMS graduate textbooks just feel comfortable to me in a strange way I can't really describe. Anyway, it's good, try it out. Now on to books that discuss measure theory motivated mostly by probability:
+As I have said before, Tao is great at writing mathematics and it shows. On top of this, the AMS graduate textbooks just feel comfortable to me in a strange way I can't really describe. Anyway, it's good, try it out. Now on to books that discuss measure theory motivated mostly by probability:
 
 **[Measures, Integrals and Martingales](https://www.amazon.com/Measures-Integrals-Martingales-Ren%C3%A9-Schilling/dp/1316620247/)**, *René L. Schilling*
 
@@ -426,7 +431,7 @@ Now onto my favorite part of analysis. Functional analysis takes a closer look a
 
 <img src="/learn-mathematics/img/stein-functional.jpg" alt="Stein & Shakarchi, Vol.4" width="200px"/>
 
-Believe it or not, this is not the book I used to learn functional analysis. I learned functional analysis. Instead, I used the following book:
+However, this is not the book I used to learn functional analysis. Instead, I used the following book:
 
 **[Introductory Functional Analysis with Applications](https://www.amazon.com/Introductory-Functional-Analysis-Applications-Kreyszig/dp/0471504599/)**, *Erwin Kreyszig*
 
@@ -454,7 +459,7 @@ This gigantic book (now re-edited by Springer in two volumes) is my favorite boo
 
 <img src="/learn-mathematics/img/shiryaev.jpg" alt="Shiryaev" width="200px"/>
 
-I love this book. It starts with intuitive probability and goes from there. It has this unmistakebly Russian flavor to it, but at the same time, it gives enough examples that you do not feel completely lost. If you're more interested in stochastic calculus specifically, this is a good reference:
+I love this book. It starts with intuitive probability and goes from there. It has this unmistakebly Russian flavor to it, but at the same time it gives enough examples that you do not feel completely lost. If you're more interested in stochastic calculus specifically, this is a good reference:
 
 **[Brownian Motion and Stochastic Calculus](https://www.amazon.com/Brownian-Stochastic-Calculus-Graduate-Mathematics/dp/0387976558/)**, *Ioannis Karatzas, Steven E. Shreve*
 
@@ -468,7 +473,7 @@ Another classic is this, which I have used as a reference before:
 
 Taking this further, this is the best book I know on stochastic differential equations:
 
-**[Stochastic Differential Equations](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581/)**, *Bernt Oksendal*
+**[Stochastic Differential Equations](https://www.amazon.com/Stochastic-Differential-Equations-Introduction-Applications/dp/3540047581/)**, *Bernt Øksendal*
 
 <img src="/learn-mathematics/img/oksendal.jpg" alt="" width="200px"/>
 
@@ -494,9 +499,11 @@ This book was written in part by one of my favorite mathematician ever, Stephen 
 
 <img src="/learn-mathematics/img/arnold.jpg" alt="Arnold" width="200px"/>
 
+I love Arnol'd, read his books.
+
 ### Partial Differential Equations
 
-While we have seen ordinary differential equations in the first part, partial differential equations are another ball game entirely. For most of them, we have no idea how to solve them directly and we need either weak solutions or numerical methods. This is a subject I do not know very well so I cannot recommend a lot of different books, but I like this one:
+While we have seen ordinary differential equations in the first part, studying partial differential equations is a whole new ball game entirely. For a very large portion of them, we have no idea how to solve them directly (or we can't) and we need either weak solutions or numerical methods. This is a subject I do not know very well so I cannot recommend a lot of different books, but I liked reading a bit of this one:
 
 **[Partial Differential Equations](https://www.amazon.com/Partial-Differential-Equations-Graduate-Mathematics/dp/1470469421/)**, *Lawrence C. Evans*
 
@@ -522,7 +529,7 @@ A graduate course in algebra can mean anything and everything. In general, it re
 
 <img src="/learn-mathematics/img/jacobson.jpg" alt="Jacobson" width="200px"/>
 
-Jacobson is the father of modern algebra, the Jacobson radical being named after him. His book is refreshing (although I wouldn't use it for undergrad) and I personally found his explanations to be the best. That being said, the standard textbook in the subject was written by an author that has already featured prominently on this list:
+Jacobson is the father of modern algebra, the Jacobson radical being named after him. His book is refreshing (although I wouldn't use it for undergrad) and I personally found his explanations to be some of my favorites. That being said, the standard textbook in the subject was written by an author that has already featured prominently on this list:
 
 **[Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-Serge/dp/038795385X/)**, *Serge Lang*
 
