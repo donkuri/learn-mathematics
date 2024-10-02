@@ -546,19 +546,19 @@ Hungerford is great and probably what I would use if I had to teach a graduate a
 
 ### Galois Theory
 
-Galois theory is arguably the heart of abstract algebra and in large parts its catalyst, at least when it comes to groups and fields. It is a beautiful theory with a master theorem. If you have taken a graduate algebra class, you probably already saw the subject though. If you havent, here is my favorite place to read about it:
+Galois theory is arguably the heart of abstract algebra and in large parts its catalyst, at least when it comes to groups and fields. It is a beautiful theory with a master theorem. If you have taken a graduate algebra class, you probably already saw the subject. If you haven't (or if you want another exposition), here is my favorite place to read about it:
 
 **[Fields and Galois Theory](https://www.jmilne.org/math/CourseNotes/ft.html)**, *J.S. Milne*
 
 <img src="/learn-mathematics/img/milne-ft.jpg" alt="Milne FT" width="200px"/>
 
-J.S. Milne is a fantastic author, and most of his works are completely free on [his website](https://www.jmilne.org/math/). Almost everything he has written will be referenced in this list because it's just that good. Not to mention free books are always welcome! Either way, here is another book on Galois theory worth looking through:
+J.S. Milne is a fantastic author, and most of his works are completely free on [his website](https://www.jmilne.org/math/). Almost everything he has written will be referenced in this list because it's great, systematic and free. And free books are always welcome! Either way, here is the classic reference on the subject:
 
 **[Galois Theory](https://www.amazon.com/Galois-Theory-Graduate-Texts-Mathematics/dp/038790980X/)**, *Harold M. Edwards*
 
 <img src="/learn-mathematics/img/edwards.jpg" alt="" width="200px"/>
 
-What I like most about this book is the way it handles Galois theory: By discussing at lengths about its history, especially where it came from and what allowed Galois to discover and prove his famous theorem.
+What I like most about the book is that the author chose to discuss at lengths about the history of the subject, especially where it came from and what allowed Galois to discover his famous theorem.
 
 ### Commutative Algebra
 
@@ -568,19 +568,19 @@ Commutative algebra is the backbone of algebraic geometry and algebraic number t
 
 <img src="/learn-mathematics/img/term-commutative.png" alt="A Term of Commutative Algebra" width="200px"/>
 
-It would be better to call this book a set of lectures notes. The exposition is fantastic and it is the book I used most when I was learning the subject. The exercises are great, and I love the fact this book uses category theory at length, which helps simplify the arguments in my opinion. It is really a modernized version of [Atiyah & Macdonald](https://www.amazon.com/Introduction-Commutative-Algebra-Addison-Wesley-Mathematics/dp/0367091283/), the classic textbook on the subject. Moving on. The other book I used to learn the subject is this one:
+It would be better to call this book a free set of lectures notes. The exposition is fantastic and it is the book I used most when I was learning the subject. The exercises are great, and I love the fact this book uses category theory at length, which helps simplify the arguments in my opinion. It is a modernized version of [Atiyah & Macdonald](https://www.amazon.com/Introduction-Commutative-Algebra-Addison-Wesley-Mathematics/dp/0367091283/), the classic textbook on the subject. The other book I used to learn the subject is this one:
 
 **[Basic Commutative Algebra](https://www.amazon.com/Basic-Commutative-Algebra-Balwant-Singh/dp/9814313610)**, *Balwant Singh*
 
 <img src="/learn-mathematics/img/singh.jpg" alt="Singh" width="200px"/>
 
-Again, fantastic book, fantastic exposition and great exercises. What I love most is the organization of the material. Homological algebra is discussed in two separate chapters that are separated by a few other chapters which is very clever, as it becomes more digestible. Anyway, the next book is one of the classics written on the subject and it aims to introduce all the necessary algebra to be able to read Hartshorne (which we will see below):
+Again, fantastic book, fantastic exposition and great exercises. What I love most is the organization of the material. Homological algebra is discussed in two separate chapters that are separated by a few other chapters which is very clever, as it becomes more digestible. The next book is one of the classics written on the subject and it aims to introduce all the necessary algebra to be able to read Hartshorne (which we will see below):
 
 **[Commutative Algebra](https://www.amazon.com/Commutative-Algebra-Algebraic-Geometry-Mathematics/dp/0387942696/)**, *David Eisenbud*
 
 <img src="/learn-mathematics/img/eisenbud.jpg" alt="Eisenbud" width="200px"/>
 
-This book is huge however. It really isn't written in the same manner as the two above. There are lengthy discussions which is good if you like that, bad if you don't. The first chapter is maybe how I would introduce commutative algebra to students, by starting with algebraic geometry. Finally, there is one more reference I would like to give:
+This book is huge however. It really isn't written in the same manner as the two above. There are lengthy discussions which is good if you like that, bad if you don't. The first chapter is maybe how I would introduce commutative algebra to students, by starting with algebraic geometry. There is one more reference on general commutative algebra I would like to give:
 
 **[Commutative Ring Theory](https://www.amazon.com/Commutative-Cambridge-Studies-Advanced-Mathematics/dp/0521367646/)**, *Hideyuki Matsumura*
 
@@ -592,39 +592,39 @@ I couldn't possibly make a list of commutative algebra books without mentioning 
 
 <img src="/learn-mathematics/img/kreuzer.jpg" alt="Kreuzer" width="200px"/>
 
-I used this book to study post-quantum cryptography and it served me excellently. It is sometimes a bit rough though, but with enough patience you will get through it.
+I used these books to help me study post-quantum cryptography and it served me excellently. It is sometimes a bit rough, but with enough patience you will get through it. It might be better as a reference.
 
 ### Homological Algebra
 
-Homological algebra takes homology (the geometric-topological construct) as a starting point and generalizes from there. It is a very important tool in modern algebra. I actually haven't found many books I like about it. I mostly learned it from the commutative algebra books above, but there is one I actually like a good deal:
+Homological algebra takes homology (the geometric-topological construct) as a starting point and generalizes from there. It is a very important tool in modern algebra. I actually haven't found many books I like about it. I mostly learned it from the commutative algebra books above, but there is one exposition I actually like a good deal:
 
 **[An Introduction to Homological Algebra](https://www.amazon.com/Introduction-Homological-Algebra-Universitext/dp/0387245278/)**, *Joseph J. Rotman*
 
 <img src="/learn-mathematics/img/homological.jpg" alt="Homological" width="200px"/>
 
-This was the main reference I used when I learned the subject, and I liked the way things were explained. I didn't feel like it was just pure abstract nonsense, which I cannot say for every homological algebra book I've seen. There's also this classic on the subject:
+This was the main external reference I used when I learned the subject, and I liked the way things were explained. I didn't feel like it was just pure abstract nonsense, which I cannot say for every homological algebra book I've seen. There's also this classic on the subject:
 
 **[Homology](https://www.amazon.com/Homology-Classics-Mathematics-Saunders-MacLane/dp/3540586628/)**, *Saunders MacLane*
 
 <img src="/learn-mathematics/img/homology.jpg" alt="Homology" width="200px"/>
 
-Personally, I like reading MacLane and I think all his books are great. This one is a classic for a reason: It's well written and the explanations are nice. I still prefer Rotman but you can't go wrong with either of them.
+Personally, I like reading MacLane and I think all his books are great. The text is well written and the explanations are nice. I still prefer Rotman but you can't go wrong with either of them.
 
 ### Representation Theory
 
-Okay, now this is a subject I do not know a lot about, so I will not be able to say too much. Representation theory is the idea that linear algebra was easier after all, so maybe we could try our best to replicate it. I have only looked at three books, the first one being my favorite:
+Okay, now this is a subject I do not know a lot about, so I will not be able to recommend a lot of things. Representation theory is the idea that linear algebra was easier after all, so maybe we could try our best to replicate it. I have only looked at three books, the first one being my favorite:
 
 **[Representation Theory](https://www.amazon.com/Representation-Theory-Course-Graduate-Mathematics/dp/0387974954/)**, *William Fulton, Joe Harris*
 
 <img src="/learn-mathematics/img/fulton-harris.jpg" alt="Fulton Harris" width="200px"/>
 
-So this is a big book. But it's worth it. It's the classic treatise on the subject and it deals with the subject matter well. I haven't read very far, but I have liked what I have read. Next is written by one of the best mathematicians of the 20th century, Jean-Pierre Serre:
+So this is a big book. But it's worth it. It's the classic treatise on the subject and it deals with the subject matter well. I haven't read very far, but I have liked what I have read. Next is a book written by one of the founding fathers of modern algebraic geometry and one of the greatest mathematician of all time, Jean-Pierre Serre:
 
 **[Linear Representations of Finite Groups](https://www.amazon.com/Linear-Representations-Finite-Graduate-Mathematics/dp/0387901906/)**, *J.-P. Serre*
 
 <img src="/learn-mathematics/img/serre.jpg" alt="Serre" width="200px"/>
 
-Serre is a mathematical genius and it shows. Everything flows nicely and it is the text that was used in the course given at my university. I think it is interesting it grew out of lecture notes for chemistry students. That doesn't make it easy though, so be warned. Finally, the best book I know on Lie algebras and their representations:
+Serre is a mathematical genius and it shows. Everything flows nicely and it is the text that was used in the course given at my university, although I ended up not taking it in the end. I think it is interesting it grew out of lecture notes for chemistry students. That doesn't make it easy though, so be warned. Finally, the best book I know on Lie algebras and their representations:
 
 **[Introduction to Lie Algebras and Representation Theory](https://www.amazon.com/Introduction-Algebras-Representation-Graduate-Mathematics/dp/0387900535/)**, *James E. Humphreys*
 
@@ -638,19 +638,19 @@ In this section, we continue the work we did in the general topology section in 
 
 ### Algebraic Topology
 
-Algebraic Topology is a beautiful theory and one of my favorite subjects ever. The rough idea is that instead of studying homeomorphisms directly (which are often times hard to construct), why not find algebraic invariants on topological spaces instead? This is exactly what algebraic topology deals with, and it is great. The textbook I used to learn the subject is:
+Algebraic Topology is a beautiful theory and one of my favorite subjects ever. The rough idea is that instead of studying homeomorphisms directly (which are oftentimes hard to construct), why not find algebraic invariants on topological spaces instead? This is exactly what algebraic topology deals with, and it is great. The textbook I used to learn the subject is:
 
 **[Algebraic Topology](https://www.amazon.com/Algebraic-Topology-Allen-Hatcher/dp/0521795400/)**, *Allen Hatcher*
 
 <img src="/learn-mathematics/img/hatcher.jpg" alt="Hatcher" width="200px"/>
 
-I love the way Hatcher discusses algebraic topology, I find it very visual and intuitive. That doesn't mean it is easy though, and you will have to work for it, but it's great. I liked the appendix on cell complexes and cellular homology more generally. Another great book is:
+This book is a bit infamous in that some people absolutely love it, and some others absolutely hate it. Personally, I love the way Hatcher discusses algebraic topology, I find it very visual and intuitive. That doesn't mean it is easy though, and you will have to work for it, but it's great. I liked the appendix on cell complexes, and I liked the treatment of cellular homology more generally. Another great book is:
 
 **[An Introduction to Algebraic Topology](https://www.amazon.com/Introduction-Algebraic-Topology-Graduate-Mathematics/dp/0387966781/)**, *Joseph J. Rotman*
 
 <img src="/learn-mathematics/img/rotman-topology.jpg" alt="Rotman Topology" width="200px"/>
 
-As you might have noticed by now, I love reading Rotman. His books are always well written and very clear and this one is no stranger to this. I just wish there was a bit more on cohomology. That said, my favorite book on the subject is perhaps this next one:
+As you might have noticed by now, I love reading Rotman. His books are always well written and very clear and this one is no stranger to this. I just wish there was a bit more on cohomology. Here's another recommendation taking a different approach:
 
 **[Algebraic Topology](https://www.amazon.com/Algebraic-Topology-Course-Graduate-Mathematics/dp/0387943277/)**, *William Fulton*
 
@@ -696,13 +696,13 @@ I knew Riehl from her category theory textbook (see below), and I liked it well 
 
 ### Symplectic Topology
 
-This section describes a relatively recent development, symplectic topology. The fundamental result is the non-squeezing theorem. Some people might argue this is a part of symplectic geometry, I disagree. If you want to argue, argue with Dusa McDuff, one of the greatest mathematician I know. By the way, she wrote this absolute gem:
+This section describes a relatively recent development, symplectic topology, a particular interest of mine. The fundamental result is the non-squeezing theorem. Some people might argue this is a part of symplectic geometry, I personally disagree. If you want to argue, argue with Dusa McDuff (you will most likely lose the argument though, so beware). By the way, she wrote this absolute gem:
 
 **[Introduction to Symplectic Topology](https://www.amazon.com/Introduction-Symplectic-Topology-Graduate-Mathematics/dp/0198794908/)**, *Dusa McDuff*
 
 <img src="/learn-mathematics/img/dusa.jpg" alt="McDuff" width="200px"/>
 
-This is the book I used to study symplectic topology. It covers J-holomorphic curves and all the standard tools of the trade. I suppplemented the book with this one:
+This is the book I used to study symplectic topology. It covers J-holomorphic curves and all the standard tools of the trade. I supplemented the book with this one:
 
 **[Symplectic Invariants and Hamiltonian Dynamics](https://www.amazon.com/Symplectic-Invariants-Hamiltonian-Birkh%C3%A4user-Lehrb%C3%BCcher/dp/3764350660/)**, *Helmut Hofer, Eduard Zehnder*
 
@@ -712,11 +712,11 @@ The main unifying theme behind the book is symplectic capacities and the interes
 
 ## Differential Geometry
 
-We did some differential geometry in the first part, but here, we will generalize the theory from curves and surfaces to arbitrary dimensions, leading us to arguably the most important object in geometry, manifolds.
+We did some differential geometry in the first part, but here, we will generalize the theory from curves and surfaces to arbitrary dimensions, leading us to arguably the most important object in geometry, the manifold.
 
 ### Smooth Manifolds
 
-To do analysis, we require our manifolds to be smooth, meaning they need to carry a structure that allows us to do calculus on them, or at least to do calculus on a space that is locally homeoomorphic to them. My favorite book on the subject is this masterpiece:
+To do analysis, we require our manifolds to be smooth, meaning they need to carry a structure that allows us to do calculus on them. My favorite book on the subject is this masterpiece:
 
 **[Introduction to Smooth Manifolds](https://www.amazon.com/Introduction-Smooth-Manifolds-Graduate-Mathematics/dp/1441999817/)**, *John M. Lee*
 
@@ -755,7 +755,7 @@ It discusses semi-Riemannian geometry (what I would personally call Lorentzian g
 
 ### Lie Groups
 
-This section slightly intersects with the one on representation theory, so you might want to check there first. Lie initially studied symmetries in differential equations and out of it grew the concept of a Lie group, which roughly speaking encodes tge infinitesimal symmetries of a system. Another way to look at it is as a smooth manifold with a compatible group structure, and as such some differential topology knowledge is useful when studying the subject. I mostly studied Lie groups from a mathematical gauge theory book (you can find it further down below), but I also used this:
+This section slightly intersects with the one on representation theory, so you might want to check there first. Lie initially studied symmetries in differential equations and out of it grew the concept of a Lie group, which roughly speaking encodes the infinitesimal symmetries of a system. Another way to look at it is as a smooth manifold with a compatible group structure, and as such some differential topology knowledge is useful when studying the subject. I mostly studied Lie groups from a mathematical gauge theory book (you can find it further down below), but I also used this:
 
 **[Introduction to the Theory of Lie Groups](https://www.amazon.com/Introduction-Theory-Lie-Groups-Universitext-ebook/dp/B073H646GB/)**, *Roger Godement*
 
@@ -777,7 +777,7 @@ I like Stillwell, he wrote a fantastic book on mathematics history. The approach
 
 ### Symplectic and Contact Geometry
 
-Symplectic and contact geometry are pairs of geometry (which one occurs depends on the dimension of the manifold) that have very rich and interesting structures, usually extremely different from standard manifolds. For instance, symplectic manifolds are historical generalizations of the notion of phase space in Hamiltonian mechanics and the main symplectic structure is a differential 2-form, traditionally measuring area. As you can see, it requires more machinery than simple topology. I do not know much contact geometry past the basics, but I am familiar with symplectic geometry (from symplectic topology actually) and I have recommendations for it. A book I like to get into these kinds of geometries is this undergraduate textbook:
+Symplectic and contact geometry are pairs of geometry (which one occurs depends on the dimension of the manifold) that have very rich and interesting structures, pretty different ones from basic smooth manifolds. For instance, symplectic manifolds are historical generalizations of the notion of phase space in Hamiltonian mechanics and the main symplectic structure is a differential 2-form, traditionally measuring area. As you can see, it requires more machinery than simple topology. I do not know much contact geometry past the basics, but I am familiar with symplectic geometry (from symplectic topology actually) and I have recommendations for it. A book I like to get into these kinds of geometries is this undergraduate textbook:
 
 **[First Steps in Differential Geometry](https://www.amazon.com/First-Steps-Differential-Geometry-Undergraduate/dp/146147731X/)**, *Andrew McInerney*
 
@@ -789,7 +789,7 @@ I like the exposition, it is not hard but it isn't trivial either, and the idea 
 
 <img src="/learn-mathematics/img/ana.jpg" alt="Ana" width="200px"/>
 
-The lecture notes style of the book is still extremely present and I like it. The projects/exercises are wonderful, I wish more books did that. I particularly liked the presentation of the compatibility of symplectic, riemannian and complex structures on a manifold. I just wish the subject was better motivated, it's a bit bland. Personally, I think I might like this book better:
+The lecture notes style of the book is still extremely present and I like it. The exercises-as-projects are a wonderful idea, I wish more books did this. I particularly liked the presentation of the compatibility of symplectic, riemannian and complex structures on a manifold. I just wish the subject was better motivated, it's a bit bland. Personally, I think I might like this book better:
 
 **[An Introduction to Symplectic Geometry](https://www.amazon.com/Introduction-Symplectic-Geometry-Graduate-Mathematics/dp/0821820567/)**, *Rolf Berndt*
 
@@ -803,19 +803,19 @@ Algebraic geometry is my favorite subject in mathematics, and the one I have ded
 
 ### Classical Algebraic Geometry
 
-Classical algebraic geometry roughly means "algebraic geometry before schemes", although I kind of disagree with this definition for reasons I shall not get into here. Point being, we're not usually using schemes here. Of course, the first textbook I mention is the usual:
+Classical algebraic geometry roughly means "algebraic geometry before schemes", although I kind of disagree with this definition for reasons I shall not get into here. Point being, we're usually restricting ourselves to varieties in this context. Of course, the first textbook I mention is the usual:
 
 **[Algebraic Geometry](https://www.jmilne.org/math/CourseNotes/ag.html)**, *J.S. Milne*
 
 <img src="/learn-mathematics/img/milne-ag.png" alt="Milne AG" width="200px"/>
 
-It's free, it's well-written, I like the examples. What is there not to like. But it is not how I learned the theory. Instead, I read this:
+It's free, it's well-written, I like the examples. What is there not to like. But it is not how I learned the theory. Instead, this is the book I used:
 
 **[Algebraic Curves](https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf)**, *William Fulton*
 
 <img src="/learn-mathematics/img/fulton-ag.png" alt="Fulton AG" width="200px"/>
 
-Another free book! Algebraic geometry and the likes seems to have many free books (see below). Algebraic Curves is a nice book, I find it had just the right amount of difficulty in the exercises and the examples were chosen well. I like Fulton's writing style. I also used the following:
+Another free book! Algebraic geometry seems to have so many free books (there are more below). Algebraic Curves is a nice book, I find it had just the right amount of difficulty in the exercises and the examples were chosen well. I like Fulton's writing style. I also used the following:
 
 **[Basic Algebraic Geometry 1](https://www.amazon.com/Basic-Algebraic-Geometry-Varieties-Projective/dp/364242726X/)**, *Igor R. Shafarevich*
 
@@ -825,7 +825,7 @@ Shafarevich wrote two books, this is the first one dealing with varieties. The b
 
 ### Modern Algebraic Geometry
 
-Here we are, schemes, the good stuff, the difficult stuff. This is my favorite subject in mathematics. And my favorite book happens to be free! I think most people were expecting to see Hartshorne here, but my favorite is:
+Here we are, schemes, the good stuff, the difficult stuff. This is my favorite subject in mathematics. And my favorite book happens to be free! I think most people were expecting to see Hartshorne first, but my favorite is actually:
 
 **[Introduction to Schemes](https://www.uio.no/studier/emner/matnat/math/MAT4215/data/masteragbook.pdf)**, *Geir Ellingsrud, John Christian Ottem*
 
@@ -837,7 +837,7 @@ I love the presentation of the subject as I found it easiest to learn from perso
 
 <img src="/learn-mathematics/img/gortz.jpg" alt="Görtz-Wedhorn" width="200px"/>
 
-This is a translation of the two German classic books on scheme theory. The first one deals with general aspects of schemes while the second one focuses on the cohomology of schemes, a notoriously difficult part of an already notoriously difficult subject. I think if I had to get a single resource to study algebraic geometry (outside of maybe the lecture notes above), it would be this. FNext, this insane book that is _also_ free:
+This is a translation of the two German classics on scheme theory. The first one deals with general aspects of schemes while the second one focuses on the cohomology of schemes, a notoriously difficult part of an already notoriously difficult subject. I think if I had to get a single resource to study algebraic geometry (outside of maybe the lecture notes above), it would be this. Next, this insane book that is _also_ free:
 
 **[Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGnov1817public.pdf)**, *Ravi Vakil*
 
@@ -849,13 +849,13 @@ I have used this book as part of a summer course on algebraic geometry taught by
 
 <img src="/learn-mathematics/img/hartshorne.jpg" alt="Hartshorne" width="200px"/>
 
-Yes, of course, Hartshorne. What a surprise. This book strikes fear in the eyes of many for its exercises, but it is exactly the good part of the book. I find Hartshorne's exposition of the theory to be a bit rough, perhaps because it was the first textbook to really synthesize the magic that had happened when Grothendieck, Serre and the others worked on the foundations of algebraic geometry. Still, it is a classic for a reason and going through the exercises in the book is a rite of passage for any prospective student of algebraic geometry. That being said, the textbook I actually used to learn originally was this:
+Yes, of course, Hartshorne. What a surprise. This book strikes fear in the eyes of many for its exercises, but it is exactly the good part of the book. I find Hartshorne's exposition of the theory to be a bit rough, perhaps because it was the first textbook to really synthesize the magic that had happened when Grothendieck, Serre and the others worked on the foundations of algebraic geometry. Still, it is a classic for a reason and going through the exercises in the book is a rite of passage for any prospective student of algebraic geometry. Interestingly enough, none of these options were the very first textbook I worked through. Instead, it was the following:
 
 **[Algebraic Geometry and Arithmetic Curves](https://www.amazon.com/Algebraic-Geometry-Arithmetic-Graduate-Mathematics/dp/0199202494/)**, *Qing Liu*
 
 <img src="/learn-mathematics/img/liu.jpg" alt="Liu" width="200px"/>
 
-This book, while extremely well written, is hard. Personally, I found it a tad bit harder to read than Hartshorne (many will disagree with me here). I think this book is better once you already know some algebraic geometry (and you know commutative algebra really well) because Liu takes quite a few shortcuts here and there. Nonetheless, it's a good book and there's a reason it's recommended. Not to mention, it does discuss a bit of arithmetic geometry, which I like.
+This book, while extremely well written, is hard. Personally, I found it a tad bit harder to read than Hartshorne (many will disagree with me here). I think this book is better once you already know some algebraic geometry because Liu takes quite a few shortcuts here and there (mind you, so does Hartshorne). Nonetheless, it's a good book and there's a reason it's recommended. Not to mention, it does discuss a bit of arithmetic geometry, which I like.
 
 ### Complex Geometry
 
@@ -929,7 +929,7 @@ In general, if I had a student interested in modern algebra, I'd just have them 
 
 ### Elliptic Curves
 
-Elliptic curves are some of the most interesting objects in mathematics. I have taken multiple courses on the subject and everytime it's a pleasure. My favorite first book on the subject is this:
+Elliptic curves are some of the most interesting objects in mathematics. I have taken multiple courses on the subject and it's always a pleasure. My favorite first book on the subject is this:
 
 **[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Cryptography-Mathematics-Applications/dp/1420071467/)**, *Lawrence C. Washington*
 
@@ -941,7 +941,7 @@ The book is exceptionally clear with good exercises. I loved the parts that disc
 
 <img src="/learn-mathematics/img/silverman.jpg" alt="Silverman" width="200px"/>
 
-It's a standard reference textbook for a reason. The section on elliptic curves in C was very nice, one of the coolest bit of mathematics I have learned. Of course, I have to recommend Milne as well:
+It's a standard reference textbook for a reason. The section on elliptic curves in ℂ was very nice, one of the coolest bit of mathematics I have learned. Of course, I have to recommend Milne as well:
 
 **[Elliptic Curves](https://www.amazon.com/Elliptic-Curves-Second-James-Milne-ebook/dp/B08H5GM99Y/)**, *J.S. Milne*
 
