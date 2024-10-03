@@ -1077,7 +1077,7 @@ In this section, I discuss various subjects that didn't fit directly into any of
 
 ### Category Theory
 
-Category theory, affectionately called *abstract nonsense*, is an interesting theory. It tries to look at mathematical structures primarily through the lens of maps between them, as per the Grothendieck doctrine. I have read multiple books on the subject when I first learned it for algebraic geometry. The one I read that I liked best was maybe:
+Category theory, affectionately called *abstract nonsense*, is an interesting theory. It tries to look at mathematical structures primarily through the lens of maps between them, as per the Grothendieck doctrine. I have read parts of multiple books on the subject when I first learned it for algebraic geometry. The one I read that I liked best was maybe:
 
 **[Category Theory in Context](https://www.amazon.com/Category-Theory-Context-Aurora-Originals/dp/048680903X/)**, *Emily Riehl*
 
@@ -1095,19 +1095,19 @@ Mac Lane (along with Eilenberg) invented (discovered?) category theory, so it is
 
 <img src="/learn-mathematics/img/kashiwara.jpg" alt="Kashiwara" width="200px"/>
 
-This book is huge and covers more than is necessary for the vast majority of people. Personally I used it to study sheaves and homological aspects, but it was very rough. I mean the book is written well, but it goes fast and it's not easy to follow in my opinion. Still, it's the best reference I know since it has most anything I'd ever want. Another short book I got that I liked tremendously was this:
+This book is huge and covers more than is necessary for the vast majority of people. Personally I used it to study sheaves and homological aspects, but it was very rough. I mean the book is written well, but it goes fast and it's not easy to follow in my opinion. Still, it's the best reference I know since it has most anything I'd ever want But again, better as a reference. A short book I got that I liked tremendously was this:
 
 **[An Introduction to the Language of Category Theory](https://www.amazon.com/Introduction-Language-Category-Textbooks-Mathematics-ebook/dp/B01MS5LCNA/)**, *Steven Roman*
 
 <img src="/learn-mathematics/img/roman-ct.jpg" alt="Roman-CT" width="200px"/>
 
-Steven Roman is a great writer, his book on Field Theory is exceptional. What's better is that he has a YouTube channel where he presents mathematics. This book in particular has an accompanying YouTube series. Anyway, the book is short and sweet, as is usual with the compact series from Springer. The exercises are nice, on the easier side I would say but I liked them. Finally, here's a textbook that's even easier:
+Steven Roman is a great writer, his book on Field Theory is exceptional. What's better is that he has a YouTube channel where he presents mathematics. This book in particular has an accompanying YouTube series. Anyway, the book is short and sweet, as is usual with the compact series from Springer. The exercises are nice, on the easier side I would say but I liked them. Maybe my favorite introduction to category theory. Finally, here's a textbook that's even easier:
 
 **[Category Theory](https://www.amazon.com/Category-Theory-Oxford-Logic-Guides/dp/0199237182/)**, *Steve Awodey*
 
 <img src="/learn-mathematics/img/awodey.jpg" alt="Awodey" width="200px"/>
 
-The presentation is good and it's very approachable. It's adapted to students of computer science as well in my opinion.
+The presentation is good and it's very approachable. It's great for students of computer science as well in my opinion.
 
 ### Mathematical Logic
 
