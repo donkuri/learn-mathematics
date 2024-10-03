@@ -993,7 +993,7 @@ Apostol is a great writer, I also liked his calculus and especially his analysis
 
 <img src="/learn-mathematics/img/davenport.jpg" alt="Davenport" width="200px"/>
 
-A standard reference on the subject. Personally I do not know a whole lot of analytic number theory so I cannot tell much about it. This is another standard reference that is beloved by many:
+A standard reference on the subject. Personally I do not know a whole lot of analytic number theory so I cannot tell you too much about it, I only used it as a reference. Another standard reference that is beloved by many is the following:
 
 **[Multiplicative Number Theory I](https://www.amazon.com/Multiplicative-Number-Theory-Classical-Mathematics/dp/0521849039/)**, *Hugh L. Montgomery, Robert C. Vaughan*
 
@@ -1015,9 +1015,9 @@ It's well written and I like the examples. The exercises are well chosen too. Gr
 
 The standard Milne recommendation. He wrote extensively about algebraic number theory and it is a wonderful starting place. I also suggest the other notes he wrote on the subject:
 
-**[Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf)**, *J.S. Milne*
+**[Class Field Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf](https://www.jmilne.org/math/CourseNotes/cft.html)**, *J.S. Milne*
 
-<img src="/learn-mathematics/img/milne-ant.png" alt="Milne ANT" width="200px"/>
+<img src="/learn-mathematics/img/milne-CFT.png" alt="Milne ANT" width="200px"/>
 
 If you are looking for something slightly easier and more approachable, I liked the following:
 
