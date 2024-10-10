@@ -351,7 +351,7 @@ This is the book I used to learn topology. Do not be scared by the fact it is su
 
 # Part II: Electives
 
-In this part, we give a few potential electives an undergraduate mathematics student might take. Most of these are graduate-level, but if you have worked through the previous part, you are more than prepared for graduate-level classes. Some classes are more advanced than others, and you can follow tracks found in part III if you'd rather not choose. Sadly, this is also where my biases will start to show. In some cases, I will mention books I have only looked at rapidly. There are many, many topics I do not know about or have never studied (especially at the graduate-level). This means that some recommendations are there in part due to community support and/or through someone who recommended it to me. I believe it is better to have them up rather than nothing, because it's at least a place to start. Nonetheless, I have at least looked at all of these before, there is no book placed here only on hearsay.
+In this part, we give a few potential electives an undergraduate mathematics student might take. Most of these are graduate-level, but if you have worked through the previous part, you are more than prepared for graduate-level classes. Some classes are more advanced than others, and you can follow tracks found in part III if you'd rather not choose. Sadly, this is also where my biases will start to show. In some cases, I will mention books I have only looked at rapidly. There are many, many topics I do not know about or have never studied (especially at the graduate-level). This means that some recommendations are there in part due to community support and/or through someone who recommended it to me. I believe it is better to have them up rather than nothing, because it's at least a place to start. Nonetheless, I have at least looked at all of these before, there is no book placed here on hearsay only, but some books I have only skimmed briefly, especially those that concern fields I have not studied in any meaningful depth. When that is the case, I explicitly mention it.
 
 In turn, some topics I have studied deeper (like geometry, analysis and especially algebra) will have more references and more topics will be discussed. If you are interested in subjects not covered here, it doesn't mean I don't like them or I do not consider them important, it is simply that I have not seen anything about them yet.
 
@@ -1139,7 +1139,7 @@ My favorite of the three. I particularly like the examples. There is also:
 
 <img src="/learn-mathematics/img/diestel.jpg" alt="Diestel" width="200px"/>
 
-I believe this is the standard recommendation. As said before, I can't comment much as I haven't read a lot from it. Here's a final recommendation I heard was good from a graph theorist friend of mine:
+I believe this is the standard recommendation. As said before, I can't comment much as I haven't read a lot from it. Here's a final recommendation I heard was good from a graph theorist friend of mine, I only checked it out for a bit:
 
 **[Modern Graph Theory](https://www.amazon.com/Modern-Graph-Theory-Graduate-Mathematics/dp/0387984887/)**, *Béla Bollobás*
 
@@ -1177,13 +1177,13 @@ It is written by the same authors roughly and takes things a step slower, which 
 
 ### Game Theory
 
-Game Theory is interesting because rarely has a mathematical discipline had so many books written about it by non-mathematicians, or mathematicians with an audience of non-mathematicians. I think it's because it's so applicable to a variety of fields, including war tactics and economics. In this section, I'll try to focus on the mathematical aspects. The first is written by one of my favorite author:
+Game Theory is interesting because rarely has a mathematical discipline had so many books written about it by non-mathematicians, or mathematicians with an audience of non-mathematicians. I think it's because it's so applicable to a variety of fields, including war tactics and economics. In this section, I'll try to focus on the mathematical aspects. The first is written by one of my favorite authors:
 
 **[On Numbers and Games](https://www.amazon.com/Numbers-Games-John-H-Conway/dp/1568811276/)**, *John H. Conway*
 
 <img src="/learn-mathematics/img/conway.jpg" alt="Conway" width="200px"/>
 
-Conway writes beautifully, both in his papers (I read one called division by 3, can you believe it?) and in his books. This book delves on the connection between, well, numbers and games. It's a great first book on the subject. Here are two more references for two different parts of the theory:
+Conway writes beautifully, both in his papers (I read one called [division by three](https://arxiv.org/abs/math/0605779), can you believe it?) and in his books. This book delves on the connection between, well, numbers and games. It's a great first book on the subject. Here are two more references for two different parts of the theory:
 
 **[Combinatorial Game Theory](https://www.amazon.com/Combinatorial-Theory-Graduate-Studies-Mathematics/dp/082185190X/)**, *Aaron N. Siegel*
 
@@ -1217,7 +1217,7 @@ Apparently it uses functional analysis, but I'm not sure what they mean by this.
 
 <img src="/learn-mathematics/img/leveque.jpg" alt="LeVeque" width="200px"/>
 
-This seems to be a standard reference on the theory, but I haven't read it so I cannot say much.
+This seems to be a standard reference on the theory, but I haven't really read it so I cannot say much.
 
 ### Mathematics History
 
@@ -1245,7 +1245,7 @@ A history of algebra as the title says. It's interesting to see the difference b
 
 <img src="/learn-mathematics/img/gray-variations.jpg" alt="" width="200px"/>
 
-This discusses differential equations and calculus of variations, a subject I do not know enough to comment on, but it's great stuff. Calculus of variations in particular is useful in physics. Okay, here's a more general textbook:
+This discusses differential equations and calculus of variations, a subject I do not know enough to comment on (although I have used it in physics), but it's great stuff. Okay, here's a more general textbook:
 
 **[Mathematics and Its History](https://www.amazon.com/Mathematics-Its-History-Undergraduate-Texts/dp/144196052X/)**, *John Stillwell*
 
@@ -1261,7 +1261,7 @@ This discusses number theory specifically, and it's good side reading if you're 
 
 ## Applications
 
-In this section, we look at some applications from mathematics. These books are either mathematical textbooks on the subject they are covering or books targeted at mathematics majors.
+In this section, we look at some applications from mathematics. These books are usually either mathematical textbooks on the subject they are covering or books targeted at students with mathematical sophistication, usually math majors.
 
 ### Physics
 
@@ -1269,13 +1269,13 @@ We finally come to my favorite science: physics. I find physics super cool and t
 
 #### Classical Mechanics
 
-Classical (especially celestial) mechanics is the genesis behind symplectic geometry and in some ways, calculus of variations. There is only one book I recommend, but what a book! Of course, it's Arnol'd:
+Classical (especially celestial) mechanics is the genesis behind symplectic geometry and the calculus of variations. There is only one book I recommend, but what a book! Of course, it's Arnol'd:
 
 **[Mathematical Methods of Classical Mechanics](https://www.amazon.com/Mathematical-Classical-Mechanics-Graduate-Mathematics/dp/0387968903/)**, *Vladimir I. Arnol'd*
 
 <img src="/learn-mathematics/img/arnold-cm.jpg" alt="Arnol'd CM" width="200px"/>
 
-This book is not easy. It's about classical mechanics, but it will end up doing symplectic geometry! Still, it's great, and it's written by one of the greats. I think everyone should read it, honestly.
+This book is not easy. It's about classical mechanics, but it will cover symplectic considerations. Still, it's great, and it's written by one of the greats. I think everyone should read it, honestly.
 
 #### Quantum Mechanics
 
@@ -1285,19 +1285,19 @@ Ah, quantum mechanics. Everyone knows about it nowadays, or at least, they think
 
 <img src="/learn-mathematics/img/woit.jpg" alt="Woit" width="200px"/>
 
-Perhaps my favorite of the three. Woit writes very well and this book has a sort of majestic feel to it (to me at least). I like the presentation and the level is just right. I found Hall slightly easier though:
+Perhaps my favorite of the three. Woit writes very well and this book has a sort of majestic feel to it (to me at least). I like the presentation and the level is just right to me, although a mathematical physicist friend of mine found it a bit slow not quite as rigorous as the other standard textbook:
 
 **[Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X/)**, *Brian C. Hall*
 
 <img src="/learn-mathematics/img/hall-qm.jpg" alt="Hall QM" width="200px"/>
 
-This was the book for the course. Hall wrote a great book on Lie theory and while I like this one, I find it slightly worse. Nothing much though, it's still good stuff. Finally, there's:
+This was the book for the course I took. This isn't my favorite textbook, but it's solid. Hall also wrote a great book on Lie theory. Anyway, there's also:
 
 **[Quantum Mechanics for Mathematicians](https://www.amazon.com/Quantum-Mechanics-Mathematicians-Graduate-Mathematics/dp/0821846302/)**, *Leon A. Takhtajan*
 
 <img src="/learn-mathematics/img/takhtajan.jpg" alt="Takhtajan" width="200px"/>
 
-It was a bit hard for me to follow as I didn't have the required prerequisites, but what I did get from it, I liked.
+It was a bit hard for me to follow as I didn't have the required prerequisites, but what I did get from it, I liked. Honestly, if you can read this easily, you might already know quantum mechanics.
 
 #### Relativity
 
@@ -1357,7 +1357,7 @@ Quantum field theory (usually called QFT) is what happens when you try to quanti
 
 <img src="/learn-mathematics/img/kock.jpg" alt="Kock" width="200px"/>
 
-Honestly, one could barely call this book a quantum field theory book. It is mostly a book about algebra, topology and category theory. Regardless, it has quantum field theory in the name so it counts (ah!). Either way, I loved reading it and I thought it was great. Not really what quantum field theory is about though. Here's a better read for that:
+Honestly, this book has barely anything to say about quantum field theory. It is mostly a book about algebra, topology and category theory. Regardless, it has quantum field theory in the name so it counts (ah!). Either way, I loved reading it and I thought it was great. Not really what quantum field theory is about though. Here's a better read for that:
 
 **[Quantum Fields and Strings](https://www.amazon.com/Quantum-Fields-Strings-Course-Mathematicians/dp/0821820141/)**, *Pierre Deligne, et al*
 
@@ -1461,7 +1461,7 @@ I like this book. It's approachable yet very detailed. The chapter on physical m
 
 <img src="/learn-mathematics/img/tenoudji.jpg" alt="Tenoudji" width="200px"/>
 
-This one goes even deeper with wavelets and random signals, including filtering by a random signal. Again, it is very in-depth and very long, but if you're interested in signal processing, it's wonderful.
+This one goes even deeper with wavelets and random signals, including filtering by a random signal. Again, it is very in-depth and very long, but if you're interested in signal processing, it's wonderful. This is not the same Tenoudji as the one that [wrote about quantum mechanics](https://www.amazon.com/Quantum-Mechanics-Vol-Claude-Cohen-Tannoudji/dp/047116433X) (fantastic book by the way).
 
 ### Finance
 
@@ -1489,7 +1489,7 @@ Also written by Shreve. I didn't read it myself, but I have skimmed it and it lo
 
 <img src="/learn-mathematics/img/bouchard.jpg" alt="Bouchard" width="200px"/>
 
-I have not had the chance to read it yet, but I will, hopefully.
+I have not had the chance to read it in any depth yet, but I will soon, hopefully.
 
 ### Biology
 
@@ -1521,7 +1521,7 @@ Chemistry doesn't have too many textbooks that I know using mathematics, they ar
 
 <img src="/learn-mathematics/img/bishop.jpg" alt="Bishop" width="200px"/>
 
-There are a myriad of them out there, this is the only one I have looked through. If you don't like it, odds are there's another one you will like better with the exact same name (or very close). There is one book I actually read and liked though, it's this one:
+There are a myriad of them out there, this is the only one I have looked through. If you don't like it, odds are there's another one you will like better with the exact same name (or very close). There is another chemistry book I actually read and liked:
 
 **[Linearity, Symmetry, and Prediction in the Hydrogen Atom](https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)**, *Stephanie Frank Singer*
 
@@ -1531,26 +1531,7 @@ Singer introduces everything she will need to present the symmetry group of the 
 
 # Part III: Possible tracks
 
-In this last part, I would like to describe a few possible tracks someone could take through the many, many topics discussed above. After all, there are many different possible choices and it can lead to decision paralysis. Of course, you are free to create your own, just make sure you have all the prerequisites to the courses you are interested in doing. Usually, I would be studying two topics at the same time, but you are free to do something different.
-
-First of all, there is a core track that I will assume you have done before moving on. The books listed here can be changed for other books in the same category, it is just the list I would personally follow to learn these subjects, assuming I don't already know them. Here is what the core sequence consists of:
-
-**Core Sequence**:
-
-1. Precalculus Mathematics in a Nutshell
-2. APEX Calculus
-3. Book of Proof
-4. Linear Algebra Done Wrong
-5. Understanding Analysis
-6. Discrete Mathematics and Its Applications
-7. Elementary Number Theory
-8. Differential Equations with Applications and Historical Notes
-9. Differential Geometry of Curves and Surfaces (Tapp)
-10. Abstract Algebra: Theory and Applications
-11. Introduction to Topology (ch.1 on Metric Spaces)
-12. Topoology (ch.1-7) 
-
-This is what I will call the core sequence and you are assumed to have taken all of these. The tracks below builds from there into graduate-level topics.
+In this third part, I would like to describe a few possible tracks someone could take through the many, many topics discussed above. After all, there are many different possible choices and it can lead to decision paralysis. Of course, you are free to create your own, just make sure you have all the prerequisites to the courses you are interested in doing. Usually, I would be studying two topics at the same time, but you are free to do something different. It is assumed that you have finished the core undergraduate sequence in part I.
 
 ## Generalist track
 
@@ -1560,14 +1541,12 @@ Assuming you have no particular interest in any specific subfield of mathematics
 2. Commutative Algebra
 3. Complex Analysis
 4. Smooth Manifolds
-5. Measure Theory
+5. Measure Theory (w/ Probability)
 6. Algebraic Topology
 7. Functional Analysis
 8. Classical Algebraic Geometry
-9. Lie Groups
-10. Algebraic Number Theory
-
-For the Lie groups course, I would do Hall because it covers both Lie groups and Lie algebras.
+9. Graph theory
+10. Statistics
 
 ## Analyst track
 
@@ -1594,9 +1573,9 @@ This is the track for people mostly interested in algebra.
 2. Category Theory
 3. Commutative Algebra
 4. Homological Algebra
-5. Representation Theory
+5. Elliptic Curves
 6. Algebraic Topology
-7. Elliptic Curves
+7. Representation Theory
 8. Algebraic Number Theory
 9. Classical Algebraic Geometry
 10. Modern Algebraic Geometry
@@ -1608,15 +1587,15 @@ This track focuses on everything geometry.
 1. Smooth Manifolds
 2. Riemannian Geometry
 3. Algebraic Topology
-4. Partial Differential Equations
-5. Lie Groups
-6. Dynamical Systems
-7. Symplectic and Contact Geometry
-8. Classical Mechanics
+4. Lie Groups
+5. Dynamical Systems
+6. Partial Differential Equations
+7. Classical Mechanics
+8. Symplectic and Contact Geometry
 9. Relativity
 10. Geometry, Topology and Physics
 
-The last recommendation is literally the book named like this. For Algebraic Topology, I would study it with Bott & Tu's book.
+The final course is the book named Geometry, Topology and Physics. For algebraic topology, I would use Bott & Tu's book.
 
 ## Algebraic Geometer track
 
@@ -1642,10 +1621,10 @@ This track focuses on number theory:
 3. Commutative Algebra
 4. Elliptic Curves
 5. Algebraic Number Theory
-6. *p*-adic Methods
-7. Modular Forms
-8. Classical Algebraic Geometry
-9. Modern Algebraic Geometry
+6. Classical Algebraic Geometry
+7. Modern Algebraic Geometry
+8. *p*-adic Methods
+9. Modular Forms
 10. Arithmetic Geometry
 
 You could also swap out the algebraic geometry spots with something else.
@@ -1665,22 +1644,20 @@ This track emphasizes physics:
 9. Gauge Theory
 10. Quantum Field Theory
 
-For Functional Analysis, try Kreyszig.
-
 ## Computer scientist track
 
 This track discusses courses that might be useful to a computer scientist:
 
 1. Graph Theory
-2. Fourier Analysis
-3. Category Theory
-4. Numerical Analysis
+2. Numerical Analysis
+3. Coding Theory
+4. Type Theory
 5. Cryptography
 6. Post-Quantum Cryptography
-7. Coding Theory
-8. Type Theory
-9. Statistics
-10. Game Theory
+7. Statistics
+8. Game Theory
+9. Fourier Analysis
+10. Category Theory
 
 If you're doing this track, read Concrete Mathematics instead of Rosen in the core sequence.
 
