@@ -91,7 +91,7 @@ Learning how to learn is very important and something that is rarely discussed o
 
 The book [Good Habits, Bad Habits](https://www.amazon.com/Good-Habits-Bad-Science-Positive/dp/1250159075) is a great way to learn about creating habits. I suggest you make learning mathematics a part of your daily routine, if you're serious about learning it. Another good idea would be to read this:
 
-**[How to Think Like a Mathematician](https://www.amazon.com/How-Think-Like-Mathematician-Undergraduate/dp/052171978X/)**, *Steve Houston*
+**[How to Think Like a Mathematician](https://www.amazon.com/How-Think-Like-Mathematician-Undergraduate/dp/052171978X/)**, *Kevin Houston*
 
 <img src="/learn-mathematics/img/houston.jpg" alt="Houston" width="200px"/>
 
