@@ -1351,7 +1351,7 @@ I am not sure how to classify this amazing book, as most of it is actually about
 
 #### Quantum Field Theory
 
-Quantum field theory (usually called QFT) is what happens when you try to quantize fields (such as the electromagnetic field). Unlike quantum mechanics, the mathematics of quantum field theory are... complicated. And also not always defined properly. What does it mean to take an integral over all possible paths? What is the measure? I'm not sure. Either way, it's very interesting. I learned of the theory by reading a cute little book:
+Quantum field theory (usually called QFT) is what happens when you try to quantize fields (such as the electromagnetic field). Unlike quantum mechanics, the mathematics of quantum field theory is... complicated. And also not always defined properly. What does it mean to take an integral over all possible paths? What is the measure? I'm not sure. Either way, it's very interesting. I learned of the theory by reading a cute little book:
 
 **[Frobenius Algebras and 2D Topological Quantum Field Theory](https://www.amazon.com/Frobenius-Algebras-Topological-Theories-Mathematical-ebook/dp/B000SMDWFA/)**, *Joachim Kock*
 
